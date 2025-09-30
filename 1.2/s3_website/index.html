@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ad Soyad — CV</title>
+  <meta name="description" content="Kısa profesyonel özgeçmiş — Ad Soyad" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    /* ====== Temel stil ====== */
+    :root{
+      --bg: #0f141b;
+      --card: #121922;
+      --text: #e6edf3;
+      --muted:#94a3b8;
+      --primary:#60a5fa;
+      --chip:#1f2937;
+      --border:#223043;
+      --link:#93c5fd;
+      --accent:#22d3ee;
+      --shadow: 0 6px 24px rgba(0,0,0,.25);
+      --radius: 16px;
+      --pad: 18px;
+      --maxw: 980px;
+    }
+    @media (prefers-color-scheme: light){
+      :root{
+        --bg:#f6f7fb; --card:#ffffff; --text:#0b1220; --muted:#475569;
+        --primary:#2563eb; --chip:#eef2ff; --border:#e5e7eb; --link:#1d4ed8; --accent:#06b6d4;
+        --shadow: 0 6px 24px rgba(10, 31, 68, .08);
+      }
+    }
+    html,body{height:100%}
+    body{
+      margin:0; font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+      background: radial-gradient(1200px 600px at 80% -10%, rgba(96,165,250,.25), transparent 60%),
+                  radial-gradient(800px 400px at -10% 10%, rgba(34,211,238,.22), transparent 50%),
+                  var(--bg);
+      color:var(--text);
+      -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;
+    }
+    a{color:var(--link); text-decoration: none}
+    a:hover{text-decoration: underline}
+    .wrap{max-width:var(--maxw); margin:40px auto; padding:0 20px}
+    header{
+      background:linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,0));
+      border:1px solid var(--border);
+      box-shadow:var(--shadow);
+      border-radius:var(--radius);
+      padding: clamp(16px, 2.8vw, 28px);
+      display:grid; grid-template-columns: 96px 1fr; gap:18px; align-items:center;
+    }
+    .avatar{
+      width:96px;height:96px;border-radius:18px; background:var(--chip);
+      display:grid;place-items:center; color:var(--muted); font-weight:700; letter-spacing:.5px;
+      border:1px solid var(--border);
+    }
+    .headline h1{margin:0;font-size:clamp(22px,3.6vw,32px);line-height:1.1}
+    .headline p{margin:.4rem 0 0; color:var(--muted)}
+    .meta{margin-top:10px; display:flex; flex-wrap:wrap; gap:8px}
+    .chip{
+      padding:6px 10px; border-radius:999px; background:var(--chip); color:var(--text);
+      font-size:13px; border:1px solid var(--border)
+    }
+    nav{
+      display:flex; gap:10px; flex-wrap:wrap; margin:18px 0 0
+    }
+    nav a{
+      padding:8px 12px; border-radius:10px; border:1px solid var(--border);
+      background:var(--card); box-shadow:var(--shadow); font-weight:600; color:var(--text)
+    }
+    main{margin-top:22px; display:grid; grid-template-columns: 1.1fr .9fr; gap:22px}
+    @media (max-width:900px){ main{grid-template-columns:1fr} header{grid-template-columns:72px 1fr} .avatar{width:72px;height:72px}}
+    section{
+      background:var(--card); border:1px solid var(--border); border-radius:var(--radius);
+      padding:var(--pad); box-shadow:var(--shadow)
+    }
+    section h2{
+      margin:0 0 10px; font-size:clamp(16px,2.4vw,18px); letter-spacing:.4px;
+      text-transform:uppercase; color:var(--primary)
+    }
+    .row{display:flex; gap:14px; align-items:baseline; justify-content:space-between}
+    .when{color:var(--muted); font-size:13px; white-space:nowrap}
+    .item{border-top:1px dashed var(--border); padding:12px 0}
+    .item:first-child{border-top:0; padding-top:0}
+    .role{margin:0 0 4px; font-weight:600}
+    .company{color:var(--muted); font-size:14px}
+    ul{margin:.4rem 0 .2rem 1.2rem}
+    li{margin:.28rem 0}
+    .grid{display:grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap:10px}
+    @media (max-width:600px){ .grid{grid-template-columns:1fr} }
+    .skill{padding:10px 12px; border-radius:12px; border:1px solid var(--border); background:var(--chip)}
+    .progress{height:7px; border-radius:999px; background:rgba(148,163,184,.25); overflow:hidden; margin-top:8px}
+    .bar{height:100%; width:70%; background: linear-gradient(90deg, var(--accent), var(--primary))}
+    .contact a{display:inline-block; margin-right:12px}
+    footer{margin:16px 0; text-align:center; color:var(--muted); font-size:13px}
+    /* Yazdırma/PDF */
+    @media print{
+      body{background:#fff}
+      header,section{box-shadow:none}
+      a{color:inherit; text-decoration:none}
+      nav{display:none}
+      .wrap{margin:0; max-width:100%; padding:0}
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <!-- Profil görselin yoksa baş harflerini bırak. İstersen <img src="foto.jpg" class="avatar" alt="Ad Soyad"> kullan. -->
+      <div class="avatar">AD</div>
+      <div class="headline">
+        <h1>Ad Soyad</h1>
+        <p>Pozisyon / Uzmanlık Alanı — Kısa bir cümleyle kendini özetle.</p>
+        <div class="meta">
+          <span class="chip">Şehir, Ülke</span>
+          <span class="chip">Çalışma modeli: Hybrid</span>
+          <span class="chip">Deneyim: 6+ yıl</span>
+        </div>
+        <nav>
+          <a href="#ozet">Özet</a>
+          <a href="#deneyim">Deneyim</a>
+          <a href="#projeler">Projeler</a>
+          <a href="#egitim">Eğitim</a>
+          <a href="#iletisim">İletişim</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section id="ozet">
+        <h2>Özet</h2>
+        <p>
+          Sonuç odaklı <strong>Yazılım Mühendisi</strong>. Ölçeklenebilir web uygulamaları,
+          bulut mimarileri ve performans optimizasyonu konularında uzman.
+          Temiz kod, test ve dokümantasyona önem verir.
+        </p>
+        <div class="grid" style="margin-top:10px">
+          <div class="skill">
+            <div><strong>Diller</strong>: Java, TypeScript, Python</div>
+            <div class="progress"><div class="bar" style="width:85%"></div></div>
+          </div>
+          <div class="skill">
+            <div><strong>Çerçeveler</strong>: Spring Boot, React, FastAPI</div>
+            <div class="progress"><div class="bar" style="width:80%"></div></div>
+          </div>
+          <div class="skill">
+            <div><strong>Bulut/DevOps</strong>: AWS, Docker, CI/CD</div>
+            <div class="progress"><div class="bar" style="width:75%"></div></div>
+          </div>
+          <div class="skill">
+            <div><strong>Veri</strong>: PostgreSQL, ClickHouse</div>
+            <div class="progress"><div class="bar" style="width:70%"></div></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="deneyim">
+        <h2>Deneyim</h2>
+
+        <div class="item">
+          <div class="row">
+            <p class="role">Kıdemli Yazılım Mühendisi — <span class="company">Şirket Adı</span></p>
+            <span class="when">2023 — Güncel</span>
+          </div>
+          <ul>
+            <li>Mikroservis tabanlı bir sistemi tasarlayıp devreye aldım; aylık 10M+ isteği karşılıyor.</li>
+            <li>AWS üzerinde CI/CD ve gözlemlenebilirlik (logs/metrics/traces) kurdum.</li>
+            <li>Uygulama performansında %35 iyileşme sağladım.</li>
+          </ul>
+        </div>
+
+        <div class="item">
+          <div class="row">
+            <p class="role">Yazılım Geliştirici — <span class="company">Başka Şirket</span></p>
+            <span class="when">2020 — 2023</span>
+          </div>
+          <ul>
+            <li>React + Spring Boot ile yönetim panelleri geliştirdim.</li>
+            <li>Test otomasyonunu yaygınlaştırarak hata oranını azalttım.</li>
+          </ul>
+        </div>
+      </section>
+
+      <section id="projeler">
+        <h2>Projeler</h2>
+        <div class="item">
+          <div class="row">
+            <p class="role">Proje Adı — <span class="company">Açık kaynak / Ticari</span></p>
+            <span class="when">2024</span>
+          </div>
+          <p>Kısa açıklama: hangi problemi çözdüğü, teknolojiler, linkler.</p>
+          <ul>
+            <li><strong>Tech</strong>: Next.js, Tailwind, PostgreSQL</li>
+            <li><a href="#" target="_blank" rel="noopener">Canlı Demo</a> • <a href="#" target="_blank" rel="noopener">Kaynak Kodu</a></li>
+          </ul>
+        </div>
+        <div class="item">
+          <div class="row">
+            <p class="role">Başka Proje</p>
+            <span class="when">2023</span>
+          </div>
+          <p>Kısa açıklama ekleyin. Ölçülebilir sonuç yazmaya çalışın (örn. “soğuk başlangıcı %40 azalttı”).</p>
+        </div>
+      </section>
+
+      <section id="egitim">
+        <h2>Eğitim</h2>
+        <div class="item">
+          <div class="row">
+            <p class="role">Üniversite Adı — <span class="company">Bölüm</span></p>
+            <span class="when">2015 — 2019</span>
+          </div>
+          <p>Notlar: Burs, onur derecesi, ilgili dersler.</p>
+        </div>
+        <div class="item">
+          <div class="row">
+            <p class="role">Sertifikalar</p>
+            <span class="when">Seçmeli</span>
+          </div>
+          <ul>
+            <li>AWS Certified Solutions Architect — Associate</li>
+            <li>Google Data Analytics Professional Certificate</li>
+          </ul>
+        </div>
+      </section>
+
+      <section id="iletisim" class="contact">
+        <h2>İletişim</h2>
+        <p>
+          <a href="mailto:ad.soyad@mail.com">ad.soyad@mail.com</a>
+          <a href="tel:+90XXXXXXXXXX">+90 XXX XXX XX XX</a>
+          <a href="https://linkedin.com/in/kullanici" target="_blank" rel="noopener">LinkedIn</a>
+          <a href="https://github.com/kullanici" target="_blank" rel="noopener">GitHub</a>
+          <a href="#" onclick="window.print();return false;">PDF Olarak Yazdır</a>
+        </p>
+        <p style="color:var(--muted); font-size:14px; margin-top:8px">
+          • E-posta ve telefon bağlantıları tıklanabilir • Yazdır düğmesiyle PDF oluşturabilirsiniz
+        </p>
+      </section>
+    </main>
+
+    <footer>
+      © <span id="yil"></span> Ad Soyad — CV
+    </footer>
+  </div>
+
+  <script>
+    // Yılı otomatik yaz
+    document.getElementById('yil').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
