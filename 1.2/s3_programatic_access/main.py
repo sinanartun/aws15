@@ -22,4 +22,3 @@ response = client.put_object(
     ServerSideEncryption='AES256',
     StorageClass='STANDARD_IA',
 )
-confirm
