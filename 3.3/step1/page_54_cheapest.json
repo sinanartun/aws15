@@ -1,0 +1,4021 @@
+{
+  "cars": [
+    {
+      "dealId": "1002537314",
+      "link": "https://www.blocket.se/annons/1002537314",
+      "listTime": "2025-04-10T14:00:19+02:00",
+      "originalListTime": "2025-04-10T14:00:19+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Bilomatic Bil AB",
+        "id": "13539"
+      },
+      "heading": "Citroën C4 PT130 AUT MAX FACELIFT NYA MODELLEN OMG LEV",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002537314/1527341235.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002537314/1527341235.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002537314/1567584297.webp"
+          },
+          {
+            "height": 2250,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002537314/1535830427.webp"
+          },
+          {
+            "height": 2250,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002537314/1185205246.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002537314/1118492432.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002537314/4137378189.webp"
+          },
+          {
+            "height": 2250,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002537314/1409323861.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002537314/3379274253.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002537314/1516016633.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002537314/2528869931.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002537314/3915666922.webp"
+          },
+          {
+            "height": 2250,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002537314/3090626607.webp"
+          },
+          {
+            "height": 2250,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002537314/3874288316.webp"
+          }
+        ],
+        "location": {
+          "region": "Uppsala",
+          "municipality": "Uppsala",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Android Auto"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Apple CarPlay"
+          },
+          {
+            "label": "Autobroms"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Bluetooth (handsfree)"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Digitalradio (DAB)"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Elinfällbara sidospeglar"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "Euro 6"
+          },
+          {
+            "label": "Fartbegränsare"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Körfilsassistans"
+          },
+          {
+            "label": "LED Strålkastare"
+          },
+          {
+            "label": "Ljussensor"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Mattor (textil)"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Nödsamtal"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "Touch-/Pekskärm"
+          },
+          {
+            "label": "Trötthetsvarnare"
+          },
+          {
+            "label": "USB-uttag"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "PRIVATLEASINGKAMPANJ! 36MÅN/3000MIL, INGEN FÖRSTA BETALNING! OMGÅENDE LEVERANS! NYA MODELLEN! SERVICE INGÅR! KÖP TILL EV EXTRAMIL! EV METALLICLACK TILLKOMMER! 10tum Pekskärm med Mirror Screen (Apple CarPlay™); 7tum Digital förardisplay; Automatiska\nvindrutetorkare; Automatiskt helljus; Backkamera 180 grader; Bluetooth handsfree & audio streaming;\nCitroën Connected 3D Navigation; Däckreparationskit; Elektriska fönsterhissar fram och bak;\nFilhållningsassistent; Fjädring Progressive Hydraulic Cushions; Hill start assist; Nyckelfritt lås &\nstartsystem; Parkeringssensorer bak; Parkeringssensorer fram; Surround Sound;\nFunktion\n18tum Aluminiumfälg amber högblank; Infällbara ytterbackspeglar; LED Dimljus fram; LEDstrålkastare;\nMörktonade bakre rutor;\nExteriör\n8 Airbags Säkerhet (fram, gardiner); Aktiv säkerhetsbroms; Utökad säkerhetsbroms med radar;\nAutomatisk klimatanläggning; Automatiskt avbländande innerbackspegel; Citroën Advanced Comfort\nstolar; Delbart baksäte 2/3-1/3; Elektriskt uppvärmd ratt & framruta; Justerbart förar- &\npassagerarsäten; Justerbart svankstöd förarstol; Läderklädd ratt; Metropolitan grå\nhalvkonstläderklädsel;"
+    },
+    {
+      "dealId": "1001686515",
+      "link": "https://www.blocket.se/annons/1001686515",
+      "listTime": "2024-08-21T09:36:22+02:00",
+      "originalListTime": "2024-08-09T15:22:50+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Frölunda",
+        "id": "33767"
+      },
+      "heading": "Peugeot 2008 GT PureTech 130hk Aut - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1001686515/3985299012.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686515/3985299012.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686515/0777605546.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686515/0100350541.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686515/4089573758.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686515/1536067223.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686515/1881688047.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686515/0309704763.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686515/2209629112.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686515/1845304197.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686515/0917129423.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686515/3988209589.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686515/4039130830.webp"
+          }
+        ],
+        "location": {
+          "region": "Göteborg",
+          "municipality": "Göteborgs stad",
+          "area": "Västra Göteborg"
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Elinfällbara sidospeglar"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.63 l/mil vid blandad körning samt släpper ut 139g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1001686349",
+      "link": "https://www.blocket.se/annons/1001686349",
+      "listTime": "2024-08-21T09:35:34+02:00",
+      "originalListTime": "2024-08-09T15:02:40+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Väsby",
+        "id": "13343"
+      },
+      "heading": "Peugeot 2008 GT PureTech 130hk Aut - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1001686349/1850909782.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686349/1850909782.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686349/1993825873.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686349/2201297932.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686349/0321248699.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686349/3910721640.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686349/1133961734.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686349/3401529080.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686349/1501994749.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686349/1016548122.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686349/1168578584.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686349/3631564585.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686349/0213126854.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Upplands Väsby",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Elinfällbara sidospeglar"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.63 l/mil vid blandad körning samt släpper ut 139g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1002730266",
+      "link": "https://www.blocket.se/annons/1002730266",
+      "listTime": "2025-09-18T16:13:11+02:00",
+      "originalListTime": "2025-06-10T15:38:27+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Haninge",
+        "id": "13591"
+      },
+      "heading": "Peugeot 2008 GT PureTech 130hk Aut - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002730266/2582678721.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002730266/2582678721.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002730266/2486681000.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002730266/1646153139.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002730266/4217817294.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002730266/0632668578.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002730266/2912536465.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002730266/2023595866.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002730266/3090075409.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002730266/0228367882.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002730266/1951092239.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002730266/1734417986.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002730266/2248099157.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Haninge",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Elinfällbara sidospeglar"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.63 l/mil vid blandad körning samt släpper ut 139g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1002078599",
+      "link": "https://www.blocket.se/annons/1002078599",
+      "listTime": "2025-10-10T11:50:15+02:00",
+      "originalListTime": "2024-11-18T17:21:21+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Bilkompani Karlskrona",
+        "id": "14097"
+      },
+      "heading": "Peugeot 2008 GT Privatleasing 3399kr/mån inkl serviceavtal",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002078599/3746956549.webp",
+      "car": {
+        "images": [
+          {
+            "height": 576,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002078599/3746956549.webp"
+          },
+          {
+            "height": 1535,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002078599/3085858502.webp"
+          }
+        ],
+        "location": {
+          "region": "Blekinge",
+          "municipality": "Karlskrona",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Android Auto"
+          },
+          {
+            "label": "Helljusassistans"
+          },
+          {
+            "label": "Kurvljus"
+          },
+          {
+            "label": "Antispinn"
+          },
+          {
+            "label": "Keyless Nyckelfri Start"
+          },
+          {
+            "label": "360° kamera"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Autobroms"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Digital hastighetsmätare"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Klädsel (tyg)"
+          },
+          {
+            "label": "Euro 6"
+          },
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Lättmetallfälgar"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Peugeot 2008 GT \n36 Månaders avtal\nMånadspriset är inklusive service och garanti.\nBilen på bilden kan vara extrautrustad."
+    },
+    {
+      "dealId": "1001686335",
+      "link": "https://www.blocket.se/annons/1001686335",
+      "listTime": "2025-07-01T22:27:33+02:00",
+      "originalListTime": "2024-08-09T15:01:28+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Täby",
+        "id": "32285"
+      },
+      "heading": "Peugeot 2008 GT PureTech 130hk Aut - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1001686335/1869370956.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686335/1869370956.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686335/1010932361.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686335/1845479516.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686335/0921692620.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686335/1234310355.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686335/1629443185.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686335/0943257892.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686335/3436972085.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686335/0105998767.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686335/1858666334.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686335/2157402162.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686335/1905136583.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Täby",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Elinfällbara sidospeglar"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.63 l/mil vid blandad körning samt släpper ut 139g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1001232678",
+      "link": "https://www.blocket.se/annons/1001232678",
+      "listTime": "2025-09-28T19:01:05+02:00",
+      "originalListTime": "2024-04-08T10:22:32+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Fribrocks Bil Skåne AB",
+        "id": "34442"
+      },
+      "heading": "Peugeot 2008 GT PureTech 130 AUT Privatleasing 36 Mån",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1001232678/1241259645.webp",
+      "car": {
+        "images": [
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/1241259645.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/1352243719.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/2901865850.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/0733222414.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/4033993037.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/1960403026.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/3131477173.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/0912963898.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/1814675500.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/3315221070.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/3487804944.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/1824101861.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/4257284646.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/1955602683.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/2915956566.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/0279315352.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/1980057198.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/3410679577.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/0198198429.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/0130165874.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/2610958315.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/0916611645.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/1284570942.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/2963253042.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001232678/0882598021.webp"
+          }
+        ],
+        "location": {
+          "region": "Skåne",
+          "municipality": "Kristianstad",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": null
+      },
+      "dcb": false,
+      "description": "Vid privatleasing ingår 1000 Mil/år och serviceavtal.\n\nActive Safety Brake (autobroms) & kollisionsvarnare; Airbags: fram, sida & gardin\nfram och bak; ESP och ABS-bromsar; Aktiv filhållningsassistent; Helljusassistent; Isofixfästen\nytterplatser bak; Peugeot SOS & Assistance; Elektriskt justerbar förarstol; Massage i förarstol; 10tum pekskärm; 3D-instrument; Navigation; Apple CarPlay; Automatiskt avbländbar backspegel; Elinfällbara sidospeglar; Parkeringskamera fram & bak; Digitalradio; Elfönsterhissar fram & bak; Highway Assist; Klimatanläggning; Regnsensor; Nyckelfritt lås- och startsystem; Parkeringsradar fram & bak; Skyltavläsning (hastighet, förbudsskyltar);\nAlcantara/halvläderklädsel; Dekorbelysning i åtta färger; Mittarmstöd fram; Mörkt\ninnertak; Stolsvärme fram; 17 tum alufälg Karakoy; Elinfällbara sidospeglar; Full-LED-strålkastare;"
+    },
+    {
+      "dealId": "1002255890",
+      "link": "https://www.blocket.se/annons/1002255890",
+      "listTime": "2025-01-18T11:16:01+01:00",
+      "originalListTime": "2025-01-18T11:16:01+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Fribrocks Bil Jönköping",
+        "id": "101148"
+      },
+      "heading": "Citroën C3 Aircross Hybrid Privatleasingkampanj från 3399kr/",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002255890/3915998917.webp",
+      "car": {
+        "images": [
+          {
+            "height": 801,
+            "width": 1500,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002255890/3915998917.webp"
+          }
+        ],
+        "location": {
+          "region": "Jönköping",
+          "municipality": "Jönköping",
+          "area": ""
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Touch-/Pekskärm"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "LED Strålkastare"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Signallampa i sidospeglar"
+          },
+          {
+            "label": "Trötthetsvarnare"
+          },
+          {
+            "label": "Rails"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Mattor (gummi)"
+          },
+          {
+            "label": "Apple CarPlay"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Airbag bak"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Start-/stoppfunktion"
+          },
+          {
+            "label": "Plant lastutrymme"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Centrallås"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Bluetooth (handsfree)"
+          },
+          {
+            "label": "Digitalradio (DAB)"
+          },
+          {
+            "label": "Fartbegränsare"
+          },
+          {
+            "label": "Tonade rutor"
+          },
+          {
+            "label": "Euro 6"
+          },
+          {
+            "label": "Handbroms (elektronisk)"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Android Auto"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Autobroms"
+          },
+          {
+            "label": "Skyltigenkänning"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Helljusassistans"
+          },
+          {
+            "label": "USB-uttag"
+          },
+          {
+            "label": "Insynsskydd"
+          },
+          {
+            "label": "Nödsamtal"
+          },
+          {
+            "label": "Röststyrning"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "Sminkspegel"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Privatleasa helt nya Citroen C3 AirCross Hybrid från endast 3399kr/mån ink serviceavtal och 1000 mil/år.\n\nVarmt välkomna till oss på Fribrocks Bil Jönköping. Vasavägen 4, 55454 Jönköping.\n\nBilförsäljning Telefon: 036-30 49 30 Mail: salj502@fribrocksbil.se"
+    },
+    {
+      "dealId": "1002133605",
+      "link": "https://www.blocket.se/annons/1002133605",
+      "listTime": "2025-06-17T15:41:11+02:00",
+      "originalListTime": "2024-12-04T11:50:13+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Vällingby",
+        "id": "32741"
+      },
+      "heading": "Opel Mokka Ultimate P130 Aut - PRIVATLEASING FRÅN 24 MÅNADER",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002133605/3293209368.webp",
+      "car": {
+        "images": [
+          {
+            "height": 767,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002133605/3293209368.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Stockholms stad",
+          "area": "Kista, Hässelby, Vällingby, Spånga"
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2024,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Android Auto"
+          },
+          {
+            "label": "Apple CarPlay"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "USB-uttag"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", OBS! 24 eller 36 månader samt 1000 mil per år. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.44 l/mil vid blandad körning samt släpper ut 110g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1002797691",
+      "link": "https://www.blocket.se/annons/1002797691",
+      "listTime": "2025-10-02T16:30:49+02:00",
+      "originalListTime": "2025-07-01T21:58:11+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Lund",
+        "id": "101615"
+      },
+      "heading": "Peugeot 2008 GT PureTech 130hk Aut - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002797691/1677818572.webp",
+      "car": {
+        "images": [
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002797691/1677818572.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002797691/0895170164.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002797691/2549737471.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002797691/2108492377.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002797691/2696696037.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002797691/3778724664.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002797691/4131834537.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002797691/3989728785.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002797691/3339479226.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002797691/1733915016.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002797691/2657333014.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002797691/1230101464.webp"
+          }
+        ],
+        "location": {
+          "region": "Skåne",
+          "municipality": "Lund",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Elinfällbara sidospeglar"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.63 l/mil vid blandad körning samt släpper ut 139g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1001686340",
+      "link": "https://www.blocket.se/annons/1001686340",
+      "listTime": "2024-08-21T09:36:12+02:00",
+      "originalListTime": "2024-08-09T15:01:40+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Vällingby",
+        "id": "32741"
+      },
+      "heading": "Peugeot 2008 GT PureTech 130hk Aut - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1001686340/3448246263.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686340/3448246263.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686340/0733165186.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686340/0794355719.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686340/0144362854.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686340/2131801374.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686340/1835747242.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686340/2378906619.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686340/3985368522.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686340/1460968110.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686340/1713902766.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686340/4260079143.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686340/1667607779.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Stockholms stad",
+          "area": "Kista, Hässelby, Vällingby, Spånga"
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Elinfällbara sidospeglar"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.63 l/mil vid blandad körning samt släpper ut 139g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1001686330",
+      "link": "https://www.blocket.se/annons/1001686330",
+      "listTime": "2025-07-01T22:26:37+02:00",
+      "originalListTime": "2024-08-09T15:00:57+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Tagene",
+        "id": "33769"
+      },
+      "heading": "Peugeot 2008 GT PureTech 130hk Aut - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1001686330/4008337664.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686330/4008337664.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686330/0512491647.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686330/0418121088.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686330/2564287528.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686330/2037431662.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686330/3321715237.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686330/2642654019.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686330/1816871000.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686330/3166333960.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686330/4064226773.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686330/0458588825.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001686330/0731708649.webp"
+          }
+        ],
+        "location": {
+          "region": "Göteborg",
+          "municipality": "Göteborgs stad",
+          "area": "Hisingen"
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Elinfällbara sidospeglar"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.63 l/mil vid blandad körning samt släpper ut 139g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1003027036",
+      "link": "https://www.blocket.se/annons/1003027036",
+      "listTime": "2025-09-15T12:35:18+02:00",
+      "originalListTime": "2025-09-15T12:35:18+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Lidköpings Biltjänst AB",
+        "id": "35841"
+      },
+      "heading": "Peugeot 2008 GT 130HK AUT | 2025 | 360KAMERA | Fullutrustad",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1003027036/3289121789.webp",
+      "car": {
+        "images": [
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003027036/3289121789.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003027036/3917699922.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003027036/3939443471.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003027036/2231727086.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003027036/1340389816.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003027036/2661154293.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003027036/1856094066.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003027036/3590467575.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003027036/0959260024.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003027036/2457740217.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003027036/3316076099.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003027036/0526616983.webp"
+          }
+        ],
+        "location": {
+          "region": "Skaraborg",
+          "municipality": "Lidköping",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": null
+      },
+      "dcb": false,
+      "description": "Nu i lager  Peugeot 2008 GT 130HK för omg leverans \nHelt ny bil för omg leverans med GT-Paket : Sportig design & högsta utrustningsnivå\n\n* 3D i-Cockpit med digital instrumentpanel\n \n* Adaptiv farthållare\n \n* Filhållningsassistans & autobroms\n \n* Parkeringssensorer fram/bak + backkamera m 360 vy\n \n* Keyless start & entry\n \n* Apple CarPlay / Android Auto\n \n* LED-strålkastare\n \n\nPrivatleasing från endast 3399:- Fast månads kostnad. \nBränsleeffektiv 130HK bensinmotor  perfekt för både stad och landsväg.\n\nRing Henrik 0510-426031 alt maila henrik@biltjanst.se"
+    },
+    {
+      "dealId": "1003100408",
+      "link": "https://www.blocket.se/annons/1003100408",
+      "listTime": "2025-10-10T18:57:19+02:00",
+      "originalListTime": "2025-10-07T12:22:51+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Dala Bilgalleri",
+        "id": "36026"
+      },
+      "heading": "Peugeot 2008 GT 1.2 PureTech 130 EAT Privatleasing",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1003100408/2557606116.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/2557606116.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/3431678132.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/0386534105.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/4231938224.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/1982442300.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/2103928956.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/0535887023.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/2747282682.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/0824860314.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/1908366235.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/3265137557.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/0201658054.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/2948964853.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/0612187497.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/4079500644.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/3286480798.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/1593113446.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/0210104168.webp"
+          },
+          {
+            "height": 1512,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100408/0533934468.webp"
+          }
+        ],
+        "location": {
+          "region": "Dalarna",
+          "municipality": "Borlänge",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Digitalradio (DAB)"
+          },
+          {
+            "label": "Klädsel (alcantara)"
+          },
+          {
+            "label": "Fartbegränsare"
+          },
+          {
+            "label": "LED Strålkastare"
+          },
+          {
+            "label": "Helljusassistans"
+          },
+          {
+            "label": "Tonade rutor"
+          },
+          {
+            "label": "Skyltigenkänning"
+          },
+          {
+            "label": "Trötthetsvarnare"
+          },
+          {
+            "label": "Backstartshjälp"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Elinfällbara sidospeglar"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Start-/stoppfunktion"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "USB-uttag"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Lagerbil för snabb leverans!\nPrivatleasing 36 mån 1000mil/år inkl service 3399kr/mån.\nVälj till mer mil, vinterhjul och försäkring.\nKontakta oss för mer info!\n\nDala Bilgalleri har Dalarnas bredaste utbud av nya bilar. Oavsett om du letar efter en elbil, plug-in hybrid, full hybrid, bensin, diesel, transportbil eller pick-up så finns det hos oss! Vi har även ett brett utbud av begagnade bilar! Så går du i bilbytartankar så är vi ditt självklara val!\nVälkommen till oss på Singelgatan 5 i Borlänge!"
+    },
+    {
+      "dealId": "1002550452",
+      "link": "https://www.blocket.se/annons/1002550452",
+      "listTime": "2025-08-25T17:37:24+02:00",
+      "originalListTime": "2025-04-14T22:31:55+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Lidköpings Biltjänst AB",
+        "id": "35841"
+      },
+      "heading": "Peugeot 2008 GT 3399.- PRIVATLEASING INK SERVICE",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002550452/4231944858.webp",
+      "car": {
+        "images": [
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/4231944858.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/3813602991.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/0697582528.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/3947707425.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/2926489462.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/1917656461.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/1333705113.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/2109461722.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/1008282085.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/0098527425.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/2801028359.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/1265315505.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/3645184093.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/3736555408.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/3903070046.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/3914418874.webp"
+          },
+          {
+            "height": 780,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002550452/0551329613.webp"
+          }
+        ],
+        "location": {
+          "region": "Skaraborg",
+          "municipality": "Lidköping",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 1,
+        "equipment": null
+      },
+      "dcb": false,
+      "description": "OTROLIGT PRISVÄRD KAMPANJ JUST NU PÅ PEUGEOT 2008 GT AUTOMAT - FULLUTRUSTAD MED ALLT DU BEHÖVER\n\nFRÅN 3399.- INK SERVICE SAMT FAST RÄNTA\n\nINGEN KONTANT INSAT S\nINKOMMANDE BILAR I OLIKA FÄRGER - VAR SNABB SÅ KAN DU VÄLJA FÄRG!\n\nRING SHAMSUD 0510-426416 ALT SHAMSUD@BILTJANST.SE"
+    },
+    {
+      "dealId": "1002411281",
+      "link": "https://www.blocket.se/annons/1002411281",
+      "listTime": "2025-03-05T16:03:57+01:00",
+      "originalListTime": "2025-03-05T16:03:57+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Haninge",
+        "id": "13591"
+      },
+      "heading": "Opel Corsa GS P130 AT8 - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002411281/1165285799.webp",
+      "car": {
+        "images": [
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411281/1165285799.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Haninge",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Avbländande backspegel"
+          },
+          {
+            "label": "Rattvärme"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.57 l/mil vid blandad körning samt släpper ut 127g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1002411124",
+      "link": "https://www.blocket.se/annons/1002411124",
+      "listTime": "2025-03-05T15:50:05+01:00",
+      "originalListTime": "2025-03-05T15:50:05+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Täby",
+        "id": "32285"
+      },
+      "heading": "Opel Corsa GS P130 AT8 - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002411124/1447134671.webp",
+      "car": {
+        "images": [
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411124/1447134671.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Täby",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Avbländande backspegel"
+          },
+          {
+            "label": "Rattvärme"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.57 l/mil vid blandad körning samt släpper ut 127g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1002411357",
+      "link": "https://www.blocket.se/annons/1002411357",
+      "listTime": "2025-03-05T16:11:05+01:00",
+      "originalListTime": "2025-03-05T16:11:05+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Väsby",
+        "id": "13343"
+      },
+      "heading": "Opel Corsa GS P130 AT8 - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002411357/2382934174.webp",
+      "car": {
+        "images": [
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411357/2382934174.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Upplands Väsby",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Avbländande backspegel"
+          },
+          {
+            "label": "Rattvärme"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.57 l/mil vid blandad körning samt släpper ut 127g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1002411176",
+      "link": "https://www.blocket.se/annons/1002411176",
+      "listTime": "2025-03-05T15:53:00+01:00",
+      "originalListTime": "2025-03-05T15:53:00+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Tagene",
+        "id": "33769"
+      },
+      "heading": "Opel Corsa GS P130 AT8 - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002411176/3921606554.webp",
+      "car": {
+        "images": [
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411176/3921606554.webp"
+          }
+        ],
+        "location": {
+          "region": "Göteborg",
+          "municipality": "Göteborgs stad",
+          "area": "Hisingen"
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Avbländande backspegel"
+          },
+          {
+            "label": "Rattvärme"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.57 l/mil vid blandad körning samt släpper ut 127g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1002411461",
+      "link": "https://www.blocket.se/annons/1002411461",
+      "listTime": "2025-03-05T16:23:33+01:00",
+      "originalListTime": "2025-03-05T16:23:33+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Aros Auto AB- Västerås",
+        "id": "15199"
+      },
+      "heading": "Peugeot 2008 130 hk GT Automat Privatleasing Från 3399:-",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002411461/2608052255.webp",
+      "car": {
+        "images": [
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/2608052255.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/1261526159.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/2083060119.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/2396280329.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/1460868868.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/2410119840.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/4068735574.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/2296619752.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/3813706156.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/2113562623.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/0430071593.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/3298488668.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/0727821511.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/1467508189.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/2913609310.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/2363404572.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411461/1595571385.webp"
+          }
+        ],
+        "location": {
+          "region": "Västmanland",
+          "municipality": "Västerås",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 1,
+        "equipment": [
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Tonade rutor"
+          },
+          {
+            "label": "Keyless"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Nya 2008 GT 130 Hk AUTOMAT. Välutrustad med bla massagestol förare. Trådlös Carplay. Backkamera fram och bak. Trådlös laddning mobil. Alcantara halvläder klädsel. Black dimond tak. Keyless. 8 olika Ambinent innbelysning. \n\nPrivatleasa välutrustade GT Automat växellåda  från 3399 :-/månad 3000 mil i körsträcka i 36 månader ink serviceavtal.\n\nFörsäkring och vinterhjul tillkommer.\nFärgen Blå Obsession är standard och ingår, övriga färger tillval till en merkostnad. På bilderna visas färgen Vit Okenite. \n\nOBS lånade bilder, bilar finns beställda på väg hem till Sverige, hör av er för att lägga beställning på en av dessa.\n\nVarmt välkomna till oss på Aros Auto i Västerås!"
+    },
+    {
+      "dealId": "1002411269",
+      "link": "https://www.blocket.se/annons/1002411269",
+      "listTime": "2025-03-05T16:03:06+01:00",
+      "originalListTime": "2025-03-05T16:03:06+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Lund",
+        "id": "101615"
+      },
+      "heading": "Opel Corsa GS P130 AT8 - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002411269/2370027805.webp",
+      "car": {
+        "images": [
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411269/2370027805.webp"
+          }
+        ],
+        "location": {
+          "region": "Skåne",
+          "municipality": "Lund",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Avbländande backspegel"
+          },
+          {
+            "label": "Rattvärme"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.57 l/mil vid blandad körning samt släpper ut 127g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1002411214",
+      "link": "https://www.blocket.se/annons/1002411214",
+      "listTime": "2025-03-05T15:57:28+01:00",
+      "originalListTime": "2025-03-05T15:57:28+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Frölunda",
+        "id": "33767"
+      },
+      "heading": "Opel Corsa GS P130 AT8 - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002411214/0414158699.webp",
+      "car": {
+        "images": [
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411214/0414158699.webp"
+          }
+        ],
+        "location": {
+          "region": "Göteborg",
+          "municipality": "Göteborgs stad",
+          "area": "Västra Göteborg"
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Avbländande backspegel"
+          },
+          {
+            "label": "Rattvärme"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.57 l/mil vid blandad körning samt släpper ut 127g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1002411349",
+      "link": "https://www.blocket.se/annons/1002411349",
+      "listTime": "2025-03-05T16:10:41+01:00",
+      "originalListTime": "2025-03-05T16:10:41+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Vällingby",
+        "id": "32741"
+      },
+      "heading": "Opel Corsa GS P130 AT8 - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002411349/2624608695.webp",
+      "car": {
+        "images": [
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002411349/2624608695.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Stockholms stad",
+          "area": "Kista, Hässelby, Vällingby, Spånga"
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Avbländande backspegel"
+          },
+          {
+            "label": "Rattvärme"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.57 l/mil vid blandad körning samt släpper ut 127g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1002832637",
+      "link": "https://www.blocket.se/annons/1002832637",
+      "listTime": "2025-09-01T10:31:50+02:00",
+      "originalListTime": "2025-07-14T10:04:41+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Aros Auto AB- Västerås",
+        "id": "15199"
+      },
+      "heading": "Peugeot 2008 HYBRID Style 145hk Automat Privatleasing 3399:-",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002832637/3676122693.webp",
+      "car": {
+        "images": [
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002832637/3676122693.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002832637/0350433744.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002832637/2251625893.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002832637/2944907775.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002832637/0767157819.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002832637/2232442923.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002832637/3832269708.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002832637/3219472496.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002832637/3553577526.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002832637/2423251105.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002832637/3035487856.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002832637/2829655330.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002832637/0470983912.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002832637/2353732499.webp"
+          }
+        ],
+        "location": {
+          "region": "Västmanland",
+          "municipality": "Västerås",
+          "area": ""
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Parkeringssensorer (bak)"
+          },
+          {
+            "label": "Apple CarPlay"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Privatleasa prisvärda Peugeot 2008 Hybrid med automatisk växellåda, 145 hk motor med hybridteknik och välutrustade EDITION-paketet som bl.a. innehåller 10-tums pekskärm, AC, LED strålkastare och mycket mer. \n\nPrivatleasa 2008 Style Hybrid med Automat växellåda  från 3399 :-/månad 3000 mil i körsträcka i 36 månader ink serviceavtal.\n\nFörsäkring och vinterhjul tillkommer.\nFärgen Vit Okenite är standard och ingår, övriga färger tillval till en merkostnad. På bilderna visas färgen Vit Okenite.\n\nHör av er till oss för att höra mer om tillgång på bilar.\n\nOBS lånade bilder och inte aktuell bil till försäljning.\n\nVarmt välkomna till oss på Aros Auto i Västerås!"
+    },
+    {
+      "dealId": "1002507064",
+      "link": "https://www.blocket.se/annons/1002507064",
+      "listTime": "2025-10-10T11:14:17+02:00",
+      "originalListTime": "2025-04-02T11:21:23+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Deluxe Bil Halland AB",
+        "id": "15133"
+      },
+      "heading": "Peugeot 2008 STYLE Hybrid 145 Aut Privatleasing 3399 kr/mån",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002507064/0309492588.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1407,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002507064/0309492588.webp"
+          },
+          {
+            "height": 1439,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002507064/0887041520.webp"
+          },
+          {
+            "height": 1390,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002507064/2722129295.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002507064/0243502979.webp"
+          },
+          {
+            "height": 1428,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002507064/2949842020.webp"
+          },
+          {
+            "height": 1441,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002507064/0402305705.webp"
+          },
+          {
+            "height": 1401,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002507064/1064984681.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002507064/0417257251.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002507064/1079035507.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002507064/1641455213.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002507064/1166463452.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002507064/1034258493.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002507064/2794027405.webp"
+          }
+        ],
+        "location": {
+          "region": "Halland",
+          "municipality": "Varberg",
+          "area": ""
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": null
+      },
+      "dcb": false,
+      "description": "Privatleasa Peugeot 2008 STYLE Hybrid 145hk automat i 36 månader från endast 3 399 kr / mån, 1 000 mil körsträcka och fri service ingår under din leasingperiod.\nLägg till 1500 mil/år för 200 kr/mån eller 2000 mil/år för 400 kr/mån.\nFärg Vit Okenite är standard, silver och svart 139 kr/mån och Blå Obsession 173 kr/mån (som denna bil har).\nLägg till vinterhjul från 320 kr/mån, Gummimattor 29 kr/mån.\nUppgradera till GT paket 400 kr/mån.\n\nBackkamera; 10tum pekskärm; Apple CarPlay; Digitalradio; Elfönsterhissar fram & bak; Klimatanläggning; Parkeringsradar bak; Regnsensor; Skyltavläsning (hastighet, förbudsskyltar); 16tum alufälg Silom; Eco-LED-strålkastare fram; Svartlackerade sidospeglar; Active Safety Brake (autobroms) & kollisionsvarnare; Airbags: fram, sida & gardin fram och bak; Aktiv filhållningsassistent; ESP och ABS-bromsar; Isofixfästen ytterplatser bak; Peugeot SOS & Assistance; Mittarmstöd fram; Stolsvärme fram; Tygklädsel.\n\nVarmt välkommen in till oss på Deluxe bil i Varberg!\nFör mer info Kontakta oss via telefon eller via mail info@deluxebil.se eller besök oss i vår bilhall."
+    },
+    {
+      "dealId": "1002445259",
+      "link": "https://www.blocket.se/annons/1002445259",
+      "listTime": "2025-06-26T16:46:57+02:00",
+      "originalListTime": "2025-03-14T15:21:24+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Lund",
+        "id": "101615"
+      },
+      "heading": "Citroën C4 MAX PureTech 130hk Aut - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002445259/1176149042.webp",
+      "car": {
+        "images": [
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445259/1176149042.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445259/3567112279.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445259/4211847276.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445259/0893070397.webp"
+          }
+        ],
+        "location": {
+          "region": "Skåne",
+          "municipality": "Lund",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Keyless"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", Aut vindrutetorkare Automatiskt helljus,Mörktonade bakrutor. Parkeringssensorer bak,OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.59 l/mil vid blandad körning samt släpper ut 134g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1002445445",
+      "link": "https://www.blocket.se/annons/1002445445",
+      "listTime": "2025-03-14T15:37:12+01:00",
+      "originalListTime": "2025-03-14T15:37:12+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Väsby",
+        "id": "13343"
+      },
+      "heading": "Citroën C4 MAX PureTech 130hk Aut - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002445445/2563942987.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445445/2563942987.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445445/1502846808.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445445/3444303365.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445445/0232170979.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Upplands Väsby",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Keyless"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", Aut vindrutetorkare Automatiskt helljus,Mörktonade bakrutor. Parkeringssensorer bak,OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.59 l/mil vid blandad körning samt släpper ut 134g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1002445179",
+      "link": "https://www.blocket.se/annons/1002445179",
+      "listTime": "2025-03-14T15:10:33+01:00",
+      "originalListTime": "2025-03-14T15:10:33+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Täby",
+        "id": "32285"
+      },
+      "heading": "Citroën C4 MAX PureTech 130hk Aut - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002445179/2912156414.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445179/2912156414.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445179/2689567599.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445179/3290351563.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445179/4076564588.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Täby",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Keyless"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", Aut vindrutetorkare Automatiskt helljus,Mörktonade bakrutor. Parkeringssensorer bak,OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.59 l/mil vid blandad körning samt släpper ut 134g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1002445263",
+      "link": "https://www.blocket.se/annons/1002445263",
+      "listTime": "2025-03-14T15:22:03+01:00",
+      "originalListTime": "2025-03-14T15:22:03+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Haninge",
+        "id": "13591"
+      },
+      "heading": "Citroën C4 MAX PureTech 130hk Aut - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002445263/0282563727.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445263/0282563727.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445263/0557880908.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445263/2040542846.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445263/3236398072.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Haninge",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Keyless"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", Aut vindrutetorkare Automatiskt helljus,Mörktonade bakrutor. Parkeringssensorer bak,OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.59 l/mil vid blandad körning samt släpper ut 134g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1002445197",
+      "link": "https://www.blocket.se/annons/1002445197",
+      "listTime": "2025-06-11T10:12:12+02:00",
+      "originalListTime": "2025-03-14T15:12:33+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Tagene",
+        "id": "33769"
+      },
+      "heading": "Citroën C4 MAX PureTech 130hk Aut - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002445197/0288751476.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445197/0288751476.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445197/3685425414.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445197/2425447233.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445197/2152255890.webp"
+          }
+        ],
+        "location": {
+          "region": "Göteborg",
+          "municipality": "Göteborgs stad",
+          "area": "Hisingen"
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Keyless"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", Aut vindrutetorkare Automatiskt helljus,Mörktonade bakrutor. Parkeringssensorer bak,OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.59 l/mil vid blandad körning samt släpper ut 134g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1002777009",
+      "link": "https://www.blocket.se/annons/1002777009",
+      "listTime": "2025-10-10T11:13:35+02:00",
+      "originalListTime": "2025-06-25T13:42:25+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Deluxe Bil Halland AB",
+        "id": "15133"
+      },
+      "heading": "Peugeot 2008 GT 130hk Automat Privatleasing 3399 kr/mån",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002777009/0091322723.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2104,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002777009/0091322723.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002777009/1932436555.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002777009/2569347247.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002777009/0333186573.webp"
+          },
+          {
+            "height": 2003,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002777009/1961480314.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002777009/2923521935.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002777009/2489641019.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002777009/0103750202.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002777009/3259791895.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002777009/3630756940.webp"
+          },
+          {
+            "height": 2003,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002777009/3317067324.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002777009/3850102446.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002777009/2397299928.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002777009/3060074980.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002777009/0092763030.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002777009/0385869510.webp"
+          }
+        ],
+        "location": {
+          "region": "Halland",
+          "municipality": "Varberg",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": null
+      },
+      "dcb": false,
+      "description": "Privatleasa Peugeot 2008 GT PureTech 130hk automat i 36 månader för endast 3 399 kr / mån, 1 000 mil körsträcka och fri service ingår under din leasingperiod.\nLägg till 1500 mil/år för 200 kr/mån eller 2000 mil/år för 400 kr/mån.\nFärg Blå Obsession är standard och övrig lack från 139 kr/mån.\nLägg till vinterhjul från 320 kr/mån.\n\n10tum pekskärm; 3D-instrument; Apple CarPlay; Automatiskt avbländbar backspegel; Digitalradio; Elektriskt justerbar förarstol; Elfönsterhissar fram & bak; Elinfällbara sidospeglar; Highway Assist; Klimatanläggning; Massage i förarstol; Navigation; Nyckelfritt lås- och startsystem; Parkeringskamera fram & bak; Parkeringsradar fram & bak; Regnsensor; Skyltavläsning (hastighet, förbudsskyltar); Trådlös mobilladdare; 17tum alufälg Karakoy; Black Diamond-tak; Elinfällbara sidospeglar; Full-LED-strålkastare; Svartlackerade sidospeglar; Takrails (svarta); Active Safety Brake (autobroms) & kollisionsvarnare; Airbags: fram, sida & gardin fram och bak; Aktiv filhållningsassistent; ESP och ABS-bromsar; Helljusassistent; Isofixfästen ytterplatser bak; Peugeot SOS & Assistance; Alcantara/halvläderklädsel; Dekorbelysning i åtta färger; Mittarmstöd fram; Mörkt innertak; Stolsvärme fram.\n\nVarmt välkommen in till oss på Deluxe bil i Varberg!\nFör mer info Kontakta oss via telefon eller via mail info@deluxebil.se eller besök oss i vår bilhall."
+    },
+    {
+      "dealId": "109668940",
+      "link": "https://www.blocket.se/annons/109668940",
+      "listTime": "2023-10-25T10:18:05+02:00",
+      "originalListTime": "2023-06-15T14:27:53+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Njudungs Bil Oskarshamn AB",
+        "id": "41509"
+      },
+      "heading": "Opel Mokka 130hk Aut  privatleasing Från  2999:- Mån",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/109668940/4255165443.webp",
+      "car": {
+        "images": [
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/109668940/4255165443.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/109668940/2319419711.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/109668940/1217122719.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/109668940/2261039122.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/109668940/2096271789.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/109668940/2541645079.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/109668940/0562800862.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/109668940/4172632042.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/109668940/4107253446.webp"
+          }
+        ],
+        "location": {
+          "region": "Kalmar",
+          "municipality": "Oskarshamn",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "AC"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Antispinn"
+          },
+          {
+            "label": "Autobroms"
+          },
+          {
+            "label": "AUX-ingång"
+          },
+          {
+            "label": "Avstängningsbar airbag"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Bluetooth (handsfree)"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Digital hastighetsmätare"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Euro 6"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "ISOFIX-fästen fram"
+          },
+          {
+            "label": "Körfilsassistans"
+          },
+          {
+            "label": "Ljussensor"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Parkeringssensorer (bak)"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "USB-uttag"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Apple CarPlay"
+          },
+          {
+            "label": "Android Auto"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Är du redo för Opels nya och djärva steg framåt? En kombination av stilren design, läcker interiör och de senaste högteknologiska drivlinorna. Var beredd på det oväntade. Mokka har anlänt och skriver om reglerna som tar din bilkörning till en helt ny nivå. Välj din egen väg, med Mokka.\n\n\n\nPrivatleasing 36 månader (3 år)\n1000mil/år ingår\nServiceavtal ingår\nMöjligt att lägga till utrustning eller extra mil/år.\n\nVälkomna till Njudungs Bil i Oskarshamn.\nVi levererar våra nya bilar med minst 3 års nybilsgaranti. Till din begagnade bil går det att köpa till extra garanti för ökad trygghet. Vi hjälper dig även med finansiering, privatleasing, business leasing, försäkring, service och reparationer. Vi tar din gamla bil i inbyte. Kontakta en av våra säljare via telefon eller besök oss i hallen."
+    },
+    {
+      "dealId": "1002252495",
+      "link": "https://www.blocket.se/annons/1002252495",
+      "listTime": "2025-01-17T11:20:44+01:00",
+      "originalListTime": "2025-01-17T11:20:44+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Njudungs Bil Oskarshamn AB",
+        "id": "41509"
+      },
+      "heading": "Opel Corsa GS 1,2 AUT 100HK Privatlesing Från 3 399:- Mån",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002252495/1071770499.webp",
+      "car": {
+        "images": [
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002252495/1071770499.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002252495/3930555351.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002252495/0155781955.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002252495/0894626823.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002252495/3944222140.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002252495/1645100228.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002252495/3119055298.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002252495/3308024465.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002252495/2028768722.webp"
+          }
+        ],
+        "location": {
+          "region": "Kalmar",
+          "municipality": "Oskarshamn",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2026,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "LED Strålkastare"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Centrallås"
+          },
+          {
+            "label": "Avbländande backspegel"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Android Auto"
+          },
+          {
+            "label": "Digitalradio (DAB)"
+          },
+          {
+            "label": "Vägfilsassistans"
+          },
+          {
+            "label": "Klädsel (alcantara)"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Laser (halvljus)"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Farthållare (adaptiv)"
+          },
+          {
+            "label": "Tonade rutor"
+          },
+          {
+            "label": "Klädsel (tyg)"
+          },
+          {
+            "label": "Sportstolar"
+          },
+          {
+            "label": "Bluetooth (handsfree)"
+          },
+          {
+            "label": "Insynsskydd"
+          },
+          {
+            "label": "Handbroms (elektronisk)"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "-"
+    },
+    {
+      "dealId": "1002856277",
+      "link": "https://www.blocket.se/annons/1002856277",
+      "listTime": "2025-07-23T10:25:51+02:00",
+      "originalListTime": "2025-07-23T10:25:51+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Bilkompaniet Mitt AB - Gävle",
+        "id": "26862"
+      },
+      "heading": "Kia Stonic 1.0 T-GDI DCT 100hk Adv. V-hjul 149:-/mån OMG Lev",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002856277/1400532013.webp",
+      "car": {
+        "images": [
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002856277/1400532013.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002856277/3634737565.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002856277/0054277625.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002856277/2259474650.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002856277/3589826224.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002856277/4014559870.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002856277/2911965102.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002856277/4099062723.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002856277/0089364124.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002856277/3086804353.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002856277/1366928471.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002856277/0707096656.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002856277/1855227900.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002856277/3121134266.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002856277/1326192694.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002856277/1013526785.webp"
+          }
+        ],
+        "location": {
+          "region": "Gävleborg",
+          "municipality": "Gävle",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "GPS"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Rattvärme"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Rails"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Digitalradio (DAB)"
+          },
+          {
+            "label": "Autobroms"
+          },
+          {
+            "label": "AUX-ingång"
+          },
+          {
+            "label": "Backstartshjälp"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Dimljus fram"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Euro 6"
+          },
+          {
+            "label": "Fartbegränsare"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Körfilsassistans"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Stöldlarm"
+          },
+          {
+            "label": "Rear Traffic Alert"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Start-/stoppfunktion"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "USB-uttag"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Delbart baksäte"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "7 års Nybilsgaranti, 5 års Lackgaranti, 3 år Vagnskadegaranti, \nPriset på bil i annons gäller vid Privatleasing 36 mån Inkl. Kia Serviceavtal\nKontakta oss för personlig visning\n\nOBS, Bilen finns för omgående leverans!"
+    },
+    {
+      "dealId": "1002445347",
+      "link": "https://www.blocket.se/annons/1002445347",
+      "listTime": "2025-03-14T15:32:39+01:00",
+      "originalListTime": "2025-03-14T15:32:39+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "J BIL Vällingby",
+        "id": "32741"
+      },
+      "heading": "Citroën C4 MAX PureTech 130hk Aut - PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "amountExVat": "2 719 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002445347/0015961875.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445347/0015961875.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445347/3066732938.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445347/2644485515.webp"
+          },
+          {
+            "height": 1440,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002445347/0444559580.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Stockholms stad",
+          "area": "Kista, Hässelby, Vällingby, Spånga"
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Keyless"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": ", Aut vindrutetorkare Automatiskt helljus,Mörktonade bakrutor. Parkeringssensorer bak,OBS! Privatleasing 36 mån / 3000 mil. Månadspriset är inklusive service och garanti. Deklarerad bränsleförbrukning = 0.59 l/mil vid blandad körning samt släpper ut 134g/CO2 per km! Andra karossfärger och utföranden går att köpa till. Vänligen kontakta säljare för närmare leveransinformation. Vi erbjuder även hemleverans över hela Sverige och alternativ för finansiering. Välkommen att kontakta våra säljare för priser samt leveransinformation."
+    },
+    {
+      "dealId": "1003119996",
+      "link": "https://www.blocket.se/annons/1003119996",
+      "listTime": "2025-10-13T12:19:13+02:00",
+      "originalListTime": "2025-10-13T12:19:13+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Fribrocks Bil Skåne AB - Helsingborg",
+        "id": "13145"
+      },
+      "heading": "Opel Corsa GS 100hk Automat *Privatleasing 36månader*",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1003119996/2154151437.webp",
+      "car": {
+        "images": [
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003119996/2154151437.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003119996/1786786760.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003119996/0884490217.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003119996/0341780678.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003119996/3506402952.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003119996/2466662112.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003119996/0495644235.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003119996/0640073108.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003119996/2595315706.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003119996/2029382183.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003119996/0799795835.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003119996/1966932261.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003119996/3860419274.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003119996/1345232748.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003119996/0727624304.webp"
+          }
+        ],
+        "location": {
+          "region": "Skåne",
+          "municipality": "Helsingborg",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "AC"
+          },
+          {
+            "label": "Autobroms"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Kollisionsvarning"
+          },
+          {
+            "label": "Rattvärme"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Sportstolar"
+          },
+          {
+            "label": "Trötthetsvarnare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Privatleasing avser 1000mil/år service ingår. Fast Ränta! Miltal går att höja upp till 2000mil/år samt försäkring och vinterhjul går att lägga till. Vill du veta mer eller provköra bilen kontakta vår Opel säljare Oscar på oscar.runemark@fribrocksbil.se eller 042-38 11 22. Vi tar din bil i inbyte! Tillägg för metallic tillkommer."
+    },
+    {
+      "dealId": "1002503429",
+      "link": "https://www.blocket.se/annons/1002503429",
+      "listTime": "2025-04-01T13:56:24+02:00",
+      "originalListTime": "2025-04-01T13:56:24+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Kronobergs Bilaffär",
+        "id": "13169"
+      },
+      "heading": "Citroën C4 Max 130 Aut.  Facelift PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002503429/4085451851.webp",
+      "car": {
+        "images": [
+          {
+            "height": 408,
+            "width": 544,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002503429/4085451851.webp"
+          }
+        ],
+        "location": {
+          "region": "Kronoberg",
+          "municipality": "Ljungby",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": null
+      },
+      "dcb": false,
+      "description": "Nya C4 facelift en trevlig mellanstor bil med låg förbrukning och mycket utrustning.\n\nFör mer information vänligen kontakta William på 073-520 44 01 eller william.pintea@kronobergsbil.se\n\nVälkomna till Kronobergs Bil i Ljungby!"
+    },
+    {
+      "dealId": "1002503461",
+      "link": "https://www.blocket.se/annons/1002503461",
+      "listTime": "2025-04-01T14:02:34+02:00",
+      "originalListTime": "2025-04-01T14:02:34+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Kronobergs Bilaffär",
+        "id": "13169"
+      },
+      "heading": "Citroën C3 Aircross Plus Hybrid 145 Aut. PRIVATLEASING",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002503461/0246618016.webp",
+      "car": {
+        "images": [
+          {
+            "height": 408,
+            "width": 544,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002503461/0246618016.webp"
+          }
+        ],
+        "location": {
+          "region": "Kronoberg",
+          "municipality": "Ljungby",
+          "area": ""
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": null
+      },
+      "dcb": false,
+      "description": "Nya C3 Aircross en fantastisk SUV till mycket bra pris, nu med helt nya Hybrid motorn som innebär 30% lägre skatt och 20% lägre förbrukning.\nFinns även som 7 sits.\n\nFör fler frågor kontakta Adrianna Mankowska på 0735-204420 alt maila till: adrianna.mankowska@kronobersgbil.se\nVarmt välkomna till oss på Kronobergs Bil i Ljungby"
+    },
+    {
+      "dealId": "1001415074",
+      "link": "https://www.blocket.se/annons/1001415074",
+      "listTime": "2025-03-12T12:32:39+01:00",
+      "originalListTime": "2024-05-21T15:22:18+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Nyströms Bilar",
+        "id": "16271"
+      },
+      "heading": "Opel Corsa GS 1.2 Turbo 100hk AUT Privatleasing 36månader",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1001415074/0962948971.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001415074/0962948971.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001415074/3973658290.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001415074/3235929546.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001415074/0116892557.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001415074/2244061274.webp"
+          }
+        ],
+        "location": {
+          "region": "Västmanland",
+          "municipality": "Västerås",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Android Auto"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Apple CarPlay"
+          },
+          {
+            "label": "Autobroms"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Backstartshjälp"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Bluetooth (handsfree)"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Digitalradio (DAB)"
+          },
+          {
+            "label": "Dimljus fram"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Elinfällbara sidospeglar"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "Euro 6"
+          },
+          {
+            "label": "Fartbegränsare"
+          },
+          {
+            "label": "Fotgängardetektion"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Körfilsassistans"
+          },
+          {
+            "label": "LED Strålkastare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Lättmetallfälgar"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Skyltigenkänning"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Start-/stoppfunktion"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "Tonade rutor"
+          },
+          {
+            "label": "Touch-/Pekskärm"
+          },
+          {
+            "label": "Trötthetsvarnare"
+          },
+          {
+            "label": "USB-uttag"
+          },
+          {
+            "label": "Vägfilsassistans"
+          },
+          {
+            "label": "Farthållare (adaptiv)"
+          },
+          {
+            "label": "Döda vinkel-varning"
+          },
+          {
+            "label": "AC"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Vit lack Std. Övriga +134:-/mån\nPrivatleasing 1000mil/år\n\nVinterhjul, försäkring, adm avgift tillkommer"
+    },
+    {
+      "dealId": "1003035896",
+      "link": "https://www.blocket.se/annons/1003035896",
+      "listTime": "2025-09-17T14:02:55+02:00",
+      "originalListTime": "2025-09-17T14:02:55+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Bråviken Bil AB",
+        "id": "29032"
+      },
+      "heading": "Opel Corsa GS P100 AUT",
+      "price": {
+        "amount": "3 399 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1003035896/0994105638.webp",
+      "car": {
+        "images": [
+          {
+            "height": 443,
+            "width": 748,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003035896/0994105638.webp"
+          },
+          {
+            "height": 434,
+            "width": 928,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003035896/1036956559.webp"
+          },
+          {
+            "height": 512,
+            "width": 844,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003035896/2171002042.webp"
+          },
+          {
+            "height": 561,
+            "width": 890,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003035896/2770015813.webp"
+          },
+          {
+            "height": 506,
+            "width": 1002,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003035896/2603913366.webp"
+          },
+          {
+            "height": 473,
+            "width": 1014,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003035896/0569599009.webp"
+          },
+          {
+            "height": 488,
+            "width": 1015,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003035896/0459196358.webp"
+          }
+        ],
+        "location": {
+          "region": "Östergötland",
+          "municipality": "Norrköping",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Rattvärme"
+          },
+          {
+            "label": "Backkamera"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Elektriska fönsterhissar fram & bak med puls- och klämskyddsfunktion\nLED-strålkastare inkl. LED-varselljus\nhelljusassistent och LED-blinkers i ytterbackspeglarna\nMittkonsol Inkl. armstöd med förvaring och två mugghållare\nStylepack: Svart tak och spoiler bak\nUppvärmda eljuster-och innfälbara backspeglar\n10 tum pekskärm inkl. mirrorlink och 7 tum digital förardisplay\n16 tum lättmetallfälgar Tornado\nAktiv filhållningsassistans\nIntelligent farthållare och hastighetsbegränsare\nIntelligent farthållare och hastighetsbegränsare (ISA)\nVarningssystem för kollision fram med automatisk nödbromsning och fotgängaravkänning"
+    }
+  ],
+  "hits": 139749,
+  "pages": 3494,
+  "pitId": "",
+  "sortOrder": "Billigast",
+  "scrollId": "",
+  "searchAfter": null,
+  "legacyQueryString": "cg=1020",
+  "landingPageUrl": "",
+  "savedSearch": false,
+  "savedSearchID": "",
+  "savableSearch": false,
+  "shareUrl": "https://www.blocket.se/bilar/sok?sortOrder=Billigast&page=54",
+  "regionNeighbors": false,
+  "dcbLabel": "Reservera online"
+}

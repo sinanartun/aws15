@@ -1,0 +1,4355 @@
+{
+  "cars": [
+    {
+      "dealId": "1003055689",
+      "link": "https://www.blocket.se/annons/1003055689",
+      "listTime": "2025-09-23T16:07:41+02:00",
+      "originalListTime": "2025-09-23T16:07:41+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Rudvi Bil",
+        "id": "14239"
+      },
+      "heading": "Kia EV3 Long Range 81,4 kWh",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1003055689/2378200810.webp",
+      "car": {
+        "images": [
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/2378200810.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/0834332166.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/1996915891.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/0733550710.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/3696687175.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/0224116305.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/1106407053.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/0578211226.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/1338750107.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/2024282664.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/3547198403.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/2791101163.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/2261042627.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/2807116296.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/1383034957.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/2389087910.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/0332592532.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/0198849616.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/2793568109.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003055689/0859135333.webp"
+          }
+        ],
+        "location": {
+          "region": "Blekinge",
+          "municipality": "Karlskrona",
+          "area": ""
+        },
+        "fuel": "El",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Rails"
+          },
+          {
+            "label": "Rattvärme"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Stöldlarm"
+          },
+          {
+            "label": "Trötthetsvarnare"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Antispinn"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Autobroms"
+          },
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Döda vinkel-varning"
+          },
+          {
+            "label": "Euro 6"
+          },
+          {
+            "label": "Farthållare (adaptiv)"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "GPS"
+          },
+          {
+            "label": "Helljusassistans"
+          },
+          {
+            "label": "Multifunktionsratt"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Årskatt 360:- \n\nGiltigt Tom - 30/9\n\n*Kia Privatleasing: Privatleasingerbjudandet gäller till 2025-09-30. Avtalstid: 36 mån. max körsträcka: 1000 mil/år. Uppläggningsavgift 995kr och administrationsavgift 59kr/mån tillkommer. Leasingavgiften är rörlig och kan förändras baserat på framtida justeringar i leasegivarens upplåningskostnader. Leasegivaren kommer inte ändra leasingavgiften om den ränta - som gäller för beräkningen av leasegivarens upplåningskostnader - är eller understiger 0%. Körsträckan är fastlagd i avtalet och går inte att justera upp eller ner under avtalstiden. Onormalt slitage och övermil debiteras utöver leasingavgiften. Leasegivare är Santander Consumer Bank - sedvanlig kreditprövning sker."
+    },
+    {
+      "dealId": "1003067820",
+      "link": "https://www.blocket.se/annons/1003067820",
+      "listTime": "2025-09-26T14:49:15+02:00",
+      "originalListTime": "2025-09-26T14:49:15+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Ayvens Täby Release",
+        "id": "42396"
+      },
+      "heading": "Volkswagen Passat GTE SC Drag Värmare Kamera",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1003067820/2919572399.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003067820/2919572399.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003067820/0682684402.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003067820/1685744764.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003067820/2743124139.webp"
+          },
+          {
+            "height": 1367,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003067820/3464135538.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Täby",
+          "area": ""
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Automat",
+        "regDate": 2022,
+        "mileage": 4355,
+        "equipment": [
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Trötthetsvarnare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "I Ayvens Release Basic ingår bil och avtalade mil. Alltid 0 kr kontant och inga uppläggningsavgifter. Fri uppsägning efter 12 månader. Fast ränta under hela kontraktstiden.\n \nUppgradera till Ayvens Release Plus för 795 kr ink moms/mån\n \nI Ayvens Release plus ingår utöver ovanstående:\n · Försäkring\n · Sommar- och vinterdäck\n · Däckskifte\n · Besiktning\n · Service och reparationer för normalt slitage\nAlla kostnader samlade på en faktura\n\nVälkommen till Ayvens! Vi erbjuder ett stort utbud av attraktiva begagnadebilar som är 1-5 år gamla och tidigare brukats av ett enda företag som tjänstebil. Varje bil testas och kontrolleras av en oberoende inspektör och har dokumenterad servicehistorik. Det viktigaste för oss är att du är nöjd! Vi tillhandahåller självklart också förmånlig finansiering och förlängd garanti samt försäkring och köp av vinterdäck för ett smidigt bilägande. Välkommen till vår digitala handelsplats Begagnade bilar till salu | Ayvens Sweden AB eller till vår toppmoderna anläggning i Täby i Stockholm."
+    },
+    {
+      "dealId": "1002965209",
+      "link": "https://www.blocket.se/annons/1002965209",
+      "listTime": "2025-09-27T12:45:39+02:00",
+      "originalListTime": "2025-08-28T15:17:36+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Bilia Nacka Volvo",
+        "id": "13728"
+      },
+      "heading": "Nissan X-Trail MHEV Acenta | Serviceavtal & vinterhjul ingår",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002965209/2341646193.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1500,
+            "width": 2100,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002965209/2341646193.webp"
+          },
+          {
+            "height": 1462,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002965209/0342665546.webp"
+          },
+          {
+            "height": 1500,
+            "width": 2100,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002965209/2011033434.webp"
+          },
+          {
+            "height": 1500,
+            "width": 2100,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002965209/0483712343.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Nacka",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2024,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Eluppvärmd vindruta"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Rattvärme"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Privatleasa Nissan\nX-Trail MHEV Acenta från 4 495 kr/mån*\nX-Trail e-POWER Acenta från 5 495 kr/mån*\nX-Trail e-4ORCE Acenta från 5 495 kr/mån*\nVinterhjul och serviceavtal ingår i månadsavgiften\n\nAvtal på 3 år, årlig körsträcka 1000, 1500 eller 2000 mil.\nFör mer information, kontaka oss på:\nolivia.olsson@bilia.se alt. 010-497 09 25\nalexander.grondahl@bilia.se alt. 010-497 11 62\n\nNissan X-Trail: Bränsleförbrukning WLTP blandad körning l/100 km: 5,7–7,3. CO2-utsläpp g/km: 130-165.\nErbjudande gäller fram till 30.09.2025 och går ej att kombinera med andra avtal eller rabatter. Med reservation för eventuella förändringar. Bilen på bilden är extrautrustad. För mer information kontakta din Nissan-agent.\n[1]  Privatleasing via Nissan Finans. Leasingavgift per månad: 4 495 kr, med en första förhöjd leasingavgift om 10.000 kr. Utan första förhöjd leasingavgift +300 kr/mån. Avtalstid: 36 månader, max. 3000 mil körsträcka. Service, vägassistans och nybilsgaranti ingår. Uppläggningsavgift 995 kr och administrationsavgift 59 kr/mån tillkommer. Leasingavgiften är rörlig och kan förändras baserat på framtida justeringar i leasegivarens upplåningskostnader. Leasegivaren kommer inte ändra leasingavgiften om den ränta, som gäller för beräkningen av leasegivarens upplåningskostnader, är eller understiger 0 %. Körsträckan (antal mil) är fastlagd i avtalet och går inte att justera upp eller ner under avtalstiden. Onormalt slitage och övermil debiteras utöver leasingavgiften. Leasegivare är Santander Consumer Bank, sedvanlig kreditprövning sker. Avser modellen X-Trail MHEV Acenta med standardutrustning."
+    },
+    {
+      "dealId": "1001495449",
+      "link": "https://www.blocket.se/annons/1001495449",
+      "listTime": "2025-09-27T13:32:59+02:00",
+      "originalListTime": "2024-06-11T21:34:29+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Team Autocar i Österåker AB",
+        "id": "14467"
+      },
+      "heading": "Nissan X-Trail Acenta P-LEASING ERBJUDANDE INK SERVICE&V-HJU",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1001495449/3369470317.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1462,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001495449/3369470317.webp"
+          },
+          {
+            "height": 1462,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001495449/0371917301.webp"
+          },
+          {
+            "height": 1500,
+            "width": 2100,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001495449/3642323579.webp"
+          },
+          {
+            "height": 1500,
+            "width": 2100,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001495449/0271035572.webp"
+          },
+          {
+            "height": 1462,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001495449/1292718354.webp"
+          },
+          {
+            "height": 1462,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001495449/2118715034.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Österåker",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Rattvärme"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Keyless"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Privatleasing kampanj inklusive: \n36 månader\nVinterhjul\nServiceavtal\n1.000mil/år\n\nVälkommen till Team Autocar i Österåker AB för att uppleva nya Nissan X-Trail. \nTveka inte på att höra av er vid minsta lilla fundering. \nTeam Autocar i Österåker AB är din lokala Nissan-Agent. \nDenna bil säljs utav Nissan Sverige. \n\nÖvriga färg alternativ:\nSolid-lack: 0kr\nMetallic-lack: 8.000kr\nPearl-lack: 9.000krr\n2-tone Metallic-lack: 14.000kr\n2-tone Pearl-lack: 15.000kr"
+    },
+    {
+      "dealId": "1002542463",
+      "link": "https://www.blocket.se/annons/1002542463",
+      "listTime": "2025-09-28T12:25:56+02:00",
+      "originalListTime": "2025-04-11T15:20:12+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Aftén Bil VW Arlandastad Nybil",
+        "id": "44503"
+      },
+      "heading": "Volkswagen Passat eHybrid 1.5 TSI Elegance **KAMPANJBIL**",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002542463/0321973759.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/0321973759.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/0018286317.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/2073882612.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/0646776113.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/3641865723.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/4019105732.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/0327131917.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/1821570482.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/4142989297.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/3143958755.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/2720862700.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/1095904913.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/3496816559.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/1911719973.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/2816677417.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/0306597654.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/1476593411.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/4213578923.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/0562045632.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/3493413451.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/1897338732.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/3586051975.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/0380261521.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/3760256272.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/3185987192.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002542463/4070959456.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Sigtuna",
+          "area": ""
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Massagestolar"
+          },
+          {
+            "label": "Parkeringssensorer"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Trailer assist"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Aftén Bil Volkswagen presenterar- Nya Volkswagen Passat Elegance 1.5 TSI eHybrid 272hk DSG! \nPrivatleasing från endast 4 495 kr/mån inklusive 1000 mil/år med en insats om 35 000kr.\n\n**Nu i lager för omgående leverans. OBS! Begränsat antal bilar!**\n\nPrivatleasing fr. 4 495 kr/mån inkl. insats om 35 000 kr\nPrivatleasing fr. 4 815 kr/mån inkl. insats om 20 000 kr\nPrivatleasing fr. 5 195 kr/mån inkl. insats om 10 000 kr\nPrivatleasing fr. 5 495 kr/mån inkl. insats om 0 kr\n\nServiceavtal fr: +227 kr/mån\n\n1500 mil/år: +358 kr/mån\n2000 mil/år: +685 kr/mån\n\nVälkommen till nästa steg i bilkörningens evolution – Nya Passat eHybrid. Med en sofistikerad fusion av modern teknologi och stilfull design tar den dig mot en mer hållbar och ändamålsenlig framtid med en räckvidd på upp till 130 km på enbart el!\n\nMed Passat eHybrid tar du ett stort steg mot en grönare framtid. Med en imponerande elektrisk räckvidd på upp till 130 km minskar du inte bara din koldioxidavtryck, utan njuter också av fördelarna med lägre utsläpp och förbättrad bränsleekonomi. Utrustad med det senaste inom bilteknologi, erbjuder Nya Passat eHybrid en helt ny upplevelse av bekvämlighet och säkerhet. Från avancerade förarassistanssystem till intuitiva infotainmentfunktioner, är varje detalj utformad för att förbättra din körupplevelse.\n\nVälkommen till Aftén Bil. En Riktigt Bra Bilaffär. \nVi byter in din gamla bil. Vi finansierar köpet av din nya bil. \nVi har öppet 7 dagar i veckan. Välkommen till oss på Aftén bil Arlandastad. \nKontakta oss på 08-400 612 01 / Ni hittar oss på Industrigatan 7."
+    },
+    {
+      "dealId": "1001895772",
+      "link": "https://www.blocket.se/annons/1001895772",
+      "listTime": "2025-08-15T17:28:37+02:00",
+      "originalListTime": "2024-10-02T14:07:19+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Torvalla Bil Värmdö AB",
+        "id": "33913"
+      },
+      "heading": "Kia EV3 Long Range 204hk",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1001895772/0737120596.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001895772/0737120596.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Värmdö",
+          "area": ""
+        },
+        "fuel": "El",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Apple CarPlay"
+          },
+          {
+            "label": "Android Auto"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Insynsskydd"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Trötthetsvarnare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Välkommen till Torvalla Bil på Värmdö! Vi sysslar i huvudsak med nybilsförsäljning av märkena KIA & Subaru men även ett antal utvalda begagnade bilar.\nVi är medlemmar i MRF & följer deras riktlinjer & garantivillkor. Våra öppettider är Mån- Tor 09-18 / Fre 09-17 / Lör & Sön 11-15.\nVårt mål är att erbjuda dig mervärdet i ett personligt bemötande där du får en genuin kundupplevelse och anpassade råd samt en konkret vägledning till din nästa bilaffär med oss!"
+    },
+    {
+      "dealId": "1003072716",
+      "link": "https://www.blocket.se/annons/1003072716",
+      "listTime": "2025-09-29T12:30:08+02:00",
+      "originalListTime": "2025-09-29T12:30:08+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Landrins Bil - Hässleholm",
+        "id": "33721"
+      },
+      "heading": "Kia EV3 Long Range FWD 81.4 kWh 204hk",
+      "price": {
+        "amount": "4 495 kr",
+        "amountExVat": "3 596 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1003072716/3524846738.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072716/3524846738.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072716/2054783086.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072716/0218309225.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072716/1119757789.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072716/0334173483.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072716/3958827543.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072716/1105622319.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072716/3877138285.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072716/0252713699.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072716/3892042046.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072716/3065419660.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072716/2450260741.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072716/3793686922.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072716/1245920567.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072716/2744691805.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072716/0032657957.webp"
+          }
+        ],
+        "location": {
+          "region": "Skåne",
+          "municipality": "Hässleholm",
+          "area": ""
+        },
+        "fuel": "",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Android Auto"
+          },
+          {
+            "label": "Apple CarPlay"
+          },
+          {
+            "label": "Backkamera"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "-"
+    },
+    {
+      "dealId": "1000711335",
+      "link": "https://www.blocket.se/annons/1000711335",
+      "listTime": "2023-11-27T11:10:16+01:00",
+      "originalListTime": "2023-11-27T11:10:16+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Svenstigs Gislaved",
+        "id": "38798"
+      },
+      "heading": "Volkswagen Tiguan eTSI 150hk DSG Edition",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1000711335/2999691937.webp",
+      "car": {
+        "images": [
+          {
+            "height": 333,
+            "width": 624,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000711335/2999691937.webp"
+          },
+          {
+            "height": 334,
+            "width": 789,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000711335/2263972410.webp"
+          },
+          {
+            "height": 350,
+            "width": 657,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000711335/1448101186.webp"
+          },
+          {
+            "height": 479,
+            "width": 870,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000711335/0017649311.webp"
+          },
+          {
+            "height": 505,
+            "width": 895,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000711335/2874953504.webp"
+          },
+          {
+            "height": 322,
+            "width": 450,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000711335/0260231822.webp"
+          }
+        ],
+        "location": {
+          "region": "Jönköping",
+          "municipality": "Gislaved",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2026,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Android Auto"
+          },
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Tonade rutor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Beställningsbar bil. Privatleasing 36 månader, körsträcka 1000 mil/år inkl. serviceavtal.  \nVi hjälper dig med finansiering av ditt nya bilköp samt erbjuder rabatterade försäkringsalternativ. Vi byter gärna in din nuvarande bil. Kontakta Ulf eller Christer på telefonnummer 0371-586820 eller maila ulf.isaksson@svenstigs.se eller christer.heins@svenstigs.se"
+    },
+    {
+      "dealId": "1002593558",
+      "link": "https://www.blocket.se/annons/1002593558",
+      "listTime": "2025-04-29T16:10:26+02:00",
+      "originalListTime": "2025-04-29T16:10:26+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Bilbolaget",
+        "id": "13384"
+      },
+      "heading": "Volvo EX30 EX30 Extended Range Plus Edition",
+      "price": {
+        "amount": "4 495 kr",
+        "amountExVat": "3 596 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002593558/0495243308.webp",
+      "car": {
+        "images": [
+          {
+            "height": 720,
+            "width": 1244,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593558/0495243308.webp"
+          },
+          {
+            "height": 704,
+            "width": 1243,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593558/3898352716.webp"
+          },
+          {
+            "height": 710,
+            "width": 1248,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593558/4008652316.webp"
+          },
+          {
+            "height": 717,
+            "width": 1247,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593558/1636606658.webp"
+          },
+          {
+            "height": 724,
+            "width": 1248,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593558/1237486401.webp"
+          }
+        ],
+        "location": {
+          "region": "Gävleborg",
+          "municipality": "Bollnäs",
+          "area": ""
+        },
+        "fuel": "El",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Apple CarPlay"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Rattvärme"
+          }
+        ]
+      },
+      "flairs": [
+        "premiumAd"
+      ],
+      "dcb": false,
+      "description": "Privatleasa Volvo EX30 från 4 495 kr/mån\nHelt elektriska EX30 levererar imponerande prestanda i ett kompakt format. Den kombinerar smart teknik med avancerade säkerhetsfunktioner och en stilren skandinavisk design.\n\nDenna modellversion är utrustad med bland annat Pilot Assist, automatiskt avbländbar backspegel, parkeringshjälp fram och bak, filbytesassistans, stämningsbelysning, elmanövrerad baklucka, Harman Kardon Premium Sound, digital nyckel plus samt trådlös telefonladdning.\n\nJust nu kan du privatleasa EX30 till en förmånlig månadskostnad. Boka din provkörning idag!\n\nDet här ingår:\n\n1 000 mil/år\nDigitala tjänster\nVolvo Cars-appen\nVolvo assistans\nServiceavtal\nPrivatleasingskydd i tre månader\n\n\nPrivatleasing erbjuder ett smidigt alternativ till traditionell finansiering, helt utan krav på kontantinsats. Du betalar en månadskostnad som inkluderar bland annat serviceavtal och vägassistans. När leasingavtalet löper ut lämnar du enkelt tillbaka bilen till oss.\n\nMed privatleasing får du inte bara möjligheten att köra en helt ny bil, utan du får även en förmånlig månadskostnad. Här har vi paketerat två populära modeller till specialpris."
+    },
+    {
+      "dealId": "1002748241",
+      "link": "https://www.blocket.se/annons/1002748241",
+      "listTime": "2025-10-01T17:54:27+02:00",
+      "originalListTime": "2025-06-16T12:27:45+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Aftén Bil VW Åkersberga Nybil",
+        "id": "34539"
+      },
+      "heading": "Volkswagen Tiguan Privatleasing Drag + Värmare t.o.m  15okt",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002748241/0281014125.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/0281014125.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/3470173717.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/1631782893.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/0761362263.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/1032228286.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/2297862660.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/2063071129.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/3707049038.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/0463926262.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/0046002929.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/1790480938.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/1120340459.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/2890157993.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/1707132263.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/1112407164.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/1736750931.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/0016691050.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/3203047788.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/1704925133.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/0016277032.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/3550542676.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/0133255116.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/0063221645.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/2927635229.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/0483778077.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/3318856889.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002748241/2664477812.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Österåker",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Eluppvärmd vindruta"
+          },
+          {
+            "label": "Svankstöd"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Android Auto"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Aftén Bil presenterar - Nya Volkswagen Tiguan 1.5 eTSI 150hk DSG \nPris 429.000kr\nPrivatleasing från endast  4 495 kr/mån inklusive 1000 mil/år, samt avser en insats om 10 000 kronor. \n\nPrivatleasing fr. 3 695 kr/mån inkl. insats om 30 000 kr\n\nPrivatleasing fr.  4 495 kr/mån inkl. insats om 0 kr\n\nServiceavtal fr: +227 kr/mån\n\n1500 mil/år: +236 kr/mån\n2000 mil/år: +472 kr/mån\n\nFÖR LIVETS ALLA RESOR.\nLivet är omväxlande och fullt av överraskningar. Nya Tiguan hjälper dig att ta dig an många utmaningar tack vare omfattande utrustning och innovativa funktioner. \nNya Tiguan fascinerar med sin design med utmärkta aerodynamiska egenskaper som väcker känslor.\n\nVi hjälper dig även med att skräddarsy en helt ny Tiguan efter dina önskemål och behov.\nKontakta oss så berättar vi mer och hjälper er vidare med erat bilköp!\n\nAftén Bil Volkswagen Åkersberga \nTel: 08-503 351 46\nE-post: salesvw@aftenbil.se\n\nVälkommen till Aftén Bil. En Riktigt Bra Bilaffär. \nVi byter in din gamla bil. Vi finansierar köpet av din nya bil. Vi har öppet 7 dagar i veckan.\nAftén Bil finns i Åkersberga 20 minuter från Stockholm City. \nKontakta oss på 08-503 351 00 / salesvw@aftenbil.se \nNi hittar oss även på www.facebook.com/aftenbil"
+    },
+    {
+      "dealId": "1002097982",
+      "link": "https://www.blocket.se/annons/1002097982",
+      "listTime": "2025-07-21T14:20:20+02:00",
+      "originalListTime": "2024-11-23T10:16:55+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "RA Motor Uppsala Nya bilar",
+        "id": "44362"
+      },
+      "heading": "Honda ZR-V Elegance FullHybrid | Privatleasing inkl Service",
+      "price": {
+        "amount": "4 495 kr",
+        "amountExVat": "3 596 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002097982/3750447924.webp",
+      "car": {
+        "images": [
+          {
+            "height": 601,
+            "width": 1033,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002097982/3750447924.webp"
+          },
+          {
+            "height": 642,
+            "width": 1100,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002097982/3451071638.webp"
+          },
+          {
+            "height": 636,
+            "width": 1054,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002097982/0441635853.webp"
+          },
+          {
+            "height": 634,
+            "width": 1015,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002097982/4253176430.webp"
+          },
+          {
+            "height": 624,
+            "width": 1125,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002097982/0476794118.webp"
+          },
+          {
+            "height": 605,
+            "width": 1235,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002097982/2451696021.webp"
+          },
+          {
+            "height": 688,
+            "width": 1108,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002097982/3893997528.webp"
+          }
+        ],
+        "location": {
+          "region": "Uppsala",
+          "municipality": "Uppsala",
+          "area": ""
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Automat",
+        "regDate": 2024,
+        "mileage": 1,
+        "equipment": [
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Keyless"
+          },
+          {
+            "label": "Farthållare (adaptiv)"
+          },
+          {
+            "label": "Vägfilsassistans"
+          },
+          {
+            "label": "Körfilsassistans"
+          },
+          {
+            "label": "Digitalradio (DAB)"
+          },
+          {
+            "label": "LED Strålkastare"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Autobroms"
+          },
+          {
+            "label": "Euro 6"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Svensksåld"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Privatleasing 36 mån med 1000 mil/år, rikstäckande serviceavtal ingår hela perioden! \nMetallic tillkommer med Från 126 kr/Månaden!\n\nZR-V använder en kombination av elmotorer och en bensinmotor för att skapa massor av elektrisk kraft som behagligt tar dig mil efter mil, samtidigt som ett regenerativt bromssystem återvinner energi som används för att ladda batteriet. Enkel men smart – \nZR-V betyder pålitlig och dynamisk elektrifiering.\nHjärtat i ZR-V är den avancerade e:HEV-drivlinan som erbjuder prestanda, ekonomi och tre automatiska körlägen: Eldrift ger tyst och omedelbar kraft, hybriddrift ger dig sportig respons och möjlighet till lång räckvidd, medan motordrift aktiveras under långvarig körning i högre hastighet\n\nDen nya Honda ZR-V Hybrid SUV, med hög prestanda och modern design. Perfekt för dig som söker en stilren och bränsleeffektiv SUV.\n\nVill du veta mer eller beställa din bil? Kontakta oss via telefon eller kom in till butiken – vi hjälper dig gärna!\n\nVälkommen till RA Motor!\nMed över 25 års erfarenhet och som auktoriserad återförsäljare för Honda, Hyundai, Subaru, Maxus och ORA kan du alltid förvänta dig service i toppklass. Vi erbjuder förmånlig finansiering, tar din bil i inbyte och levererar alltid testade, varudeklarerade bilar. Arkana Austral\n\nVarmt välkommen till RA Motor i Uppsala för våra aktuella erbjudanden och lagerbilar!"
+    },
+    {
+      "dealId": "1001877378",
+      "link": "https://www.blocket.se/annons/1001877378",
+      "listTime": "2025-04-29T14:43:13+02:00",
+      "originalListTime": "2024-09-27T11:18:32+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Bilbolaget Uppsala Kungsgatan",
+        "id": "13568"
+      },
+      "heading": "Volvo EX30 Plus - PRIVATLEASINGKAMPANJ INKL SERVICE",
+      "price": {
+        "amount": "4 495 kr",
+        "amountExVat": "3 596 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1001877378/1829061842.webp",
+      "car": {
+        "images": [
+          {
+            "height": 731,
+            "width": 1600,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001877378/1829061842.webp"
+          }
+        ],
+        "location": {
+          "region": "Uppsala",
+          "municipality": "Uppsala",
+          "area": ""
+        },
+        "fuel": "El",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": null
+      },
+      "dcb": false,
+      "description": "Just nu har vi privatleasingkampanj på vår helt eldrivna EX30 Single Motor Plus. \n\nPrivatleasa denna modell från 4.495 kr/mån (3000 mil/36 mån) inklusive serviceavtal! \n\nDetta är en begränsad kampanj som gäller färdiga lagerbilar med snabb leverans!"
+    },
+    {
+      "dealId": "1002593603",
+      "link": "https://www.blocket.se/annons/1002593603",
+      "listTime": "2025-04-29T16:13:10+02:00",
+      "originalListTime": "2025-04-29T16:13:10+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Bilbolaget",
+        "id": "13383"
+      },
+      "heading": "Volvo EX30 EX30 Extended Range Plus Edition",
+      "price": {
+        "amount": "4 495 kr",
+        "amountExVat": "3 596 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002593603/2264938972.webp",
+      "car": {
+        "images": [
+          {
+            "height": 720,
+            "width": 1244,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593603/2264938972.webp"
+          },
+          {
+            "height": 704,
+            "width": 1243,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593603/3490520496.webp"
+          },
+          {
+            "height": 710,
+            "width": 1248,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593603/1179572270.webp"
+          },
+          {
+            "height": 717,
+            "width": 1247,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593603/3426563579.webp"
+          },
+          {
+            "height": 724,
+            "width": 1248,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593603/2167633795.webp"
+          }
+        ],
+        "location": {
+          "region": "Gävleborg",
+          "municipality": "Söderhamn",
+          "area": ""
+        },
+        "fuel": "El",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Apple CarPlay"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Rattvärme"
+          }
+        ]
+      },
+      "flairs": [
+        "premiumAd"
+      ],
+      "dcb": false,
+      "description": "Privatleasa Volvo EX30 från 4 495 kr/mån\nHelt elektriska EX30 levererar imponerande prestanda i ett kompakt format. Den kombinerar smart teknik med avancerade säkerhetsfunktioner och en stilren skandinavisk design.\n\nDenna modellversion är utrustad med bland annat Pilot Assist, automatiskt avbländbar backspegel, parkeringshjälp fram och bak, filbytesassistans, stämningsbelysning, elmanövrerad baklucka, Harman Kardon Premium Sound, digital nyckel plus samt trådlös telefonladdning.\n\nJust nu kan du privatleasa EX30 till en förmånlig månadskostnad. Boka din provkörning idag!\n\nDet här ingår:\n\n1 000 mil/år\nDigitala tjänster\nVolvo Cars-appen\nVolvo assistans\nServiceavtal\nPrivatleasingskydd i tre månader\n\n\nPrivatleasing erbjuder ett smidigt alternativ till traditionell finansiering, helt utan krav på kontantinsats. Du betalar en månadskostnad som inkluderar bland annat serviceavtal och vägassistans. När leasingavtalet löper ut lämnar du enkelt tillbaka bilen till oss.\n\nMed privatleasing får du inte bara möjligheten att köra en helt ny bil, utan du får även en förmånlig månadskostnad. Här har vi paketerat två populära modeller till specialpris."
+    },
+    {
+      "dealId": "1002593580",
+      "link": "https://www.blocket.se/annons/1002593580",
+      "listTime": "2025-04-29T16:11:45+02:00",
+      "originalListTime": "2025-04-29T16:11:45+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Bilbolaget Ljusdal",
+        "id": "13381"
+      },
+      "heading": "Volvo EX30 EX30 Extended Range Plus Edition",
+      "price": {
+        "amount": "4 495 kr",
+        "amountExVat": "3 596 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002593580/0135086064.webp",
+      "car": {
+        "images": [
+          {
+            "height": 720,
+            "width": 1244,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593580/0135086064.webp"
+          },
+          {
+            "height": 704,
+            "width": 1243,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593580/2043634265.webp"
+          },
+          {
+            "height": 710,
+            "width": 1248,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593580/1873521382.webp"
+          },
+          {
+            "height": 717,
+            "width": 1247,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593580/1834115070.webp"
+          },
+          {
+            "height": 724,
+            "width": 1248,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593580/1146845485.webp"
+          }
+        ],
+        "location": {
+          "region": "Gävleborg",
+          "municipality": "Ljusdal",
+          "area": ""
+        },
+        "fuel": "El",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Apple CarPlay"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Rattvärme"
+          }
+        ]
+      },
+      "flairs": [
+        "premiumAd"
+      ],
+      "dcb": false,
+      "description": "Privatleasa Volvo EX30 från 4 495 kr/mån\nHelt elektriska EX30 levererar imponerande prestanda i ett kompakt format. Den kombinerar smart teknik med avancerade säkerhetsfunktioner och en stilren skandinavisk design.\n\nDenna modellversion är utrustad med bland annat Pilot Assist, automatiskt avbländbar backspegel, parkeringshjälp fram och bak, filbytesassistans, stämningsbelysning, elmanövrerad baklucka, Harman Kardon Premium Sound, digital nyckel plus samt trådlös telefonladdning.\n\nJust nu kan du privatleasa EX30 till en förmånlig månadskostnad. Boka din provkörning idag!\n\nDet här ingår:\n\n1 000 mil/år\nDigitala tjänster\nVolvo Cars-appen\nVolvo assistans\nServiceavtal\nPrivatleasingskydd i tre månader\n\n\nPrivatleasing erbjuder ett smidigt alternativ till traditionell finansiering, helt utan krav på kontantinsats. Du betalar en månadskostnad som inkluderar bland annat serviceavtal och vägassistans. När leasingavtalet löper ut lämnar du enkelt tillbaka bilen till oss.\n\nMed privatleasing får du inte bara möjligheten att köra en helt ny bil, utan du får även en förmånlig månadskostnad. Här har vi paketerat två populära modeller till specialpris."
+    },
+    {
+      "dealId": "1002593523",
+      "link": "https://www.blocket.se/annons/1002593523",
+      "listTime": "2025-04-29T16:08:33+02:00",
+      "originalListTime": "2025-04-29T16:08:33+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Bilbolaget Hudiksvall",
+        "id": "13382"
+      },
+      "heading": "Volvo EX30 EX30 Extended Range Plus Edition",
+      "price": {
+        "amount": "4 495 kr",
+        "amountExVat": "3 596 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002593523/4243436187.webp",
+      "car": {
+        "images": [
+          {
+            "height": 720,
+            "width": 1244,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593523/4243436187.webp"
+          },
+          {
+            "height": 704,
+            "width": 1243,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593523/3802034924.webp"
+          },
+          {
+            "height": 710,
+            "width": 1248,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593523/1875764080.webp"
+          },
+          {
+            "height": 717,
+            "width": 1247,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593523/2630626283.webp"
+          },
+          {
+            "height": 724,
+            "width": 1248,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002593523/3616128695.webp"
+          }
+        ],
+        "location": {
+          "region": "Gävleborg",
+          "municipality": "Hudiksvall",
+          "area": ""
+        },
+        "fuel": "El",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Apple CarPlay"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Rattvärme"
+          }
+        ]
+      },
+      "flairs": [
+        "premiumAd"
+      ],
+      "dcb": false,
+      "description": "Privatleasa Volvo EX30 från 4 495 kr/mån\nHelt elektriska EX30 levererar imponerande prestanda i ett kompakt format. Den kombinerar smart teknik med avancerade säkerhetsfunktioner och en stilren skandinavisk design.\n\nDenna modellversion är utrustad med bland annat Pilot Assist, automatiskt avbländbar backspegel, parkeringshjälp fram och bak, filbytesassistans, stämningsbelysning, elmanövrerad baklucka, Harman Kardon Premium Sound, digital nyckel plus samt trådlös telefonladdning.\n\nJust nu kan du privatleasa EX30 till en förmånlig månadskostnad. Boka din provkörning idag!\n\nDet här ingår:\n\n1 000 mil/år\nDigitala tjänster\nVolvo Cars-appen\nVolvo assistans\nServiceavtal\nPrivatleasingskydd i tre månader\n\n\nPrivatleasing erbjuder ett smidigt alternativ till traditionell finansiering, helt utan krav på kontantinsats. Du betalar en månadskostnad som inkluderar bland annat serviceavtal och vägassistans. När leasingavtalet löper ut lämnar du enkelt tillbaka bilen till oss.\n\nMed privatleasing får du inte bara möjligheten att köra en helt ny bil, utan du får även en förmånlig månadskostnad. Här har vi paketerat två populära modeller till specialpris."
+    },
+    {
+      "dealId": "1002310337",
+      "link": "https://www.blocket.se/annons/1002310337",
+      "listTime": "2025-10-03T16:36:24+02:00",
+      "originalListTime": "2025-02-05T14:59:39+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Din Bil / Audi Malmö - Nya bilar",
+        "id": "40657"
+      },
+      "heading": "Audi A3 Sportback 40 TFSI e 204 hk Proline S tronic",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002310337/1505000720.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/1505000720.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/2513698912.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/1390131391.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/0788784559.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/0324758970.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/0808893010.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/0933064911.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/0804626834.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/2661144723.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/1122690340.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/2499231354.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/2381044830.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/0523977437.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/1777031106.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/0159088302.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/2603405381.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/0645556588.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002310337/0449350072.webp"
+          }
+        ],
+        "location": {
+          "region": "Skåne",
+          "municipality": "Malmö stad",
+          "area": "Öster"
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Automat",
+        "regDate": 2026,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Backkamera"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Välj gärna privatleasing i 36 mån och 1000 mil/år, Serviceavtal för 100:-/månad tillkommer. Försäkring tillkommer. Kampanjpris 439.000:-, Ordinarie pris: 486.300:-. Privatleasingpriset gäller tom 2025-10-30"
+    },
+    {
+      "dealId": "1002179823",
+      "link": "https://www.blocket.se/annons/1002179823",
+      "listTime": "2025-10-03T16:21:42+02:00",
+      "originalListTime": "2024-12-17T17:47:21+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Bilia Haga Norra",
+        "id": "13402"
+      },
+      "heading": "Volvo V60 T6 Plus business lease inkl. service & försäkring*",
+      "price": {
+        "amount": "4 495 kr",
+        "amountExVat": "3 596 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002179823/0566013214.webp",
+      "car": {
+        "images": [
+          {
+            "height": 900,
+            "width": 1273,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002179823/0566013214.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Solna",
+          "area": ""
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": null
+      },
+      "dcb": false,
+      "description": "Just nu har vi extra fina företagserbjudanden på vår V60!\nKontakta närmaste Bilia för mer information. \n\n*Priset är en månadskostnad inkl. moms som är beräknad på 130.000kr inkl. moms i första förhöjd hyra, 36 månader.\nBasservice är, inkluderat under hela avtalstiden och försäkring ingår kostnadsfritt första halvåret.\nPriset gäller modellår 2025 och kan ej kombineras med andra avtal eller rabatter.\nBilen på bilden kan vara extrautrustad och vi reserverar oss för slutförsäljning och eventuella fel i annonsen. \nBilias finansieringspartner är Ziklo bank och räntan är rörlig under avtalstiden"
+    },
+    {
+      "dealId": "1003047855",
+      "link": "https://www.blocket.se/annons/1003047855",
+      "listTime": "2025-10-05T10:00:50+02:00",
+      "originalListTime": "2025-09-20T10:27:54+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Lidköpings Biltjänst",
+        "id": "4134"
+      },
+      "heading": "Volkswagen Passat GTE 24 MÅN INKL V-HJUL",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1003047855/3423933391.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/3423933391.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/2429261014.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/1809388376.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/2384459654.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/3632517090.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/1371032072.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/3000600777.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/2076115342.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/2614574570.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/0425149847.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/4005662534.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/3080336361.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/0026858129.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/4262497858.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/1045145480.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/3158511027.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/3219142411.webp"
+          },
+          {
+            "height": 2048,
+            "width": 1365,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/3282855567.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/4024292610.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/2228757951.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003047855/3568162434.webp"
+          }
+        ],
+        "location": {
+          "region": "Skaraborg",
+          "municipality": "Lidköping",
+          "area": ""
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Automat",
+        "regDate": 2023,
+        "mileage": 4978,
+        "equipment": [
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Rails"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Svensksåld"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "| PRIVATLEASINGKAMPANJ | VOLKSWAGEN PASSAT GTE | 24 MÅNADERS PRIVATLEASING MED O:- I K0NTANTINSATS INKLUSIVE SOMMAR-/VINTERHJUL SAMT 3000 MIL UNDER AVTALSTIDEN FÖR ENDAST 4495:- / MÅNAD!\n\nMÅNADSKOSTNADEN ÄR FAST UNDER HELA AVTALSTIDEN!! \n\nBEGRÄNSAT ANTAL BILAR. DEM FINNS I VITT - SILVER - MÖRKGRÅTT OCH SVART.\n\nFÖRST TILL KVARN!\n\nKontakta Tobias Landström på 0510-28795 alternativt Tobias@biltjanst.se"
+    },
+    {
+      "dealId": "1003094063",
+      "link": "https://www.blocket.se/annons/1003094063",
+      "listTime": "2025-10-04T13:54:12+02:00",
+      "originalListTime": "2025-10-04T13:54:12+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Din Bil / Volkswagen Kungsbacka -  Begagnade bilar",
+        "id": "13019"
+      },
+      "heading": "Volkswagen Tiguan Edition eTSI 150 DSG",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1003094063/1887128480.webp",
+      "car": {
+        "images": [
+          {
+            "height": 395,
+            "width": 689,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003094063/1887128480.webp"
+          },
+          {
+            "height": 403,
+            "width": 796,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003094063/1321799637.webp"
+          },
+          {
+            "height": 390,
+            "width": 714,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003094063/1417354899.webp"
+          }
+        ],
+        "location": {
+          "region": "Halland",
+          "municipality": "Kungsbacka",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2026,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Dragkrok (elutfällbar)"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "LED Strålkastare"
+          },
+          {
+            "label": "Android Auto"
+          },
+          {
+            "label": "Farthållare (adaptiv)"
+          },
+          {
+            "label": "Rails"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Gäller för 1000 mil/år inklusive service. Försäkring, vinterdäck och fordonsskatt tillkommer."
+    },
+    {
+      "dealId": "1003094023",
+      "link": "https://www.blocket.se/annons/1003094023",
+      "listTime": "2025-10-04T13:32:48+02:00",
+      "originalListTime": "2025-10-04T13:32:48+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Din Bil / Volkswagen Bredden - Nya bilar",
+        "id": "38900"
+      },
+      "heading": "Volkswagen Tiguan Life eTSI DSG inkl. Dragpaket!",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1003094023/2345124533.webp",
+      "car": {
+        "images": [
+          {
+            "height": 384,
+            "width": 594,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003094023/2345124533.webp"
+          },
+          {
+            "height": 405,
+            "width": 738,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003094023/0571826298.webp"
+          },
+          {
+            "height": 389,
+            "width": 608,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003094023/3243557979.webp"
+          },
+          {
+            "height": 447,
+            "width": 894,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003094023/1686038264.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Upplands Väsby",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2026,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Svankstöd"
+          },
+          {
+            "label": "Rattvärme"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Nyhet – Tiguan på Privatleasing!\n\nNu öppnar Tiguan eTSI som privatleasing med en vass månadskostnad från 4 495 kr/mån med 0 kr kontant. I kampanjen ingår 1000/mil, dragkrok samt serviceavtal.\n\nUtrustad med bl.a. Backkamera, Digital Cockpit, Keyless, LED strålkastare och bakljus i LED-teknik.\n\n*OBS!* Bilen på bilden kan vara extrautrustad.\n\nVi erbjuder skräddarsydda och förmånliga finansieringslösningar via Volkswagen Finans. Vi tar gärna emot din gamla bil som inbyte. \n\nVälkommen till Volkswagen Bredden för mer information eller kontakta oss på 08 503 333 43."
+    },
+    {
+      "dealId": "1001896110",
+      "link": "https://www.blocket.se/annons/1001896110",
+      "listTime": "2025-10-06T16:44:38+02:00",
+      "originalListTime": "2024-10-02T14:47:23+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Svenska Motor Skövde",
+        "id": "13832"
+      },
+      "heading": "Kia EV3 LONG RANGE Privatleasing från 4495kr/mån KAMPANJ**",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1001896110/0097096281.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896110/0097096281.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896110/4195750009.webp"
+          },
+          {
+            "height": 1535,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896110/0409966288.webp"
+          },
+          {
+            "height": 1535,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896110/0711612423.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896110/1895847139.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896110/0803035025.webp"
+          }
+        ],
+        "location": {
+          "region": "Skaraborg",
+          "municipality": "Skövde",
+          "area": ""
+        },
+        "fuel": "El",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 1,
+        "equipment": null
+      },
+      "dcb": false,
+      "description": "Kia EV3.\n\nKia EV3 är nu beställningsbar och kommer med två olika batteristorlekar. Standard Range med 58, 3 kWh och en räckvidd på 436 km och Long Range 81, 4 kWh som ger en räckvidd på upp till 605 km (WLTP).\n\nKia EV3 har tydliga släktdrag med Kia EV9 samtidigt som den sätter en helt ny standard i det kompakta el-SUV-segmentet. Robusta linjer möts upp och ramas in av en elegant sluttande takprofil. Tack vare bilens korta överhäng och långa hjulbas överraskar Kia EV3 med generösa utrymmen för upp till fem personer. Dessutom kommer EV3 med eftertraktade Plug & Charge, som gör laddstoppen enklare än någonsin. Upplev snabb och sömlös laddning från 10 till 80 procent på ner till 31 minuter. Men det slutar inte där. I allt från materialval till säkerhetssystem och drivlina visar Kia EV3 att det är en komplett bil, designad för alla resor.\nUpptäck Vehicle-to-Load (V2L) och möjligheten att använda din Kia EV3 som en mobil powerbank. Få hjälp i och ur trånga parkeringsfickor tack vare systemet Remote Smart Parking Assist och upplev nästa generations infotainment som ansluter snabbt och trådlöst till Apple CarPlay och AndroidAuto.\n\nKia EV3 energiförbrukning blandad körning enligt körcykeln WLTP 14, 2 kWh/100 km och CO2-utsläpp 0g/km.\n\nBilarna på bilderna kan vara extrautrustade. \n\n**Privatleasing på 36 månader, körsträcka 3.000mil, serviceavtal ingår. Onormalt slitage och övermil debiteras utöver leasinghyran. Månadshyran är rörlig och kan förändras baserat på leasinggivarens upplåningskostnader. Uppläggning- och administrationsavgifter tillkommer. Detta är en finansiering via Kia Finans.\n\nDet ingår alltid 2 veckors gratis försäkring när ni köper en bil av oss. Vi tar din bil i inbyte oavsett märke & ålder, samt erbjuder förmånlig finansiering. Möjlighet till transport finns vid affär. Vi har öppet måndag-fredag 09-18 samt lördag 10-14. Ni når oss på lättast på växeln 0500-44 48 88. Varmt välkomna in till oss på Svenska Motor Servicevägen 3 i Skövde för visning!"
+    },
+    {
+      "dealId": "1002889416",
+      "link": "https://www.blocket.se/annons/1002889416",
+      "listTime": "2025-10-06T19:01:31+02:00",
+      "originalListTime": "2025-08-05T17:30:47+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Toveks Bil",
+        "id": "13448"
+      },
+      "heading": "Audi A3 Sportback 35 TFSI / S-Line Selection / 18\"",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002889416/2517980116.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1155,
+            "width": 1540,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002889416/2517980116.webp"
+          },
+          {
+            "height": 1155,
+            "width": 1540,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002889416/2498985821.webp"
+          },
+          {
+            "height": 1155,
+            "width": 1540,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002889416/3887998765.webp"
+          },
+          {
+            "height": 1155,
+            "width": 1540,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002889416/3778061083.webp"
+          },
+          {
+            "height": 1155,
+            "width": 1540,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002889416/1283178257.webp"
+          },
+          {
+            "height": 1155,
+            "width": 1540,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002889416/3249834323.webp"
+          },
+          {
+            "height": 1155,
+            "width": 1540,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002889416/1025273220.webp"
+          },
+          {
+            "height": 1155,
+            "width": 1540,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002889416/1858764841.webp"
+          },
+          {
+            "height": 1155,
+            "width": 1540,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002889416/3190978995.webp"
+          }
+        ],
+        "location": {
+          "region": "Skaraborg",
+          "municipality": "Skövde",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Autobroms"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Backstartshjälp"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Bluetooth (handsfree)"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Digitalradio (DAB)"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "Euro 6"
+          },
+          {
+            "label": "Fartbegränsare"
+          },
+          {
+            "label": "Farthållare (adaptiv)"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Keyless"
+          },
+          {
+            "label": "LED Strålkastare"
+          },
+          {
+            "label": "Ljussensor"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Mattor (textil)"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Nödsamtal"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Skyltigenkänning"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Sportstolar"
+          },
+          {
+            "label": "Start-/stoppfunktion"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "Touch-/Pekskärm"
+          },
+          {
+            "label": "Trötthetsvarnare"
+          },
+          {
+            "label": "USB-uttag"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Privatleasingkampanj på Audi A3 S-Line Selection finns nu tillgängligt. Bilar finns i flera olika färger och beställning från fabrik. Just denna bil är en Daytona Grå Audi A3 med tillvalet S-Line Selection som ger uppgraderade LED-lampor, 18 Audi Sport fälgar, Tonade rutor, Sportmultifunktionsratt i läder, avplanad nedtill, med växelpaddlar, Interiörbelysningspaket, backkamera, Apple CarPlay & Android Auto, Trådlös laddning av mobiltelefon och mycket mer. Privatleasing 1000 mil, serviceavtal och försäkring tillkommer. Går att lägga till fler mil och vinterhjul. Beställningsnummer på denna bil är: 806201. För mer info kontakta Marcus.Peterson@toveksbil.se eller kom in i bilhallen så hjälper vi dig. Varmt välkommen till Toveks Bil Audi i Skövde."
+    },
+    {
+      "dealId": "1003100343",
+      "link": "https://www.blocket.se/annons/1003100343",
+      "listTime": "2025-10-07T12:08:49+02:00",
+      "originalListTime": "2025-10-07T12:08:49+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Din Bil / Volkswagen Landskrona",
+        "id": "38961"
+      },
+      "heading": "Volkswagen Tiguan 150 eTFSI DSG Dragpaket",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1003100343/2230627766.webp",
+      "car": {
+        "images": [
+          {
+            "height": 506,
+            "width": 900,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100343/2230627766.webp"
+          },
+          {
+            "height": 506,
+            "width": 900,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100343/3135812990.webp"
+          },
+          {
+            "height": 506,
+            "width": 900,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100343/1017895575.webp"
+          },
+          {
+            "height": 506,
+            "width": 900,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100343/0501586596.webp"
+          },
+          {
+            "height": 506,
+            "width": 900,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100343/0814722534.webp"
+          },
+          {
+            "height": 506,
+            "width": 900,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100343/2798150243.webp"
+          },
+          {
+            "height": 506,
+            "width": 900,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003100343/0017485452.webp"
+          }
+        ],
+        "location": {
+          "region": "Skåne",
+          "municipality": "Landskrona",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2026,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "2 klimatzoner"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "AC"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Airbag bak"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Android Auto"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Antispinn"
+          },
+          {
+            "label": "Autobroms"
+          },
+          {
+            "label": "Automatisk parkering"
+          },
+          {
+            "label": "AUX-ingång"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Dimljus fram"
+          },
+          {
+            "label": "Digitalradio (DAB)"
+          },
+          {
+            "label": "Digital hastighetsmätare"
+          },
+          {
+            "label": "Dragkrok (utfällbar)"
+          },
+          {
+            "label": "Eljusterbar ratt"
+          },
+          {
+            "label": "Fartbegränsare"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Farthållare (adaptiv)"
+          },
+          {
+            "label": "Fjärrstyrd start"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Keyless Nyckelfri Start"
+          },
+          {
+            "label": "Klädsel (tyg)"
+          },
+          {
+            "label": "LED Strålkastare"
+          },
+          {
+            "label": "Lättmetallfälgar"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Parkeringssensorer"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "Start-/stoppfunktion"
+          },
+          {
+            "label": "Trötthetsvarnare"
+          },
+          {
+            "label": "USB-uttag"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "4495:-/månaden 1000 mil per år, tillkommer försäkring och vägskatt.\nVälkommen till Din Bil Landskrona, öppetider måndag-fredag 9-18, lördag-söndag 11-15."
+    },
+    {
+      "dealId": "1002162980",
+      "link": "https://www.blocket.se/annons/1002162980",
+      "listTime": "2025-10-07T13:00:54+02:00",
+      "originalListTime": "2024-12-12T14:13:56+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Bilia Eskilstuna Volvo",
+        "id": "18643"
+      },
+      "heading": "Volvo V60 T6 Plus business lease inkl. service & försäkring*",
+      "price": {
+        "amount": "4 495 kr",
+        "amountExVat": "3 596 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002162980/0836461341.webp",
+      "car": {
+        "images": [
+          {
+            "height": 900,
+            "width": 1273,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002162980/0836461341.webp"
+          }
+        ],
+        "location": {
+          "region": "Södermanland",
+          "municipality": "Eskilstuna",
+          "area": ""
+        },
+        "fuel": "",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": null
+      },
+      "dcb": false,
+      "description": "Just nu har vi extra fina företagserbjudanden på vår V60!\nKontakta närmaste Bilia för mer information. \n\n*Priset är en månadskostnad inkl. moms som är beräknad på 130.000kr inkl. moms i första förhöjd hyra, 36 månader.\nBasservice är, inkluderat under hela avtalstiden och försäkring ingår kostnadsfritt första halvåret.\nPriset gäller modellår 2025 och kan ej kombineras med andra avtal eller rabatter.\nBilen på bilden kan vara extrautrustad och vi reserverar oss för slutförsäljning och eventuella fel i annonsen. \nBilias finansieringspartner är Ziklo bank och räntan är rörlig under avtalstiden."
+    },
+    {
+      "dealId": "1003064244",
+      "link": "https://www.blocket.se/annons/1003064244",
+      "listTime": "2025-10-07T13:46:16+02:00",
+      "originalListTime": "2025-09-25T16:12:47+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Bilbolaget Skellefteå",
+        "id": "3441"
+      },
+      "heading": "Ford Explorer RWD Long Range BE *DRAGKROK/VÄRMEPUMP INGÅR*",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1003064244/3735126317.webp",
+      "car": {
+        "images": [
+          {
+            "height": 900,
+            "width": 1600,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003064244/3735126317.webp"
+          }
+        ],
+        "location": {
+          "region": "Västerbotten",
+          "municipality": "Skellefteå",
+          "area": ""
+        },
+        "fuel": "El",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Helljusassistans"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Privatleasing 36mån - 3000mil totalt inkl service med möjlighet till längre körsträcka. \n\n4500mil totalt: +500kr/mån\n6000mil totalt: +1000kr/mån\n7500mil totalt: +1500:-/mån\n9000mil totalt: +2000:-/mån\n\nVinterhjul dubb: +600kr/mån\nGummimattor: +55kr/mån\nBagagerumsmatta: +25kr/mån\n\n* Fast räntekostnad under hela leasingtiden."
+    },
+    {
+      "dealId": "1002614567",
+      "link": "https://www.blocket.se/annons/1002614567",
+      "listTime": "2025-10-03T17:58:57+02:00",
+      "originalListTime": "2025-05-06T15:59:37+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Möller Bil Västerås Skoda",
+        "id": "38877"
+      },
+      "heading": "Skoda Superb Sportline IV SUPERKAMPANJ 4495 /mån",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002614567/4013942876.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/4013942876.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/3907710967.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/1165917660.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/1529992556.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/0929567982.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/1083238007.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/1514473095.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/1563928622.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/3151163191.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/0613143154.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/1072182825.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/4162627631.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/4291299002.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/1574358963.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/2946120719.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/2634815414.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/2978154698.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/0119245000.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002614567/0932036152.webp"
+          }
+        ],
+        "location": {
+          "region": "Västmanland",
+          "municipality": "Västerås",
+          "area": ""
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Automat",
+        "regDate": 2026,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "12V-uttag"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "AC"
+          },
+          {
+            "label": "Android Auto"
+          },
+          {
+            "label": "Antispinn"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Digital hastighetsmätare"
+          },
+          {
+            "label": "Digitalradio (DAB)"
+          },
+          {
+            "label": "Farthållare (adaptiv)"
+          },
+          {
+            "label": "Farthållare (köassist)"
+          },
+          {
+            "label": "Keyless Nyckelfri Start"
+          },
+          {
+            "label": "Klädsel (alcantara)"
+          },
+          {
+            "label": "Motorvärmare"
+          },
+          {
+            "label": "Parkeringssensorer (bak)"
+          },
+          {
+            "label": "Rattvärme"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Avbländande sidospeglar"
+          },
+          {
+            "label": "Avbländande backspegel"
+          },
+          {
+            "label": "Bluetooth (handsfree)"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Dragkrok (utfällbar)"
+          },
+          {
+            "label": "Döda vinkel-varning"
+          },
+          {
+            "label": "Elstolar fram (med minne)"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "Handbroms (elektronisk)"
+          },
+          {
+            "label": "GPS"
+          },
+          {
+            "label": "ISOFIX-fästen fram"
+          },
+          {
+            "label": "LED (helljus)"
+          },
+          {
+            "label": "Massagestolar"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Röststyrning"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Skyltigenkänning"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Sportratt"
+          },
+          {
+            "label": "Sportstolar"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Välkommen till Möller Bil Västerås!\n\nNu har vi en SUPERKAMPANJ på Skoda Superb Sportline Plug-in hybrid!\n\nŠkoda Superb Sportline iV 2025 är en elegant och kraftfull plug-in hybrid som kombinerar en 1,5-liters TSI-bensinmotor med en elmotor för en total effekt på 204 hk och 350 Nm vridmoment. Den erbjuder en elektrisk räckvidd på upp till 127 km enligt WLTP och kan snabbladdas till 80 % på endast 26 minuter med DC-laddning. Sportline-utförandet inkluderar sportchassi, distinkta designinslag och avancerad teknik . Med en acceleration från 0 till 100 km/h på 8,1 sekunder och en topphastighet på 220 km/h kombinerar den prestanda med komfort och hållbarhet\n\nJust nu kan du privatleasa en Skoda Superb Sportline för endast 4495/mån, inklusive serviceavtal, 1000 mil/år och metallic lack.\nKostnader som kan tillkomma är eventuella vinterhjul och försäkring.\nDu kan även privatleasa Superb L&K till ett pangpris, se nedan:\nSuperb L&K privatleasing endast 4455 kr/mån Inklusive 1000 mil/år och serviceavtal.\n\nVälkommen att höra av dig till oss eller komma förbi oss på anläggningen om du har några ytterligare frågor eller funderingar kring denna bil eller någon annan av våra modeller."
+    },
+    {
+      "dealId": "1000806654",
+      "link": "https://www.blocket.se/annons/1000806654",
+      "listTime": "2025-10-03T17:54:45+02:00",
+      "originalListTime": "2023-12-21T10:57:01+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Din Bil / Volkswagen Täby - Nya bilar",
+        "id": "22385"
+      },
+      "heading": "Volkswagen Tiguan eTSI 150 HK DSG Life Edition 4 495 SEK/MÅN",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1000806654/4180542261.webp",
+      "car": {
+        "images": [
+          {
+            "height": 701,
+            "width": 1165,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000806654/4180542261.webp"
+          },
+          {
+            "height": 666,
+            "width": 1212,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000806654/0167167738.webp"
+          },
+          {
+            "height": 697,
+            "width": 1198,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000806654/0717354431.webp"
+          },
+          {
+            "height": 716,
+            "width": 1131,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000806654/2493589618.webp"
+          },
+          {
+            "height": 685,
+            "width": 1151,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000806654/0274186943.webp"
+          },
+          {
+            "height": 772,
+            "width": 1222,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000806654/1969714087.webp"
+          },
+          {
+            "height": 732,
+            "width": 1266,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000806654/2942133498.webp"
+          },
+          {
+            "height": 745,
+            "width": 1260,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000806654/1337027278.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Täby",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Android Auto"
+          },
+          {
+            "label": "Antispinn"
+          },
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Farthållare (adaptiv)"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Klädsel (tyg)"
+          },
+          {
+            "label": "LED Strålkastare"
+          },
+          {
+            "label": "Lättmetallfälgar"
+          },
+          {
+            "label": "Rails"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Volkswagen nya Tiguan med Edition erbjudande inkl. Dragpaket\n\nBilen finns även på attraktiva erbjudanden om privatleasing från 4 495 sek / mån beräknat med 36 mån / 3000 mil i leasingperiod. \n\nBilen innehåller en hel del standard och just nu erbjuds bilen som Edition. \nI kampanjen ingår ex Metallic, 17 Tums fälgar, Keyless, Park assist, Led-pluspaket. utöver detta ingår väldigt mycket mer. \n\nkontakta oss för förslag på din nya Tiguan."
+    },
+    {
+      "dealId": "1002304030",
+      "link": "https://www.blocket.se/annons/1002304030",
+      "listTime": "2025-10-03T19:02:02+02:00",
+      "originalListTime": "2025-02-03T11:30:12+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Din Bil / Audi Danderyd - Nya bilar",
+        "id": "26968"
+      },
+      "heading": "Audi A3 Sportback 40 TFSI e Proline S-tronic *Privatleasing*",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002304030/3994681887.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002304030/3994681887.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002304030/3392195678.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002304030/3696164800.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002304030/2795720954.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002304030/2501376360.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002304030/3784469308.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002304030/3024765174.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002304030/2009603763.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Danderyd",
+          "area": ""
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Backkamera"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Varmt välkomna in till oss på Audi Danderyd\n\nJust nu har vi ett fantastiskt privatleasingerbjudande på vår Audi A3 laddhybrid.\nUpp till hela 14 mils räckvidd på el.\n\nPrivatleasing från 4495kr/mån (1000 mil/år, 36 månader) Kör du längre går det självklart att öka miltal/år mot kostnad.\nPriset är exklusive försäkring och serviceavtal.\n\nHör av dig till oss och få personlig hjälp med ditt bilköp.\nRing oss på 08-503 336 10 så berättar vi mer."
+    },
+    {
+      "dealId": "1003090513",
+      "link": "https://www.blocket.se/annons/1003090513",
+      "listTime": "2025-10-06T09:37:47+02:00",
+      "originalListTime": "2025-10-03T13:47:20+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Aftén Bil VW Arlandastad Nybil",
+        "id": "44503"
+      },
+      "heading": "Volkswagen Passat eHybrid 272hk R-Line *HÖSTKAMPANJ*",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1003090513/1143004883.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/1143004883.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/0336806312.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/1421443990.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/2284873036.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/4239550621.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/2605483286.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/4082416279.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/3779817230.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/3632267179.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/2474421909.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/1896252550.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/0079159365.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/1797455925.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/1753619873.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/1820667120.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/3958618816.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/2190215154.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/3292780215.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/4078863958.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/1103083195.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/2696954661.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/2491119950.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/0463972463.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/1747159875.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/1894038848.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/3815430041.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003090513/0045630032.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Sigtuna",
+          "area": ""
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Automat",
+        "regDate": 2026,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Massagestolar"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Parkeringssensorer"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Aftén Bil Volkswagen presenterar- Volkswagen Passat R-Line Edition 1.5 TSI eHybrid 272hk DSG! \nPrivatleasing från endast 4 495  kr/mån inklusive 1000 mil/år, samt avser en första förhöjd hyra (insats) om 30 000 kronor! \n\nPrivatleasing fr. 4 495 kr/mån inkl. insats om 30 000 kr\nPrivatleasing fr. 4 797 kr/mån inkl. insats om 20 000 kr\nPrivatleasing fr. 5 099 kr/mån inkl. insats om 10 000 kr\nPrivatleasing fr. 5 401 kr/mån inkl. insats om 0 kr\n\nServiceavtal fr: +227 kr/mån\n\n1500 mil/år: +335 kr/mån\n2000 mil/år: +670 kr/mån\n\nVälkommen till nästa steg i bilkörningens evolution – Nya Passat eHybrid. Med en sofistikerad fusion av modern teknologi och stilfull design tar den dig mot en mer hållbar och ändamålsenlig framtid med en räckvidd på upp till 130 km på enbart el!\n\nNya Passat eHybrid kombinerar innovation och prestanda på ett sätt som aldrig tidigare skådats. Med sin avancerade hybridteknik ger den dig både kraft och effektivitet i varje körning. Upplev smidigheten av elektrisk drift tillsammans med den dynamiska prestandan från en bensinmotor.\n\n\n**OBS! Bilen i annonsen är extrautrustad.**\n\nVälkommen till Aftén Bil. En Riktigt Bra Bilaffär. \nVi byter in din gamla bil. Vi finansierar köpet av din nya bil. \nVi har öppet 7 dagar i veckan. Aftén Bil finns i Arlandastad 25 minuter från Stockholm City. \nKontakta oss på 08-400 612 01 / salesvwas@aftenbil.se"
+    },
+    {
+      "dealId": "1002658255",
+      "link": "https://www.blocket.se/annons/1002658255",
+      "listTime": "2025-10-05T21:37:48+02:00",
+      "originalListTime": "2025-06-03T08:34:40+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Björkmans Bil Enköping",
+        "id": "105016"
+      },
+      "heading": "Kia EV3 LONG RANGE 81.4 KWH PRIVATLEASING 4495 KR/MÅN*",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002658255/2581466962.webp",
+      "car": {
+        "images": [
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/2581466962.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/1873322392.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/1877163885.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/2991046065.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/4223368486.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/2094824894.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/3635740487.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/2196797136.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/3985449450.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/3721060805.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/0380586476.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/2253003284.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/1034686831.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/0982040387.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/0858475431.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/2831868111.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/1402962996.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/2724250070.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/1225968140.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/1534950333.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/1244770394.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/3198616727.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658255/3208426998.webp"
+          }
+        ],
+        "location": {
+          "region": "Uppsala",
+          "municipality": "Enköping",
+          "area": ""
+        },
+        "fuel": "El",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 1,
+        "equipment": [
+          {
+            "label": "Apple CarPlay"
+          },
+          {
+            "label": "Android Auto"
+          },
+          {
+            "label": "Trötthetsvarnare"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Autobroms"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Insynsskydd"
+          },
+          {
+            "label": "Elinfällbara sidospeglar"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Kia EV3 är nu beställningsbar och kommer med två olika batteristorlekar. Standard Range med 58,3 kWh och en räckvidd upp till 436 km och Long Range 81,4 kWh som ger en räckvidd på upp till 605 km (WLTP).\n\nKia EV3 har tydliga släktdrag med Kia EV9 samtidigt som den sätter en helt ny standard i det kompakta el-SUV-segmentet. Robusta linjer möts upp och ramas in av en elegant sluttande takprofil. Tack vare bilens korta överhäng och långa hjulbas överraskar Kia EV3 med generösa utrymmen för upp till fem personer. Dessutom kommer EV3 med eftertraktade Plug & Charge, som gör laddstoppen enklare än någonsin. Upplev snabb och sömlös laddning från 10 till 80 procent på ner till 31 minuter. Men det slutar inte där. I allt från materialval till säkerhetssystem och drivlina visar Kia EV3 att det är en komplett bil, designad för alla resor. Upptäck Vehicle-to-Load (V2L) och möjligheten att använda din Kia EV3 som en mobil powerbank. Få hjälp i och ur trånga parkeringsfickor tack vare systemet Remote Smart Parking Assist och upplev nästa generations infotainment som ansluter snabbt och trådlöst till Apple CarPlay och AndroidAuto.\n\nKia EV3 energiförbrukning blandad körning enligt körcykeln WLTP 14,9-16,2 kWh/100 km och CO2-utsläpp 0g/km. \n\nBilarna på bilderna kan vara extrautrustade. Önskar du annan färg eller utrustningsnivå? Kontakta oss så hjälper vi dig att hitta en bil som passar dig.\n\n*Kia Privatleasing: Privatleasingerbjudandet gäller vid orderteckning till 30 September 2025. Avtalstid: 36 mån. max körsträcka: 1000 mil/år. Uppläggningsavgift 1295kr och administrationsavgift 59kr/mån tillkommer. Leasingavgiften är rörlig och kan förändras baserat på framtida justeringar i leasegivarens upplåningskostnader. Leasegivaren kommer inte ändra leasingavgiften om den ränta - som gäller för beräkningen av leasegivarens upplåningskostnader - är eller understiger 0%. Körsträckan är fastlagd i avtalet och går inte att justera upp eller ner under avtalstiden. Onormalt slitage och övermil debiteras utöver leasingavgiften. Leasegivare är Santander Consumer Bank - sedvanlig kreditprövning sker.\n\nAnnonsen avser fabriksbeställning. Kontakta oss för mer information och leveranstid.\n\nBilen har även följande utrustning:\nRattpaddlar för nivå av bromsenergiåtervinning\nVätskekylt batteri som tillåter upprepade snabbladdningar (DC-laddning)\nBatteriuppvärmningssystem för optimal laddning vid låga temperaturer\nEnergibesparande värmepumpsystem för effektiv uppvärmning/nedkylning av kupén\n\nEventuella tillval som försäkring / tillbehör tillkommer på priset.\n\nKia – Alltid 7 års nybilsgaranti – Serviceavtal från 99 kr/mån – Kia Privatleasing inklusive serviceavtal"
+    },
+    {
+      "dealId": "1002658223",
+      "link": "https://www.blocket.se/annons/1002658223",
+      "listTime": "2025-10-05T21:37:49+02:00",
+      "originalListTime": "2025-06-03T08:33:54+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Björkmans Bil Enköping",
+        "id": "105016"
+      },
+      "heading": "Kia EV3 LONG RANGE 81.4 KWH PRIVATLEASING 4495 KR/MÅN*",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002658223/1233010434.webp",
+      "car": {
+        "images": [
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/1233010434.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/1526401337.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/4097559321.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/3989015519.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/0626310191.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/4100713939.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/2422486875.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/2885957524.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/2221829337.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/1144755334.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/1638986550.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/3171744167.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/3697728774.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/3846914728.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/1289437105.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/2973870875.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/1748373272.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/4094888287.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/2660212080.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/0242977038.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/4156997326.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/0761825292.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/1788803965.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002658223/0746127474.webp"
+          }
+        ],
+        "location": {
+          "region": "Uppsala",
+          "municipality": "Enköping",
+          "area": ""
+        },
+        "fuel": "El",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 1,
+        "equipment": [
+          {
+            "label": "Apple CarPlay"
+          },
+          {
+            "label": "Android Auto"
+          },
+          {
+            "label": "Trötthetsvarnare"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Autobroms"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Insynsskydd"
+          },
+          {
+            "label": "Elinfällbara sidospeglar"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Kia EV3 är nu beställningsbar och kommer med två olika batteristorlekar. Standard Range med 58,3 kWh och en räckvidd upp till 436 km och Long Range 81,4 kWh som ger en räckvidd på upp till 605 km (WLTP).\n\nKia EV3 har tydliga släktdrag med Kia EV9 samtidigt som den sätter en helt ny standard i det kompakta el-SUV-segmentet. Robusta linjer möts upp och ramas in av en elegant sluttande takprofil. Tack vare bilens korta överhäng och långa hjulbas överraskar Kia EV3 med generösa utrymmen för upp till fem personer. Dessutom kommer EV3 med eftertraktade Plug & Charge, som gör laddstoppen enklare än någonsin. Upplev snabb och sömlös laddning från 10 till 80 procent på ner till 31 minuter. Men det slutar inte där. I allt från materialval till säkerhetssystem och drivlina visar Kia EV3 att det är en komplett bil, designad för alla resor. Upptäck Vehicle-to-Load (V2L) och möjligheten att använda din Kia EV3 som en mobil powerbank. Få hjälp i och ur trånga parkeringsfickor tack vare systemet Remote Smart Parking Assist och upplev nästa generations infotainment som ansluter snabbt och trådlöst till Apple CarPlay och AndroidAuto.\n\nKia EV3 energiförbrukning blandad körning enligt körcykeln WLTP 14,9-16,2 kWh/100 km och CO2-utsläpp 0g/km. \n\nBilarna på bilderna kan vara extrautrustade. Önskar du annan färg eller utrustningsnivå? Kontakta oss så hjälper vi dig att hitta en bil som passar dig.\n\n*Kia Privatleasing: Privatleasingerbjudandet gäller vid orderteckning till 30 September 2025. Avtalstid: 36 mån. max körsträcka: 1000 mil/år. Uppläggningsavgift 1295kr och administrationsavgift 59kr/mån tillkommer. Leasingavgiften är rörlig och kan förändras baserat på framtida justeringar i leasegivarens upplåningskostnader. Leasegivaren kommer inte ändra leasingavgiften om den ränta - som gäller för beräkningen av leasegivarens upplåningskostnader - är eller understiger 0%. Körsträckan är fastlagd i avtalet och går inte att justera upp eller ner under avtalstiden. Onormalt slitage och övermil debiteras utöver leasingavgiften. Leasegivare är Santander Consumer Bank - sedvanlig kreditprövning sker.\n\nAnnonsen avser fabriksbeställning. Kontakta oss för mer information och leveranstid.\n\nBilen har även följande utrustning:\nRattpaddlar för nivå av bromsenergiåtervinning\nVätskekylt batteri som tillåter upprepade snabbladdningar (DC-laddning)\nBatteriuppvärmningssystem för optimal laddning vid låga temperaturer\nEnergibesparande värmepumpsystem för effektiv uppvärmning/nedkylning av kupén\n\nEventuella tillval som försäkring / tillbehör tillkommer på priset.\n\nKia – Alltid 7 års nybilsgaranti – Serviceavtal från 99 kr/mån – Kia Privatleasing inklusive serviceavtal"
+    },
+    {
+      "dealId": "1001460311",
+      "link": "https://www.blocket.se/annons/1001460311",
+      "listTime": "2025-10-05T20:01:18+02:00",
+      "originalListTime": "2024-06-01T13:34:57+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Bilkompaniet Gävleborg AB",
+        "id": "19394"
+      },
+      "heading": "Nissan X-Trail Privatleasing Inkl Service",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1001460311/3918379280.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1462,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001460311/3918379280.webp"
+          },
+          {
+            "height": 1462,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001460311/1720549802.webp"
+          },
+          {
+            "height": 1500,
+            "width": 2100,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001460311/0150050952.webp"
+          },
+          {
+            "height": 1500,
+            "width": 2100,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001460311/0504044821.webp"
+          }
+        ],
+        "location": {
+          "region": "Gävleborg",
+          "municipality": "Gävle",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": null
+      },
+      "dcb": false,
+      "description": "NISSAN X-TRAIL - FÖR FAMILJEÄVENTYR\n\n\"Privatleasa Nissan X-Trail MHEV Acenta från 4.495 kr/mån[1]\nPrivatleasa Nissan X-Trail e-POWER Acenta från 5.395 kr/mån[1]\nPrivatleasa Nissan X-Trail e-4ORCE Acenta från 5.695 kr/mån[1]\n\nServiceavtal ingår I månadsavgiften. Vinterhjul läggs till med 25% resucerat pris.\n\nAvtal på 3 år, årlig körsträcka 1000, 1500 eller 2000 mil.\n\n\nVarmt välkommen in till oss på Bilkompaniet Gävleborg, Rälsgatan 12 i Gävle.\n\n\"Nissan X-Trail: Bränsleförbrukning WLTP blandad körning l/100 km: 5, 3. CO2-utsläpp g/km: 132-164. \n\nErbjudandet gäller fram till 30.06.2024 och går ej att kombinera med andra avtal eller rabatter. Med reservation för eventuella förändringar. Bilen på bilden är extrautrustad. För mer information kontakta din Nissan-agent.\n[1] Avtalstid: 36 månader, max. 4500 mil körsträcka. Uppläggningsavgift 995 kr och administrationsavgift 59 kr/mån tillkommer. Månadskostnaden är rörlig och kan förändras baserat på framtida justeringar i leasegivarens upplåningskostnader. Onormalt slitage och övermil debiteras utöver hyresavgiften. Erbjuds av Santander Consumer Bank, sedvanlig kreditprövning sker. \""
+    },
+    {
+      "dealId": "1002988441",
+      "link": "https://www.blocket.se/annons/1002988441",
+      "listTime": "2025-09-04T12:25:25+02:00",
+      "originalListTime": "2025-09-04T12:25:25+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Din Bil / Audi Södertälje - Nya bilar",
+        "id": "26973"
+      },
+      "heading": "Audi A3 Sportback TFSI e Proline 204hk *Privatleasing*",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002988441/0517532337.webp",
+      "car": {
+        "images": [
+          {
+            "height": 922,
+            "width": 1640,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002988441/0517532337.webp"
+          },
+          {
+            "height": 919,
+            "width": 1643,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002988441/1339516041.webp"
+          },
+          {
+            "height": 920,
+            "width": 1641,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002988441/2028438082.webp"
+          },
+          {
+            "height": 919,
+            "width": 1641,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002988441/3449934475.webp"
+          },
+          {
+            "height": 921,
+            "width": 1642,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002988441/1608832995.webp"
+          },
+          {
+            "height": 919,
+            "width": 1639,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002988441/4127675462.webp"
+          },
+          {
+            "height": 920,
+            "width": 1641,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002988441/0044964935.webp"
+          },
+          {
+            "height": 916,
+            "width": 1642,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002988441/0362528023.webp"
+          },
+          {
+            "height": 923,
+            "width": 1639,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002988441/2332538837.webp"
+          },
+          {
+            "height": 919,
+            "width": 1643,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002988441/2459660598.webp"
+          },
+          {
+            "height": 922,
+            "width": 1642,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002988441/1197479175.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Södertälje",
+          "area": ""
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Automat",
+        "regDate": 2026,
+        "mileage": 1,
+        "equipment": [
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Varmt välkomna in till oss på Audi Södertälje\n\nJust nu har vi ett fantastiskt privatleasingerbjudande på vår Audi A3 laddhybrid.\nUpp till hela 14 mils räckvidd på el.\n\nPrivatleasing från 4995kr/mån (1000 mil/år, 36 månader) Kör du längre går det självklart att öka miltal/år mot kostnad.\nPriset är exklusive försäkring och serviceavtal.\n\nRing oss gärna på 08-553 779 05 så berättar vi mer."
+    },
+    {
+      "dealId": "1002305821",
+      "link": "https://www.blocket.se/annons/1002305821",
+      "listTime": "2025-05-14T12:33:36+02:00",
+      "originalListTime": "2025-02-03T16:33:50+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Din Bil / Audi Kista - Nya bilar",
+        "id": "26972"
+      },
+      "heading": "Audi A3 Sportback 40 TFSI e Proline S-tronic *Privatleasing*",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002305821/0060307091.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002305821/0060307091.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002305821/3292016040.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002305821/2330660265.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002305821/2859114834.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002305821/0136574967.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002305821/1961173866.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002305821/3481846637.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002305821/3314078260.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002305821/3060774566.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002305821/0052655537.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002305821/1218969963.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002305821/4098010839.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Stockholms stad",
+          "area": "Kista, Hässelby, Vällingby, Spånga"
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Backkamera"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Audi A3 TFSI e laddhybrid privatleasing\nMånadskostnad: 4.495kr/mån (36 mån och 1000mil/år).\n\nTillkommer:\n- Serviceavtal\n- Vinterhjul\n- Försäkring\n\nVälkommen till Audi Center Kista för och personlig och professionell konsultation!\nVi köper gärna in din nuvarande bil och gör bilbytet smidigt för dig.\nTelefonnummer till försäljning av nya bilar: 08-503 336 18"
+    },
+    {
+      "dealId": "1002321540",
+      "link": "https://www.blocket.se/annons/1002321540",
+      "listTime": "2025-10-03T17:17:31+02:00",
+      "originalListTime": "2025-02-07T13:12:51+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Din Bil / Audi Helsingborg - Nya bilar",
+        "id": "40656"
+      },
+      "heading": "Audi A3 Sportback 40 TFSIe Proline S tronic Privatleasing",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002321540/3982781614.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002321540/3982781614.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002321540/1627588195.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002321540/2745573452.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002321540/1743938869.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002321540/3495921694.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002321540/3892668750.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002321540/2780946320.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002321540/3324998984.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002321540/3805400331.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002321540/0711112633.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002321540/0580034150.webp"
+          }
+        ],
+        "location": {
+          "region": "Skåne",
+          "municipality": "Helsingborg",
+          "area": ""
+        },
+        "fuel": "",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Backkamera"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Audi Choice billån 36 månader, 1.000 mil/år från 4 495 kr/månad. Serviceavtal för 100 kr/månad samt Audi försäkring tillkommer. Välj mellan Brilliantsvart och Arkonavit lack. \n\nVälkommen till Din Bil Audi Helsingborg"
+    },
+    {
+      "dealId": "1003097388",
+      "link": "https://www.blocket.se/annons/1003097388",
+      "listTime": "2025-10-06T15:15:58+02:00",
+      "originalListTime": "2025-10-06T15:15:58+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Din Bil / Volkswagen Hammarby - Nya bilar",
+        "id": "23664"
+      },
+      "heading": "Volkswagen Tiguan Life eTSI 150hk DSG KAMPANJ!",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1003097388/3569926067.webp",
+      "car": {
+        "images": [
+          {
+            "height": 506,
+            "width": 900,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003097388/3569926067.webp"
+          },
+          {
+            "height": 506,
+            "width": 900,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003097388/0336190892.webp"
+          },
+          {
+            "height": 506,
+            "width": 900,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003097388/2097056307.webp"
+          },
+          {
+            "height": 506,
+            "width": 900,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003097388/0269819414.webp"
+          },
+          {
+            "height": 506,
+            "width": 900,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003097388/3370382393.webp"
+          },
+          {
+            "height": 506,
+            "width": 900,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003097388/1391355832.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Stockholms stad",
+          "area": "Katarina, Sofia"
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2026,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Dragkrok (elutfällbar)"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "KAMPANJ: Privatleasingpris för Tiguan Life eTSI 150hk DSG inkl dragpaket från 4 495 kr/mån i 36 månader inkl 1000 mil/år och service 36 mån/3000 mil. Kampanjen gäller både lagerbilar och nybeställning tom 31/12 2025.\n\nFör mer information eller bokning av provkörning är du välkommen att höra av dig till oss på 08-503 33 210 eller på bilforsaljning.hammarby@vwstockholm.se. Vi erbjuder även olika typer av finansieringslösningar, hör av dig eller kom förbi så berättar vi mer. OBS! Bilen på bilderna är en exempelbil och kan vara extrautrustad, kontakta oss för exakt pris."
+    },
+    {
+      "dealId": "1002768708",
+      "link": "https://www.blocket.se/annons/1002768708",
+      "listTime": "2025-06-23T14:21:04+02:00",
+      "originalListTime": "2025-06-23T14:21:04+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Din Bil / Audi Hammarby - Nya bilar",
+        "id": "26969"
+      },
+      "heading": "Audi A3 TFSI e Proline 150 kW S tronic *Privatleasing*",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002768708/1632375586.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002768708/1632375586.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002768708/1411296024.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002768708/3556137046.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002768708/1993698389.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002768708/0787559142.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002768708/0362127518.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002768708/3550807697.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002768708/1101928028.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002768708/2059016868.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002768708/0287048056.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Stockholms stad",
+          "area": ""
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Automat",
+        "regDate": 2026,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Backkamera"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Varmt välkomna in till oss på Audi Hammarby\n\nJust nu har vi ett fantastiskt privatleasingerbjudande på vår nya Audi A3 laddhybrid. \nPrivatleasing från 4 495kr/mån (1000 mil/år, 36 månader) Kör du längre går det självklart att öka miltal/år mot kostnad.\nPriset är exklusive försäkring och serviceavtal.\n\nHör av dig till oss och få personlig hjälp med ditt bilköp.\nRing oss på 08-503 336 01 så berättar vi mer."
+    },
+    {
+      "dealId": "1003095878",
+      "link": "https://www.blocket.se/annons/1003095878",
+      "listTime": "2025-10-06T11:19:26+02:00",
+      "originalListTime": "2025-10-06T11:19:26+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Sundströms Bil AB",
+        "id": "18846"
+      },
+      "heading": "Kia EV3 Long Range 81.4 kWh *Privatleasing*",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1003095878/1052883154.webp",
+      "car": {
+        "images": [
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/1052883154.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/0959838638.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/1766294912.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/3271166957.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/3149776755.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/3161322393.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/2073455510.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/0033084645.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/3606526679.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/2673268392.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/1344251928.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/1125458850.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/0168179666.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/0057131723.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/0252371076.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/0045330945.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/3139201784.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/1127442221.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/2787750648.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/1263916747.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/1408089922.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/3665454614.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/1223263180.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/2293438328.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003095878/2689828295.webp"
+          }
+        ],
+        "location": {
+          "region": "Västernorrland",
+          "municipality": "Kramfors",
+          "area": ""
+        },
+        "fuel": "El",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Farthållare (adaptiv)"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Trötthetsvarnare"
+          },
+          {
+            "label": "Handbroms (elektronisk)"
+          },
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Rails"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Fabriksny KIA EV3 Long Range! Med Long Rangebatteriet får man en räckvidd på upp till 605 km (WLTP). Snabbladdning från 10 till 80 procent på ner till 31 minuter. Förvärmning & laddning sköts enkelt via appen KIA Connect.\n\nBilen är klar för omgående leverans. Vi tar er nuvarande bil som inbyte och erbjuder även hemleverans. Vill ni veta mer om bilen? Kontakta oss gärna, vi erbjuder också videovisning via Facetime & WhatsApp."
+    },
+    {
+      "dealId": "1001896834",
+      "link": "https://www.blocket.se/annons/1001896834",
+      "listTime": "2025-10-06T13:15:36+02:00",
+      "originalListTime": "2024-10-02T16:18:00+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Aftén Bil KIA Upplands Väsby Nybil",
+        "id": "15452"
+      },
+      "heading": "Kia EV3 LONG RANGE PRIVATLEASE",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1001896834/0682731210.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/0682731210.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/3541946795.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/0659131288.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/2876201820.webp"
+          },
+          {
+            "height": 1535,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/1581593693.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/3868993027.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/1403593659.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/1668721518.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/2712120352.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/1504686058.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/2219594077.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/2931435465.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/3057150116.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/3323205665.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/0366522154.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/0293845403.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/0166870815.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/4176137062.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/1571435328.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/4264769588.webp"
+          },
+          {
+            "height": 2000,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001896834/2457154314.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Upplands Väsby",
+          "area": ""
+        },
+        "fuel": "El",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": 1,
+        "equipment": [
+          {
+            "label": "Trötthetsvarnare"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Insynsskydd"
+          },
+          {
+            "label": "Rattvärme"
+          },
+          {
+            "label": "Regnsensor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Aftén Bil presenterar - Helt Nya Kia EV3!\n\nPrivatleasing 3000mil/36mån inkl. Service\nVälj till dragkrok, försäkring, fler mil m.m.\n\n*KAMPANJ! Just nu ingår 6mån fri försäkring från KIA Bilförsäkringar.\n\nKia EV3 är nu beställningsbar Long Range 81.4 kWh som ger en räckvidd på upp till 605 km (WLTP).\n\nKia EV3 har tydliga släktdrag med Kia EV9 samtidigt som den sätter en helt ny standard i det kompakta el-SUV-segmentet. Robusta linjer möts upp och ramas in av en elegant sluttande takprofil. Tack vare bilens korta överhäng och långa hjulbas överraskar Kia EV3 med generösa utrymmen för upp till fem personer. Dessutom kommer EV3 med eftertraktade Plug & Charge, som gör laddstoppen enklare än någonsin. Upplev snabb och sömlös laddning från 10 till 80 procent på ner till 31 minuter. Men det slutar inte där. I allt från materialval till säkerhetssystem och drivlina visar Kia EV3 att det är en komplett bil, designad för alla resor. \nUpptäck Vehicle-to-Load (V2L) och möjligheten att använda din Kia EV3 som en mobil powerbank. Få hjälp i och ur trånga parkeringsfickor tack vare systemet Remote Smart Parking Assist och upplev nästa generations infotainment som ansluter snabbt och trådlöst till Apple CarPlay och AndroidAuto.\n\nKia EV3 energiförbrukning blandad körning enligt körcykeln WLTP 14.2 kWh/100 km och CO2-utsläpp 0g/km. \n\nBilarna på bilderna kan vara extrautrustade.\n\nRörlig leasingavgift per månad: 5440kr/mån\n\nSamtliga nya bilar från KIA levereras med 7 års nybilsgaranti för ett väldigt tryggt och bekymmerfritt bilägande.\n\nVi tar gärna mot er bil i inbyte oavsett ålder/miltal och finansierar bilköpet med ett skräddarsytt upplägg för just er. Tveka inte på att kontakta oss för rådgivning. Kom in till oss på Aftén Bil i Upplands Väsby för en provkörning redan idag, du hittar oss på Stockholmsvägen 24.  Aftén Bil - En riktigt bra bilaffär!"
+    },
+    {
+      "dealId": "1001219474",
+      "link": "https://www.blocket.se/annons/1001219474",
+      "listTime": "2025-10-07T16:00:51+02:00",
+      "originalListTime": "2024-04-04T12:29:32+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Bilia Lund Volvo",
+        "id": "14490"
+      },
+      "heading": "Nissan X-Trail P-leasing fr 4.495:- inkl Service & V-hjul",
+      "price": {
+        "amount": "4 495 kr",
+        "billingPeriod": "monthly"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1001219474/2322435234.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1462,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001219474/2322435234.webp"
+          },
+          {
+            "height": 1462,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001219474/1047929628.webp"
+          },
+          {
+            "height": 1500,
+            "width": 2100,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001219474/1024125197.webp"
+          },
+          {
+            "height": 1500,
+            "width": 2100,
+            "image": "https://i.blocketcdn.se/pictures/asl/1001219474/3190443787.webp"
+          }
+        ],
+        "location": {
+          "region": "Skåne",
+          "municipality": "Lund",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2025,
+        "mileage": null,
+        "equipment": [
+          {
+            "label": "Backkamera"
+          },
+          {
+            "label": "Eluppvärmd vindruta"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Rattvärme"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Tonade rutor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "KAMPANJERBJUDANDE !!\n\nPrivatleasa Nissan X-Trail MHEV Acenta från 4,495kr/mån inkl. serviceavtal & Vinterhjul\nMed en första förhöljd leasingavgift på 10.000:- Utan första förhölda leasingavgift + 300 kr/mån\n\nMiltal: 1000mil/år\nAvtalstid: 36 månader\n\nUtöka till 1500mil/år för 175 kr extra per månad.\n\n\nFör mer information kontakta oss:\nMåns Alpfors      mans.alpfors@bilia.se \nEmil Lindvall       emil.lindvall@bilia.se\n\nVälkomna till Bilia Nissan Lund för en provtur!"
+    }
+  ],
+  "hits": 139749,
+  "pages": 3494,
+  "pitId": "",
+  "sortOrder": "Billigast",
+  "scrollId": "",
+  "searchAfter": null,
+  "legacyQueryString": "cg=1020",
+  "landingPageUrl": "",
+  "savedSearch": false,
+  "savedSearchID": "",
+  "savableSearch": false,
+  "shareUrl": "https://www.blocket.se/bilar/sok?sortOrder=Billigast&page=104",
+  "regionNeighbors": false,
+  "dcbLabel": "Reservera online"
+}

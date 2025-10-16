@@ -1,0 +1,93 @@
+import json
+import boto3
+import os
+from botocore.exceptions import ClientError
+
+def lambda_handler(event, context):
+    """
+    AWS Lambda function to send car search URLs (page 1-400) to SQS queue
+    """
+
+    # SQS queue URL - should be set as environment variable
+    queue_url = os.environ.get('SQS_QUEUE_URL')
+
+    if not queue_url:
+        return {
+            'statusCode': 500,
+            'body': json.dumps({
+                'error': 'SQS_QUEUE_URL environment variable not set'
+            })
+        }
+
+    # Initialize SQS client
+    sqs = boto3.client('sqs')
+
+    # Base URL
+    base_url = "https://api.blocket.se/motor-search-service/v4/search/car?sortOrder=H%C3%B6gst+miltal&page="
+
+    sent_messages = 0
+    failed_messages = 0
+
+    try:
+        # Send messages in batches of 10 to optimize SQS operations
+        batch_size = 10
+        for page_start in range(1, 401, batch_size):
+            entries = []
+
+            for page in range(page_start, min(page_start + batch_size, 401)):
+                # Construct the full URL
+                url = f"{base_url}{page}"
+
+                # Create message entry for batch
+                entries.append({
+                    'Id': str(page),
+                    'MessageBody': json.dumps({
+                        'page': page,
+                        'url': url,
+                        'timestamp': context.aws_request_id if context else None
+                    })
+                })
+
+            # Send batch to SQS
+            if entries:
+                try:
+                    response = sqs.send_message_batch(
+                        QueueUrl=queue_url,
+                        Entries=entries
+                    )
+
+                    # Check for failed messages in batch
+                    if 'Failed' in response and response['Failed']:
+                        failed_messages += len(response['Failed'])
+                        print(f"Failed to send {len(response['Failed'])} messages in batch starting at page {page_start}")
+
+                    successful_in_batch = len(entries) - (len(response.get('Failed', [])))
+                    sent_messages += successful_in_batch
+
+                    print(f"Sent batch: pages {page_start}-{min(page_start + batch_size - 1, 400)} ({successful_in_batch} messages)")
+
+                except ClientError as e:
+                    print(f"Error sending batch starting at page {page_start}: {str(e)}")
+                    failed_messages += len(entries)
+
+    except Exception as e:
+        return {
+            'statusCode': 500,
+            'body': json.dumps({
+                'error': f'Unexpected error: {str(e)}',
+                'sent_messages': sent_messages,
+                'failed_messages': failed_messages
+            })
+        }
+
+    # Return success response
+    return {
+        'statusCode': 200,
+        'body': json.dumps({
+            'message': f'Successfully sent {sent_messages} URLs to SQS queue',
+            'total_pages': 400,
+            'sent_messages': sent_messages,
+            'failed_messages': failed_messages,
+            'success_rate': f"{(sent_messages/400)*100:.1f}%" if sent_messages > 0 else "0%"
+        })
+    }

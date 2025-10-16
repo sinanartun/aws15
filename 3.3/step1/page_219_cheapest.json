@@ -1,0 +1,4906 @@
+{
+  "cars": [
+    {
+      "dealId": "1402414971",
+      "link": "https://www.blocket.se/annons/1402414971",
+      "listTime": "2025-10-11T13:15:04+02:00",
+      "originalListTime": "2025-10-11T13:15:04+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Snickare Frenky",
+        "id": "18452661"
+      },
+      "heading": "Saab 9-3 SportCombi 1.8t Linear Euro 4",
+      "price": {
+        "amount": "14 999 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402414971/82604661d1104b7e9c1bea01e2b152e1.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2000,
+            "width": 924,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402414971/82604661d1104b7e9c1bea01e2b152e1.webp"
+          },
+          {
+            "height": 1342,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402414971/7c1d64e02d074cc49359c2329b5c2bc2.webp"
+          },
+          {
+            "height": 924,
+            "width": 2000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402414971/f54236dfad134b6ab0e3af2be5b05a5a.webp"
+          },
+          {
+            "height": 2000,
+            "width": 924,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402414971/018c8a56f5174d4bad19be4c2ce558db.webp"
+          },
+          {
+            "height": 924,
+            "width": 2000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402414971/66bea353f72c4a52ab43b0e0657d5ad3.webp"
+          },
+          {
+            "height": 924,
+            "width": 2000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402414971/a1a622869eb146a9a914b1017ff46769.webp"
+          },
+          {
+            "height": 2000,
+            "width": 924,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402414971/963dccfa9a5e4b9f93895da1d8a7be69.webp"
+          },
+          {
+            "height": 924,
+            "width": 2000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402414971/3f952c5dc378494b99f9d818f2e89803.webp"
+          },
+          {
+            "height": 924,
+            "width": 2000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402414971/841b58b4d4054a6e8316fc3a3dcd88bc.webp"
+          },
+          {
+            "height": 924,
+            "width": 2000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402414971/1dc38f4e851b4b7bbf9d920062377c05.webp"
+          },
+          {
+            "height": 1243,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402414971/b7ae133339e84bcf9a2ee69ed1b3bed4.webp"
+          },
+          {
+            "height": 2048,
+            "width": 1664,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402414971/5a8480b8f60440cab1fd7c2ff4f88e8d.webp"
+          }
+        ],
+        "location": {
+          "region": "Älvsborg",
+          "municipality": "Trollhättan",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2006,
+        "mileage": 28574,
+        "equipment": [
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "CD-växlare"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Mattor (textil)"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Elstol förare"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Lättmetallfälgar"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Bi-xenonstrålkastare"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Stöldlarm"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Saab 9-3 1.8t Bensin Manuell -07\n\nFin och välvårdad Saab 9-3 till salu.\n\nMotor/växellåda: 1.8 bensin, manuell\n\nMiltal: ca 28mil\n\nBesiktad till: 2026-10-31\n\nNyligen gjort:\n\nNy framruta\n\nBromsskivor och bromsar bytta runt om\n\nFull service utförd\n\nUtrustning:\n\nStolvärme fram\n\nKlimatanläggning fungerar klockrent\n\nFarthållare\n\nTvå nycklar\n\nBilen har mycket lite rost, är välservad och i gott skick.\n\nRegnr: XKY 813\n\n📍Trollhättan\n\n👉 En pålitlig och trevlig bil som är redo att rulla många mil till utan bekymmer.\n\n16.000"
+    },
+    {
+      "dealId": "1003072824",
+      "link": "https://www.blocket.se/annons/1003072824",
+      "listTime": "2025-10-14T11:45:40+02:00",
+      "originalListTime": "2025-09-29T12:45:50+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Tim Cars Deluxe Aktiebolag",
+        "id": "100643"
+      },
+      "heading": "Opel Astra 5-dörrar 1.6 Euro 3",
+      "price": {
+        "amount": "14 999 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1003072824/0515996362.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1335,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072824/0515996362.webp"
+          },
+          {
+            "height": 1352,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072824/3346490541.webp"
+          },
+          {
+            "height": 1200,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072824/0814144517.webp"
+          },
+          {
+            "height": 1119,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072824/4186308688.webp"
+          },
+          {
+            "height": 1552,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072824/0320980849.webp"
+          },
+          {
+            "height": 2048,
+            "width": 1687,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072824/1824686057.webp"
+          },
+          {
+            "height": 2048,
+            "width": 1598,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072824/2145308971.webp"
+          },
+          {
+            "height": 771,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072824/3670606872.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072824/3154781714.webp"
+          },
+          {
+            "height": 1365,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/asl/1003072824/3496447832.webp"
+          }
+        ],
+        "location": {
+          "region": "Halland",
+          "municipality": "Laholm",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2003,
+        "mileage": 14769,
+        "equipment": [
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "AC"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Centrallås"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Tonade rutor"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Välkommen in – vi hjälper dig hitta rätt bil!\n\nVinter & sommardäck\nVärme i stolar \nLåg mil\n\nÅrsskatt 1557 kronor\n\nBilen kommer vara nybesiktigad och nyservad vid leverans \n\n\nKör drömmen hos oss på TIM CARS \n\nKänn friheten i en bil som passar just dig. Vi erbjuder noggrant utvalda bilar, \ntrygg finansiering och personlig service – för att varje resa ska börja med ett leende. \n\n [industrigatan11 i laholm ]"
+    },
+    {
+      "dealId": "1400571032",
+      "link": "https://www.blocket.se/annons/1400571032",
+      "listTime": "2024-03-18T15:05:59.165566+01:00",
+      "originalListTime": "2024-03-18T15:05:59.155157+01:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Samuel",
+        "id": "4559981"
+      },
+      "heading": "Mercedes-Benz W201 190 E",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1400571032/39def74180894d829280a5a178fe93b8.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1024,
+            "width": 768,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1400571032/39def74180894d829280a5a178fe93b8.webp"
+          }
+        ],
+        "location": {
+          "region": "Västerbotten",
+          "municipality": "Umeå",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 1985,
+        "mileage": 24311,
+        "equipment": [
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Centrallås"
+          },
+          {
+            "label": "Svensksåld"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Hej, har en Mercedes till salu\nNybesiktad 2 är framåt\nTaklucka\nSov däck\nSkavanker finns \n\nMvh "
+    },
+    {
+      "dealId": "1400821707",
+      "link": "https://www.blocket.se/annons/1400821707",
+      "listTime": "2024-05-18T14:37:25+02:00",
+      "originalListTime": "2024-05-18T14:37:25+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Larsson",
+        "id": "18866805"
+      },
+      "heading": "Ford transit Connect T220 LWB 1.8 TDDi",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1400821707/873deef430e447cb8179f1ce4b42a419.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1024,
+            "width": 768,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1400821707/873deef430e447cb8179f1ce4b42a419.webp"
+          },
+          {
+            "height": 1024,
+            "width": 576,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1400821707/24b890f1f67e4c25b01405047783324a.webp"
+          },
+          {
+            "height": 1024,
+            "width": 576,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1400821707/01b90403be64485aa4d2dad52f46eadd.webp"
+          },
+          {
+            "height": 1024,
+            "width": 576,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1400821707/631de28877f545db98f52b21fdfa6742.webp"
+          },
+          {
+            "height": 1024,
+            "width": 576,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1400821707/8de84013a5564cb185c392e2cd9ed351.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Upplands Väsby",
+          "area": ""
+        },
+        "fuel": "Diesel",
+        "gearbox": "Manuell",
+        "regDate": 2003,
+        "mileage": 25935,
+        "equipment": [
+          {
+            "label": "Plant lastutrymme"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "0762-138700 Larsson.\nÄr utomlands och hemma igen den 13e Juni, nås säkrast på telefon då.\nFord transit Custom 2003 med stort lastutrymme (högt tak) extrabilderna är vad som gjordes i juni 2022, nya trösklar och kamrem+ vattenpump, folieringen har blivit matt med åren, jag har haft bilen privat i 5 år och den fungerar helt ok och besiktigad till januari 2025, ljusrampen på taket har olika blinklägen och sen finns extraljus och nya strålkastare, bilen är inget för pedanter och har rökt med nedvevad ruta men lukt finns.\nFinns sommar och vinterdäck och dragkrok."
+    },
+    {
+      "dealId": "1400987306",
+      "link": "https://www.blocket.se/annons/1400987306",
+      "listTime": "2024-06-28T18:31:05+02:00",
+      "originalListTime": "2024-06-28T18:31:05+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "shop_prisjakt",
+        "id": "22743452"
+      },
+      "heading": "Citroën C4 1.6 e-HDi Airdream EGS Euro 5 (ej körbar)",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1400987306/a34ee1e1ef0c4ee7adcf4df061696ffc.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1500,
+            "width": 2000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1400987306/a34ee1e1ef0c4ee7adcf4df061696ffc.webp"
+          },
+          {
+            "height": 1500,
+            "width": 2000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1400987306/316fcd20599847aca3691678d96af21b.webp"
+          }
+        ],
+        "location": {
+          "region": "Skåne",
+          "municipality": "Klippan",
+          "area": ""
+        },
+        "fuel": "Diesel",
+        "gearbox": "Automat",
+        "regDate": 2011,
+        "mileage": 23647,
+        "equipment": [
+          {
+            "label": "Backstartshjälp"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Akustikrutor"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "USB-uttag"
+          },
+          {
+            "label": "Fartbegränsare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Dimljus fram"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Start-/stoppfunktion"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Euro NCAP 5"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Tonade rutor"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Bilen är ej i körbart skick.\n\nDiesel. Väldigt snål. Stor bränsletank. Besiktad till februari 2025. \n\nVerkstaden säger att det är fel på fyra bränsleinsprut. Finns att hämta i Halmstad. Är inte körbar utan måste fraktas därifrån.\n\n"
+    },
+    {
+      "dealId": "1401168210",
+      "link": "https://www.blocket.se/annons/1401168210",
+      "listTime": "2024-08-14T08:18:08+02:00",
+      "originalListTime": "2024-08-14T08:18:08+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "jamielarssonb",
+        "id": "14798647"
+      },
+      "heading": "Opel Astra 1.6 Twinport Euro 4",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single",
+        "oldPrice": "20 000 kr"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1401168210/7bcca92d4ac6400b8820cdf07d7de6d5.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1401168210/7bcca92d4ac6400b8820cdf07d7de6d5.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1401168210/7b2c26b2114a47b9b336c20f49396bce.webp"
+          }
+        ],
+        "location": {
+          "region": "Uppsala",
+          "municipality": "Enköping",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2004,
+        "mileage": 22038,
+        "equipment": [
+          {
+            "label": "Elhissar (fram)"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Plant lastutrymme"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "AC"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Hejsan!\n\nSäljer min bil jag använt att pendla till jobbet med då jag ska börja studera.\n\nDet är en Opel Astra av 2004 års modell med manuell låda. \n\nBilen har gått 22000 mil, den fungerar otroligt bra både i motor och låda.\n\nSommardäck och vinterdäck.\n\nSkattad och besiktad nu i Augusti 2024 samt nyservad.\n\nKamrem böts nyligen med stämpel i serviceboken samt nytt batteri som enbart är en vecka gammalt!\n\nEn riktig pärla.\n\nStår 10 minuter utanför Enköping!"
+    },
+    {
+      "dealId": "1401520451",
+      "link": "https://www.blocket.se/annons/1401520451",
+      "listTime": "2024-11-29T19:31:22+01:00",
+      "originalListTime": "2024-11-29T19:31:22+01:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Adam R",
+        "id": "15180087"
+      },
+      "heading": "Opel Astra Caravan 1.6 Euro 4 Nyservad",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1401520451/54ea6786810b4f6d8c4780eb51173aa5.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1401520451/54ea6786810b4f6d8c4780eb51173aa5.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1401520451/3b18ba8cd60c405b8b8bb8c5b619d8c5.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1401520451/ca9e7f2aae224f469d8dab9ad6d32361.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1401520451/9f40b6ba0c054c62b4d673f7b9d21bec.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1401520451/6bfe517e0042453e9e9461dd227aa1b4.webp"
+          },
+          {
+            "height": 1536,
+            "width": 2048,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1401520451/be0fb2dd133f45aab0907e926cc18602.webp"
+          }
+        ],
+        "location": {
+          "region": "Östergötland",
+          "municipality": "Norrköping",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2009,
+        "mileage": 21704,
+        "equipment": [
+          {
+            "label": "Backstartshjälp"
+          },
+          {
+            "label": "Elhissar (fram)"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Plant lastutrymme"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "AC"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Ska sälja bilen som jag fick i inbyte\n2009\n21 xxx mil\nNyservad med olja och filter\nS o v däck\nBes till 2025-03-31\n2st nycklar\n\nFörst till kvarn som gäller"
+    },
+    {
+      "dealId": "1401548721",
+      "link": "https://www.blocket.se/annons/1401548721",
+      "listTime": "2024-12-14T08:35:24+01:00",
+      "originalListTime": "2024-12-14T08:35:24+01:00",
+      "seller": {
+        "type": "Privat",
+        "name": "camilla",
+        "id": "23718363"
+      },
+      "heading": "Saab 9-3 5-dörrar 2.0 Turbo Aero",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single",
+        "oldPrice": "17 000 kr"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1401548721/b4b594ad34d147fb87e6e1475069c272.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1401548721/b4b594ad34d147fb87e6e1475069c272.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Vallentuna",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2001,
+        "mileage": 36841,
+        "equipment": [
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Elstol förare (med minne)"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Avstängningsbar airbag"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Lättmetallfälgar"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Elstol passagerare"
+          },
+          {
+            "label": "Sportratt"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Bromsassistans"
+          },
+          {
+            "label": "Klädsel (helskinn)"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Dimljus fram"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "12V-uttag"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Mattor (textil)"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "AUX-ingång"
+          },
+          {
+            "label": "Bagagerumsmatta"
+          },
+          {
+            "label": "Bluetooth"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Mattor (gummi)"
+          },
+          {
+            "label": "Motorvärmare (kupéuttag)"
+          },
+          {
+            "label": "Sportstolar"
+          },
+          {
+            "label": "Tonade rutor"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Nybesiktigad\n4 hjulsinställning 2021\nBytt drivaxel, växellåda, koppling, skivor och belägg fram 2022\nOlja o filter 2023 och 2024\nBromsar längsgående båda sidor 2021\nSpindelled vä 2023\nTvärbana fram båda sidor rostlagade 2024\nGolv vä fram rostlagaf 2024\nBromsskivor och belägg bak 2024\nHandbroms renoverad 2024\nKablar baslåda dragna\nH och R sänkningsfjädrar\nChippad\nBilstolen B6 stötdämpare\n2 nycklar\nSommar och dubbade vinterdäck 17 tum\nFungerande AC\nGAS stereo GMA151BT\nGår bra men tyvärr för låg för mig numera\nAvställd\n36.700 mil\nSäljes i befintligt skick\nCamilla "
+    },
+    {
+      "dealId": "1000597042",
+      "link": "https://www.blocket.se/annons/1000597042",
+      "listTime": "2023-10-31T15:59:08+01:00",
+      "originalListTime": "2023-10-31T15:59:08+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "CarCenter Lidköping",
+        "id": "42362"
+      },
+      "heading": "Peugeot 307 5-dörrar 1.6 isk XT Euro 3/REP OBJEKT",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1000597042/0147860260.webp",
+      "car": {
+        "images": [
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000597042/0147860260.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000597042/1950490812.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000597042/2560588363.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000597042/3012934735.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000597042/0233636842.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000597042/3288320082.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000597042/1802654615.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000597042/0799476066.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000597042/1540012507.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000597042/3935107943.webp"
+          },
+          {
+            "height": 960,
+            "width": 1280,
+            "image": "https://i.blocketcdn.se/pictures/asl/1000597042/3734352617.webp"
+          }
+        ],
+        "location": {
+          "region": "Skaraborg",
+          "municipality": "Lidköping",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2002,
+        "mileage": 13881,
+        "equipment": null
+      },
+      "dcb": false,
+      "description": "Möjlighet till 0kr i kontantinsats, Besiktad till 2024-02-29/Kamrem bytt 2022-08-21(126825)/Årsskatt 1985kr/Sommar och vinterdäck\nBilen säljes som reparationsobjekt att laga gäller följande: Bilen behöver service samt eventull spolning av växellåda då den kan ha svårt att sätta i växlarna ibland samt att vissa gånger fastnar den när den skall lägga i växel 4a bilen fortsätter då i växel 3. Skavanker finns på bilen såsom rost, BEHÖVER BESIKTAS!!!\n\nRing gärna för mer info 0510-10787"
+    },
+    {
+      "dealId": "1402065674",
+      "link": "https://www.blocket.se/annons/1402065674",
+      "listTime": "2025-06-18T11:50:51+02:00",
+      "originalListTime": "2025-06-18T11:50:51+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Zedendahl Advokatbyrå",
+        "id": "6705747"
+      },
+      "heading": "Volkswagen Caddy Kombi 1.9 TDI Euro 3 säljes i konkurs",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402065674/c603e8a25db34780817a919379c815df.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402065674/c603e8a25db34780817a919379c815df.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402065674/58e94e341efc462d9ee893f781a58160.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402065674/69d3bd83d4fd4a679f3cbc6cdcfe70c9.webp"
+          }
+        ],
+        "location": {
+          "region": "Dalarna",
+          "municipality": "Gagnef",
+          "area": ""
+        },
+        "fuel": "Diesel",
+        "gearbox": "Manuell",
+        "regDate": 2005,
+        "mileage": 28193,
+        "equipment": [
+          {
+            "label": "AC"
+          },
+          {
+            "label": "Mattor (gummi)"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Elhissar (fram)"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Uppvärmda spolare"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "ABS-bromsar"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Fordonet säljes i konkursen Nicklas Permats dödsbo muf Springcreek Development Sweden.\n\nFordonet säljes efter budgivning och i befintligt skick. \n\nVisning av fordonet sker efter överenskommelse efter att indikativt bud lämnats. \n\nFordonet är avställt. \n\nFör frågor och bud, kontakta konkurser@zedendahl.se"
+    },
+    {
+      "dealId": "1402250128",
+      "link": "https://www.blocket.se/annons/1402250128",
+      "listTime": "2025-08-16T11:44:30+02:00",
+      "originalListTime": "2025-08-16T11:44:30+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Rasmus",
+        "id": "4733188"
+      },
+      "heading": "Mercedes-Benz A 160 L Avantgarde Euro 4",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402250128/86b8d01e9e384e43a04247073d32a0c1.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1142,
+            "width": 1522,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402250128/86b8d01e9e384e43a04247073d32a0c1.webp"
+          },
+          {
+            "height": 1139,
+            "width": 1520,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402250128/ffec00e7122d46e281ff9dbc5ff19557.webp"
+          },
+          {
+            "height": 1159,
+            "width": 1545,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402250128/3cb0b7effbfa4cb696e9d00c38e6635a.webp"
+          },
+          {
+            "height": 1602,
+            "width": 1203,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402250128/f731dfc6ebbf4fa69ae82352be5893bc.webp"
+          },
+          {
+            "height": 1267,
+            "width": 1689,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402250128/c09c5e13389c4e95b344b733d27f6bcd.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Österåker",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2004,
+        "mileage": 18188,
+        "equipment": [
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Uppvärmda spolare"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "AC"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Tonade rutor"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Stöldlarm"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Ej besiktad , nya sommardäck, vinterdäck 1 nyckel \nVänsterbakdörr låser ibland inte "
+    },
+    {
+      "dealId": "1402256128",
+      "link": "https://www.blocket.se/annons/1402256128",
+      "listTime": "2025-08-18T07:33:46+02:00",
+      "originalListTime": "2025-08-18T07:33:46+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "mikaelf",
+        "id": "17554699"
+      },
+      "heading": "Simca 1000 0.95",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402256128/7c828f2e9c084333a40f095efad742b5.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402256128/7c828f2e9c084333a40f095efad742b5.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402256128/76484c79074f44cc925e922fab9ff129.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402256128/bbb0698f41444a64a2f3189fa90ceb44.webp"
+          },
+          {
+            "height": 2250,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402256128/00f38f135f3549fa9c872e848047f934.webp"
+          }
+        ],
+        "location": {
+          "region": "Västerbotten",
+          "municipality": "Sorsele",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 1964,
+        "mileage": 0,
+        "equipment": [
+          {
+            "label": "Svensksåld"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Behöver se över startmotorn o bromsarna okej skick."
+    },
+    {
+      "dealId": "1402258547",
+      "link": "https://www.blocket.se/annons/1402258547",
+      "listTime": "2025-08-18T20:25:33+02:00",
+      "originalListTime": "2025-08-18T20:25:33+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "josefin",
+        "id": "18336722"
+      },
+      "heading": "Mercedes-Benz Vito 109 CDI 2.7t",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402258547/d4c59fa663334119b2d55f3730154a75.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1607,
+            "width": 1206,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402258547/d4c59fa663334119b2d55f3730154a75.webp"
+          },
+          {
+            "height": 1864,
+            "width": 1399,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402258547/339d13d768554b69b06b4a55dc9b42dd.webp"
+          },
+          {
+            "height": 900,
+            "width": 1600,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402258547/81071a61fe78456289c930bf4a4c824b.webp"
+          },
+          {
+            "height": 900,
+            "width": 1600,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402258547/6260002c7c454b76924d8435095fc4b5.webp"
+          },
+          {
+            "height": 1800,
+            "width": 1440,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402258547/d17c4983f38f4041ace06b657e3bc518.webp"
+          },
+          {
+            "height": 1794,
+            "width": 1346,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402258547/c11a75d5aef3497784989138caa746e5.webp"
+          }
+        ],
+        "location": {
+          "region": "Dalarna",
+          "municipality": "Orsa",
+          "area": ""
+        },
+        "fuel": "Diesel",
+        "gearbox": "Manuell",
+        "regDate": 2005,
+        "mileage": 25446,
+        "equipment": [
+          {
+            "label": "Backstartshjälp"
+          },
+          {
+            "label": "Elhissar (fram)"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Ljussensor"
+          },
+          {
+            "label": "Dimljus fram"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Mattor (textil)"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "AC"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Mattor (gummi)"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "En bil med själ som kräver omtanke! Den här skåpbilen är omgjord, isolerad och registrerad som husbil med plats för två. Däremot behöver den byta/laga tvärbalk, byta fjäder för dämpning vänster fram samt laga glapp i styrleden. Just nu går den heller inte att starta, mest troligt på grund av gammalt bränsle i bränslepumpen. Helt nytt startbatteri finns dock! Ett projekt för den händige eller varför inte använda bilen som en mysig gäststuga på gården? Jag har själv inte möjlighet att ta hand om det som behöver fixas, därav försäljning. Hör gärna av er med frågor eller önskemål om att titta på bilen! Hälsningar, Josefin"
+    },
+    {
+      "dealId": "1402269447",
+      "link": "https://www.blocket.se/annons/1402269447",
+      "listTime": "2025-08-22T14:33:45+02:00",
+      "originalListTime": "2025-08-22T14:33:45+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "marcusseth",
+        "id": "17272542"
+      },
+      "heading": "Subaru Outback 2.0 4WD Business Euro 5",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402269447/79e9c9dbb8594bb1916337cfacfbd9a4.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1122,
+            "width": 1496,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402269447/79e9c9dbb8594bb1916337cfacfbd9a4.webp"
+          },
+          {
+            "height": 1100,
+            "width": 1466,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402269447/525da1e2411549d88c59838b00c3a054.webp"
+          },
+          {
+            "height": 1094,
+            "width": 1458,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402269447/a6294108a98f46758611f5ea599c978e.webp"
+          },
+          {
+            "height": 1245,
+            "width": 1661,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402269447/f95c0c0a68734b6ba7c1e8ebb7f19d74.webp"
+          },
+          {
+            "height": 1241,
+            "width": 1654,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402269447/80ad6c2247e14ed7b884153a0c8cf8f9.webp"
+          },
+          {
+            "height": 1243,
+            "width": 1656,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402269447/fc76b389fe0b4149aac00a863054f448.webp"
+          }
+        ],
+        "location": {
+          "region": "Värmland",
+          "municipality": "Munkfors",
+          "area": ""
+        },
+        "fuel": "Diesel",
+        "gearbox": "Manuell",
+        "regDate": 2010,
+        "mileage": 26126,
+        "equipment": [
+          {
+            "label": "Backstartshjälp"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Plant lastutrymme"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "USB-uttag"
+          },
+          {
+            "label": "Dimljus fram"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Centrallås"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "AUX-ingång"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Elinfällbara sidospeglar"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Rails"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Subaru Outback med misstänkt motorhaveri. Stannade vid färd.\n2.0 Diesel 150hk, 6-växlad manuell.\nBesiktad tom. 2025-08-31.\nFina sommar och vinterhjul."
+    },
+    {
+      "dealId": "1402279659",
+      "link": "https://www.blocket.se/annons/1402279659",
+      "listTime": "2025-08-25T14:52:30+02:00",
+      "originalListTime": "2025-08-25T14:52:30+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Henrik Bengtsson",
+        "id": "5861360"
+      },
+      "heading": "Mercedes-Benz E 320 T CDI 5G-Tronic Avantgarde Euro 4",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402279659/16d3b8df136342888a8b9674b1bfaaf3.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402279659/16d3b8df136342888a8b9674b1bfaaf3.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402279659/067f42b7e3994645889ca3898b08f368.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402279659/e166582f87814b328d8017604485c0c6.webp"
+          }
+        ],
+        "location": {
+          "region": "Älvsborg",
+          "municipality": "Borås",
+          "area": ""
+        },
+        "fuel": "Diesel",
+        "gearbox": "Automat",
+        "regDate": 2005,
+        "mileage": 40130,
+        "equipment": [
+          {
+            "label": "Backstartshjälp"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Avbländande sidospeglar"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "CD-växlare"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Fartbegränsare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "GPS"
+          },
+          {
+            "label": "Dimljus fram"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "AUX-ingång"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Elstol förare"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Tonade rutor"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Bi-xenonstrålkastare"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Rails"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Elstol passagerare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Bil som stått ett tag\nville inte pumpa tryck i diesel railen.\nSitter en om648 i den, vilken är mist sakt trimvänlig.\nHar pillat en hel del med dessa bilar och väl insatt vad det gäller speciellt motorbiten.\nHar alldeles för många många bilar och behöver skära ner"
+    },
+    {
+      "dealId": "1402233371",
+      "link": "https://www.blocket.se/annons/1402233371",
+      "listTime": "2025-08-18T16:11:36+02:00",
+      "originalListTime": "2025-08-10T19:55:19+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "simonbue",
+        "id": "21616664"
+      },
+      "heading": "Skoda Octavia 1.6 FSI Euro 4",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single",
+        "oldPrice": "20 000 kr"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402233371/cc3f5d2ce98d4bdbb77bce5c7b68419d.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2250,
+            "width": 1067,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402233371/cc3f5d2ce98d4bdbb77bce5c7b68419d.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1065,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402233371/fd925337c79d41359acf4347f013cd4c.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1067,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402233371/681135af35be439390c5629ec6d76eb1.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1065,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402233371/dec1fada3bda4df2ae92540e8d1f1523.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1065,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402233371/70cf0f9aa8714a53ab2ee321b8b22bd3.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1067,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402233371/e23f94f7848b410eb64b625fe8e6068f.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1067,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402233371/303cf866997249d7af59e77b7bf90681.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1067,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402233371/74dbcdb086ed49a19a15c1276527f7cb.webp"
+          }
+        ],
+        "location": {
+          "region": "Halland",
+          "municipality": "Hylte",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2006,
+        "mileage": 37517,
+        "equipment": [
+          {
+            "label": "Elhissar (fram)"
+          },
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Dimljus fram"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "SKODA OTAVIA\n\n\n\n\nBesiktad till och med 29 november 2025.\n37K mil skoda Octavia,  som fortsatt kör  jättefint:  5 - 7 liter bensin på 100 km.\n\nManuell växel \n\nSommerdäck på 15” alu  och Pirelli dubb vinterdäck, på stål\n\n\nGrått tyg med elstolar  fram Ac blåser   - bilradio och cd-spelare, antenn relativt bra, ska nog fixas, men funkar. \n\n\nFjäder/stötdämpare  har fixats i sommer 2024 = Nybytt Fjädrar fram och bak, stötdämpare fram, länkarmar fram, bromsskivor fram, bromsklossar fram, hjullager bak. \n\n\nNegativ: rost och lite repor finns på dom vanliga ställena, för denna modell.\n\nPositivt: En ägare ( Jag som säljer, har importerede bilen till Sverige fra Danmark, då jag flyttede hit, det var i 2019 ).\n\nBilen går fint i motor samt växellåda. \nDet ingår takrälls, snökedjor till just den storlek däck 195/65/15.\n\n\nPris inkluderar då sommardäck + vinterdäck med god marginal & dubbar kvar på dessa: \nPirelli / Nokian.\n\nSvenskt körkort krävs, ägarbyte I appen, på datorn, betala med swish.\n\nFörbrukning:  5-7 liter på 10 mil (95okt benzin).\n\nUtrustning.\n\nFönster Elhissar (fram)\n\ninför vintern: x 4 Pirelli dubbdäck med manga mil kvar (vinter)\n\nISOFIX-fästen bak\n\nFällbara baksäten\n\nStartspärr\n\nKylt handfack\n\nSminkspegel\n\nKlädsel tyg grå.\n\nYttre temperaturmätare\n\nLäslampa\n\nCD-Stereo\n\nSpolare fram/bak\n\nEluppvärmda sidospeglar\n\nABS-bromsar\n\nAntisladd\n\nSido-airbags\n\nDelbart baksäte\n\nautopilot, fartpilot\n\nFärddator\n\nAntispinn\n\nSätesvärme (fram x 2 )\n\nAv-bländare backspegel\n\nACC\n\nAvstängningsbar airbag höger om baby-säte placeras där\n\nFarthållare\n\nTagbyglar medföljer\n\nServostyrning\n\n12V-uttag\n\nCentrallås (fjärrstyrt)\n\nAirbag passagerare fram och passagerare: Airbags 9 stk\n\nLastrum matta i plast, extra inköp följer med\n\nTvå nycklar.\n\n"
+    },
+    {
+      "dealId": "1402254514",
+      "link": "https://www.blocket.se/annons/1402254514",
+      "listTime": "2025-08-17T20:31:41+02:00",
+      "originalListTime": "2025-08-17T20:31:41+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "sharif",
+        "id": "35322792"
+      },
+      "heading": "Hyundai i30",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single",
+        "oldPrice": "20 000 kr"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402254514/ac239e9cb101411c88c594f0e0a0a4f4.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2220,
+            "width": 1080,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402254514/ac239e9cb101411c88c594f0e0a0a4f4.webp"
+          },
+          {
+            "height": 2220,
+            "width": 1080,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402254514/0a68d7f595394d46afdc01f1cc2c5c0f.webp"
+          }
+        ],
+        "location": {
+          "region": "Skåne",
+          "municipality": "Åstorp",
+          "area": ""
+        },
+        "fuel": "Diesel",
+        "gearbox": "Manuell",
+        "regDate": 2008,
+        "mileage": 38702,
+        "equipment": [
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "AUX-ingång"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Centrallås"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Dimljus fram"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Stöldlarm"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "Tonade rutor"
+          },
+          {
+            "label": "USB-uttag"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Det är dags och sälja min bil som jag har haft i 9 år. Fungerar utmärkt. Finns dragkrok. "
+    },
+    {
+      "dealId": "1402284962",
+      "link": "https://www.blocket.se/annons/1402284962",
+      "listTime": "2025-08-26T23:15:06+02:00",
+      "originalListTime": "2025-08-26T23:15:06+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "max",
+        "id": "22343617"
+      },
+      "heading": "Volvo V70",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402284962/8332771ec6cb4c7aa5668d49c2345837.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1600,
+            "width": 720,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402284962/8332771ec6cb4c7aa5668d49c2345837.webp"
+          },
+          {
+            "height": 1600,
+            "width": 720,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402284962/851a9928dfc943b9b17f4e00e5d2bb29.webp"
+          },
+          {
+            "height": 1600,
+            "width": 720,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402284962/c6673b88684f4909a394987c2f437669.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Upplands-Bro",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2004,
+        "mileage": 286575,
+        "equipment": [
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Rails"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Stöldlarm"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Hej.\nNu det är dags att sälja Volvo V70 på grund av flytning.\nmer information ringa eller smsa 0733277447\nGöran Eriksson "
+    },
+    {
+      "dealId": "1402272413",
+      "link": "https://www.blocket.se/annons/1402272413",
+      "listTime": "2025-08-23T14:17:03+02:00",
+      "originalListTime": "2025-08-23T14:17:03+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "gladeer",
+        "id": "8892983"
+      },
+      "heading": "Hyundai H-1 Minibuss 2.4",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402272413/54f9bf3eb9174507bac0bfccf26aa3d7.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1280,
+            "width": 960,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402272413/54f9bf3eb9174507bac0bfccf26aa3d7.webp"
+          },
+          {
+            "height": 1280,
+            "width": 960,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402272413/eb082168388c49b59fe4ec02f30c471f.webp"
+          }
+        ],
+        "location": {
+          "region": "Norrbotten",
+          "municipality": "Pajala",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 1998,
+        "mileage": 16800,
+        "equipment": [
+          {
+            "label": "Elhissar (fram)"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Centrallås"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Obesiktad och avställd.\nKiruna bil, lite rost.\nStartar och går bra, men bromsar inte bra. Så måste tas på släp. \nSkavanker och små reparationer finns. \nSommar + vinter däck kommer med.\n\n15000 kr eller bud\n\nSäljs i befintligt skick."
+    },
+    {
+      "dealId": "1402280091",
+      "link": "https://www.blocket.se/annons/1402280091",
+      "listTime": "2025-08-25T16:39:36+02:00",
+      "originalListTime": "2025-08-25T16:39:36+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "ahlmantim",
+        "id": "19215178"
+      },
+      "heading": "Renault Kangoo Express 1.9 dCi 4WD Euro 3",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402280091/dce17c3a444a42e0b094c254c88c0f48.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402280091/dce17c3a444a42e0b094c254c88c0f48.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402280091/47b4c42b30e44ceb8054ae83073c9375.webp"
+          }
+        ],
+        "location": {
+          "region": "Skåne",
+          "municipality": "Malmö stad",
+          "area": "Centralt Norr"
+        },
+        "fuel": "Diesel",
+        "gearbox": "Manuell",
+        "regDate": 2004,
+        "mileage": 24871,
+        "equipment": [
+          {
+            "label": "Elhissar (fram)"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "AC"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Besiktigad o skattad\n\nRing för mer information!\n0735774084\nMvh Tim "
+    },
+    {
+      "dealId": "1402280590",
+      "link": "https://www.blocket.se/annons/1402280590",
+      "listTime": "2025-08-25T18:32:35+02:00",
+      "originalListTime": "2025-08-25T18:32:35+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Richard",
+        "id": "5664872"
+      },
+      "heading": "Nissan X-Trail 2.0 4x4 bytes",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402280590/20fdf97a912a4b4f94a1534ae4770868.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402280590/20fdf97a912a4b4f94a1534ae4770868.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402280590/810fd16735204081a758a73d1b342625.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402280590/5d03634953cc407c9846902ee3a26804.webp"
+          }
+        ],
+        "location": {
+          "region": "Dalarna",
+          "municipality": "Orsa",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2002,
+        "mileage": 29841,
+        "equipment": [
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Plant lastutrymme"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Centrallås"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Rails"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Stöldlarm"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Tänkte kolla intresset på bilen då den bara står just nu.\n\nFyrhjulsdriven.\nSommar och vinterdäck.\nEtt nytt hjullager bak samt abs givare.\nObesiktad (kvar att göra innan besiktning vad jag vet är att byta kamaxelgivare och motionera vänster bromsok fram).\nSnart gått 30 000mil.\n\nKör med den ibland.\n\nBytes mot annan bil \nDefekter är inget hinder och jag lägger inga pengar emellan."
+    },
+    {
+      "dealId": "1402281587",
+      "link": "https://www.blocket.se/annons/1402281587",
+      "listTime": "2025-08-25T22:21:09+02:00",
+      "originalListTime": "2025-08-25T22:21:09+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "jonneahlen",
+        "id": "22799762"
+      },
+      "heading": "Volvo S60 ",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402281587/626ab1b1ee8a437eba6e204667bedd3d.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1067,
+            "width": 1422,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402281587/626ab1b1ee8a437eba6e204667bedd3d.webp"
+          },
+          {
+            "height": 1111,
+            "width": 1481,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402281587/67453cb8e83b47fcb25e44839dab58bb.webp"
+          },
+          {
+            "height": 1045,
+            "width": 1392,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402281587/e3e00c99f20a480d83fc9026365eec61.webp"
+          },
+          {
+            "height": 1446,
+            "width": 1084,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402281587/f57dbf0cd0d3466d9b0cb84215b5598a.webp"
+          },
+          {
+            "height": 1792,
+            "width": 1008,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402281587/bda3ba73b7294e888ee1da5f4ce3c791.webp"
+          }
+        ],
+        "location": {
+          "region": "Västerbotten",
+          "municipality": "Åsele",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2004,
+        "mileage": 37000,
+        "equipment": null
+      },
+      "dcb": false,
+      "description": "Fin och ekonomisk bil \nBesiktad till 2026-03-31\nVinter däck och sommar däck "
+    },
+    {
+      "dealId": "1402282275",
+      "link": "https://www.blocket.se/annons/1402282275",
+      "listTime": "2025-08-26T11:21:25+02:00",
+      "originalListTime": "2025-08-26T11:21:25+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "anderselof",
+        "id": "3779135"
+      },
+      "heading": "Volvo 142 påbörjat appk bygge rallybil",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402282275/1e4513324fa44396b321e340af25df6a.webp",
+      "car": {
+        "images": [
+          {
+            "height": 976,
+            "width": 1632,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402282275/1e4513324fa44396b321e340af25df6a.webp"
+          },
+          {
+            "height": 976,
+            "width": 1632,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402282275/1dc30b2beabd4a82accb0c9d033a01c0.webp"
+          },
+          {
+            "height": 976,
+            "width": 1632,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402282275/9484b2669c0f4851871120520d14ed46.webp"
+          },
+          {
+            "height": 976,
+            "width": 1632,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402282275/d34fbbd1ba7d43dc8bba85696d4edcbe.webp"
+          },
+          {
+            "height": 976,
+            "width": 1632,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402282275/9b89c2357eff422d8f764defc3f0bb91.webp"
+          },
+          {
+            "height": 1134,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402282275/4f24d861f3f74e09b27dc68217b2813c.webp"
+          },
+          {
+            "height": 1134,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402282275/017bbcbc97594f25b03981590ff8b3e2.webp"
+          },
+          {
+            "height": 1134,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402282275/66ddf55e7752420cb6916dd69fa092b1.webp"
+          },
+          {
+            "height": 1134,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402282275/3a6711523dd442f8afa9edc15e5267b0.webp"
+          },
+          {
+            "height": 1134,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402282275/86c6bb192674460bb90b7d97ebcacaa6.webp"
+          },
+          {
+            "height": 1134,
+            "width": 2016,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402282275/37198416bf2c4aa785bda93b056bb21a.webp"
+          }
+        ],
+        "location": {
+          "region": "Örebro",
+          "municipality": "Laxå",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 1969,
+        "mileage": 22192,
+        "equipment": [
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Svensksåld"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Kaross på std. axlar påbörjat app-k bygge.\nIngen fordons pärm uttagen utan är fortfarande väg registrerad.\n\n"
+    },
+    {
+      "dealId": "1402288744",
+      "link": "https://www.blocket.se/annons/1402288744",
+      "listTime": "2025-08-28T12:19:50+02:00",
+      "originalListTime": "2025-08-28T12:19:50+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "pedro",
+        "id": "19959902"
+      },
+      "heading": "Volkswagen Golf  2008 1.6 Multifuel",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402288744/190292634b2e4236819095dfba9a0c74.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1600,
+            "width": 1200,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402288744/190292634b2e4236819095dfba9a0c74.webp"
+          },
+          {
+            "height": 1600,
+            "width": 1200,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402288744/0bf5834894ec4948b8ae386739a51fd6.webp"
+          },
+          {
+            "height": 1600,
+            "width": 1200,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402288744/b7e1a76c897740f88f690c3a1ad42f5e.webp"
+          },
+          {
+            "height": 2048,
+            "width": 1536,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402288744/7f8158ed19af4ae3b3a79f9d288df08b.webp"
+          },
+          {
+            "height": 2048,
+            "width": 1536,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402288744/ee9a4c6721ca41c5bd8940097e7dd47e.webp"
+          },
+          {
+            "height": 2048,
+            "width": 1536,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402288744/140c9b17ffc045e684ef97d8fdc12d98.webp"
+          },
+          {
+            "height": 1200,
+            "width": 1600,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402288744/6f6489b0bf0645c889a8aaf28d1b016c.webp"
+          }
+        ],
+        "location": {
+          "region": "Göteborg",
+          "municipality": "Strömstad",
+          "area": ""
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Manuell",
+        "regDate": 2008,
+        "mileage": 29196,
+        "equipment": [
+          {
+            "label": "Elhissar (fram)"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Kylt handsfack"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Uppvärmda spolare"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Bromsassistans"
+          },
+          {
+            "label": "Euro NCAP 5"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "Avbländande backspegel"
+          },
+          {
+            "label": "Avstängningsbar airbag"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "12V-uttag"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "AC"
+          },
+          {
+            "label": "AUX-ingång"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Volkswagen Golf 2008,. Bilen säljs i befintligt skick. Den går bra att tanka med bensin och etanol.\nBilen har gått 300020km. Broms lampa lyser med det går att bromsa, Senast besiktat 2024-10-28 och skattat fram till maj 2026. Bilen följer med vinterdäck använda en säsong.\nViktigt att veta:  rost förekommer, bromsarna behöver underhåll."
+    },
+    {
+      "dealId": "1402285410",
+      "link": "https://www.blocket.se/annons/1402285410",
+      "listTime": "2025-08-27T09:51:01+02:00",
+      "originalListTime": "2025-08-27T09:51:01+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "ulrikaro",
+        "id": "6787552"
+      },
+      "heading": "Subaru Outback 2.0 4WD Business Euro 5",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402285410/affa37a8a9b94cc39c1b71288f02cd9f.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1530,
+            "width": 2040,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402285410/affa37a8a9b94cc39c1b71288f02cd9f.webp"
+          }
+        ],
+        "location": {
+          "region": "Västerbotten",
+          "municipality": "Robertsfors",
+          "area": ""
+        },
+        "fuel": "Diesel",
+        "gearbox": "Manuell",
+        "regDate": 2011,
+        "mileage": 28456,
+        "equipment": [
+          {
+            "label": "Backstartshjälp"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Plant lastutrymme"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "USB-uttag"
+          },
+          {
+            "label": "Dimljus fram"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Centrallås"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "AUX-ingång"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Elinfällbara sidospeglar"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Rails"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "bilen är ett rep objekt då den har ett olje lekage ,behöver byta vevaxel tätning och den varnar för partikelfiltret.  Har en liten gnag skada på baksidan av baksätet, för övrigt går den väldigt bra , tar sig fram mycket bra  ."
+    },
+    {
+      "dealId": "1402302943",
+      "link": "https://www.blocket.se/annons/1402302943",
+      "listTime": "2025-09-01T19:43:07+02:00",
+      "originalListTime": "2025-09-01T19:43:07+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Emil",
+        "id": "22665831"
+      },
+      "heading": "Audi A4 Avant 2.0 TDI quattro Comfort, S Line Euro 4",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402302943/e1fcd316c81548dfaa2d41a29aa77bde.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1277,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402302943/e1fcd316c81548dfaa2d41a29aa77bde.webp"
+          },
+          {
+            "height": 1357,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402302943/27bda1584c64479983cafb096d7c23bf.webp"
+          },
+          {
+            "height": 1293,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402302943/97361cbd90ae4fcdb76b4a9d206af22b.webp"
+          },
+          {
+            "height": 1488,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402302943/dae1c42c7924479d985cd66736fdbada.webp"
+          },
+          {
+            "height": 1080,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402302943/19ff4de0516343bc889c692287710729.webp"
+          },
+          {
+            "height": 1524,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402302943/b6b5451c15ac453688e971a734be7afe.webp"
+          },
+          {
+            "height": 1509,
+            "width": 1170,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402302943/ff0a06e1d2c94f9197e1443c28cc1942.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1040,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402302943/c778f8978af945fdabb7595f4d7beda4.webp"
+          }
+        ],
+        "location": {
+          "region": "Göteborg",
+          "municipality": "Mölndal",
+          "area": ""
+        },
+        "fuel": "Diesel",
+        "gearbox": "Manuell",
+        "regDate": 2007,
+        "mileage": 34327,
+        "equipment": [
+          {
+            "label": "Elhissar (fram)"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Dragkrok (avtagbar)"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Sportratt"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Dimljus fram"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "ISOFIX-fästen fram"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Mattor (textil)"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Sportstolar"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Rails"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Stöldlarm"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Säljer bilen då jag ej hinner fixa den. \n\nNyservad \nNy kamaxel\nNy kamrem\nKvitto finns på allt \n\nDragkrok\nQuattro \nS line\n34***mil\n\nGick bra, men kan vara svårstartad när den är kall. (Går igång direkt men dör om man inte ger den lite gas). \n\nFick felkod ”missfire cyl 4”.\nHar beställt en spridare som ligger hemma som ingår vid smidig affär. \n\nKan lite till och från upplevas trött på låga varv, samt bli lite hackig vid tyngre motstånd.\nFinns ytlig rost på förardörren, man ser färgen igenom på vissa ställen.\n\nBilen är kompressionstestad, vilket visade att inget där skulle vara fel. \n- Inga varningslampor\n\nDen står just nu på verkstaden, dem har inte börjat jobba på den pga motorhuven inte gick att öppna. \nDet skulle bli en pendelbil för sommaren, men icke. Nu är sommaren slut och även mitt tålamod för bilen, så säljer den istället till någon med mer tid och kunskap! \n\nDen behöver eventuellt bogseras/bärgas/hämtas på släp om man inte får igång den.\n\nJag körde dit bilen efter en Stockholmsresa med bilen då det inte kändes helt hundra, dem säger sig inte få igång den nu, men inget är gjort mellan de tillfällena. "
+    },
+    {
+      "dealId": "1402307268",
+      "link": "https://www.blocket.se/annons/1402307268",
+      "listTime": "2025-09-03T09:58:11+02:00",
+      "originalListTime": "2025-09-03T09:58:11+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "otto",
+        "id": "12427257"
+      },
+      "heading": "Subaru Legacy 3.0 4WD Euro 4",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402307268/c3d7e83494354800b5722cee425866ca.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2250,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402307268/c3d7e83494354800b5722cee425866ca.webp"
+          },
+          {
+            "height": 2250,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402307268/ac2d864910fa495c9d37dc6965fcdca5.webp"
+          },
+          {
+            "height": 2250,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402307268/cdf1584d80de40caa71f365114698d02.webp"
+          }
+        ],
+        "location": {
+          "region": "Södermanland",
+          "municipality": "Gnesta",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2005,
+        "mileage": 31443,
+        "equipment": [
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Fartbegränsare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "AC"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Egentligen en superfin bil. Dessvärre har den blivit stående efter att den kokade av outredd anledning. Tiden att fixa räckte inte till och nu måste den bort.\n\nStår på i princip okörda sommardäck. Det finns också vinterdäck till. \nObesiktigad och avställd, hämtas med släp.\nEtt kap för den händige!\n\nAllt gott,\n\nOtto"
+    },
+    {
+      "dealId": "1002673502",
+      "link": "https://www.blocket.se/annons/1002673502",
+      "listTime": "2025-05-22T13:34:21+02:00",
+      "originalListTime": "2025-05-22T13:34:21+02:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Netauktion - Bilar",
+        "id": "40446"
+      },
+      "heading": "Mercedes-Benz CLK 200 Kompressor Coupé Avantgarde Euro 4",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002673502/1742758138.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1081,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002673502/1742758138.webp"
+          },
+          {
+            "height": 1081,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002673502/2571874516.webp"
+          },
+          {
+            "height": 1081,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002673502/1614210098.webp"
+          },
+          {
+            "height": 1081,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002673502/2570206641.webp"
+          },
+          {
+            "height": 1081,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002673502/2881539452.webp"
+          },
+          {
+            "height": 1081,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002673502/2380507865.webp"
+          },
+          {
+            "height": 1081,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002673502/0075334999.webp"
+          },
+          {
+            "height": 1081,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002673502/0944640069.webp"
+          },
+          {
+            "height": 1081,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002673502/3955161576.webp"
+          },
+          {
+            "height": 1081,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002673502/3709269799.webp"
+          },
+          {
+            "height": 1081,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002673502/3937984833.webp"
+          },
+          {
+            "height": 1081,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002673502/3718332651.webp"
+          },
+          {
+            "height": 1081,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002673502/0700973420.webp"
+          },
+          {
+            "height": 1081,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002673502/4142199939.webp"
+          },
+          {
+            "height": 1081,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002673502/1231115093.webp"
+          },
+          {
+            "height": 1081,
+            "width": 1920,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002673502/0590764312.webp"
+          }
+        ],
+        "location": {
+          "region": "Göteborg",
+          "municipality": "",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2005,
+        "mileage": 17921,
+        "equipment": [
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "AUX-ingång"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Dimljus fram"
+          },
+          {
+            "label": "Elhissar (fram)"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "Fartbegränsare"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Ljussensor"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Mattor (textil)"
+          },
+          {
+            "label": "Multifunktionsratt"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Sportstolar"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Stöldlarm"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "Tonade rutor"
+          },
+          {
+            "label": "Uppvärmda spolare"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Marknadsvärde: 15 000 kr ej avd. moms\nAvslutas: 2025-06-05 19:58\nLagringsort: Gbg/Ringön\n\nMercedes-Benz CLK 200 Coupe -05 (reparationsobjekt)\n- mätarställning, ca: 17 921 mil\n\nMercedes CLK 200 Coupe med bl.a. följande utrustning: ABS-bromsar, ACC/klimatanläggning, ESP, elhissar, elspeglar, farthållare, färddator, inbyggd handsfree/blåtand, multifunktionsratt, servostyrning, stolsvärme, CD-stereo, mm.\n\n16\" LM-fälgar på M+S däck, ca: 1-2 mm\n\nServicebok senast ifylld 2014-02-07 vid 14 726 mil\n\nAnmärkningar:\nNycklar saknas och fordonet är således ej körbart samt behöver bärgas i samband med hämtningen. Punktering höger framdäck, rutor har tejpats igen för att det inte skall regna in då de är något nersänkta och ej går att hissa upp vid test utan tändningsnyckel. Spricka i vindrutan passagerarsidan, stenskott/rispor och bruksslitage förekommer se bilder för mer information. Säljes som reparationsobjekt.\n\nNotera att fordon säljes med samt har fordonsrelaterade skulder som följer fordonet. Status fordonsrelaterade skulder 2025-05-19, ca: 9 kr + ev. avgifter till Kronofogdemyndigheten. För mer information samt aktuell status gällande fordonsrelaterade skulder och avgifter behöver man som köpare själv kontakta Transportstyrelsen & Kronofogdemyndigheten. Innan man aktivt lägger bud och deltar i auktionen av objektet.\n\nInformation från Transportstyrelsen:\nRegistreringsnummer: WCW750\nIdentifieringsnummer: WDB2093421F130347\nFordonsstatus: Avställd (2017-10-03)\nBesiktigas senast: 2018-02-28\nKörförbudsorsak: Utebliven kontrollbesiktning\nÅrsskatt: 2406 kronor\n\nLängd: 4650 mm\nBredd: 1740 mm\nHöjd: Uppgift saknas.\nTjänstevikt (faktisk vikt): 1540 kg\n\nVäxellåda: MANUELL\nSlagvolym: 1796 cm3\nDrivmedel: Bensin\nMotoreffekt: 120 kW\n\nSäljs på auktion hos Netauktion med avslut den 05/06-25.\nFör fler bilder och mer information följ länk nedan!\nhttps://www.netauktion.se/auktion/fordon-4?product=238506"
+    },
+    {
+      "dealId": "1402312946",
+      "link": "https://www.blocket.se/annons/1402312946",
+      "listTime": "2025-09-05T10:33:43+02:00",
+      "originalListTime": "2025-09-05T10:33:43+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Patrik",
+        "id": "13174011"
+      },
+      "heading": "Volvo S60 2.4 Business",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402312946/eab79293a07c40558efdcb76d905ed65.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1327,
+            "width": 996,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402312946/eab79293a07c40558efdcb76d905ed65.webp"
+          },
+          {
+            "height": 1406,
+            "width": 1055,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402312946/6dbcb7817bc94cadba23d6291f855d67.webp"
+          },
+          {
+            "height": 1673,
+            "width": 1255,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402312946/4d15a34d244f4d99ab9f57d8bccd553a.webp"
+          },
+          {
+            "height": 1602,
+            "width": 1201,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402312946/b56d72e97710437bb7a306dbd88cb9ce.webp"
+          }
+        ],
+        "location": {
+          "region": "Värmland",
+          "municipality": "Forshaga",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2002,
+        "mileage": 43001,
+        "equipment": [
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "ISOFIX-fästen fram"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Lättmetallfälgar"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Tonade rutor"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Stöldlarm"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Besiktad tills 31/1-26\nSkattad tills 1/5-26\nGår bra, små fix finns.\nVinterdäck finns.\n\n"
+    },
+    {
+      "dealId": "1402317738",
+      "link": "https://www.blocket.se/annons/1402317738",
+      "listTime": "2025-09-06T20:19:46+02:00",
+      "originalListTime": "2025-09-06T20:19:46+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "hawre",
+        "id": "8582611"
+      },
+      "heading": "Opel Corsa 5-dörrar 1.2 Twinport Euro 4",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402317738/b7ae1eb74014434b87f171a0d59534e5.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2250,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402317738/b7ae1eb74014434b87f171a0d59534e5.webp"
+          },
+          {
+            "height": 2250,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402317738/7adae3cf25ba428cbfdc181a6017bbcd.webp"
+          },
+          {
+            "height": 2250,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402317738/17957bc43ea340cd8ae869736575970c.webp"
+          },
+          {
+            "height": 2250,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402317738/9b49cb15d3184efba8e62b2cabeb7227.webp"
+          }
+        ],
+        "location": {
+          "region": "Skåne",
+          "municipality": "Burlöv",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2006,
+        "mileage": 18230,
+        "equipment": [
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Plant lastutrymme"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "AC"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Hej ...\nNu det är dags och säljer bilen för att köpte stora bil. \nDet är passar bäst till någon som tänker o köra billjet. \n2 Nyckel \nMS däck\nBesiktigas senast 2026-01-31\nMätarställning  175893\nÅrsskatt  976 kr och det är betalt till  April nästa år. \nBilen fungerar perfekt i motor och växellåda. \nJag säljer billjet med snabb affär...\n"
+    },
+    {
+      "dealId": "1402324226",
+      "link": "https://www.blocket.se/annons/1402324226",
+      "listTime": "2025-09-08T19:32:17+02:00",
+      "originalListTime": "2025-09-08T19:32:17+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Mattias",
+        "id": "7766423"
+      },
+      "heading": "Saab 9-5 \"nybesiktad\"2.0t BioPower Linear",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402324226/302c5595f392422f8160bcb3d18e99d3.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402324226/302c5595f392422f8160bcb3d18e99d3.webp"
+          },
+          {
+            "height": 2250,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402324226/17b10d1375b8485086020e813e2e1594.webp"
+          },
+          {
+            "height": 2250,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402324226/20299b225e32465999687ea147c73c28.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402324226/90a5f3522e924c67b2e265c3044ef81c.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402324226/1f452a05fa7d42508bf5fc93ad6ff325.webp"
+          }
+        ],
+        "location": {
+          "region": "Västerbotten",
+          "municipality": "Umeå",
+          "area": ""
+        },
+        "fuel": "Miljöbränsle/Hybrid",
+        "gearbox": "Manuell",
+        "regDate": 2005,
+        "mileage": 18947,
+        "equipment": [
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Mattor (textil)"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Elstol förare"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "AC"
+          },
+          {
+            "label": "Lättmetallfälgar"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "Avstängningsbar airbag"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Rails"
+          },
+          {
+            "label": "12V-uttag"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Antispinn"
+          },
+          {
+            "label": "Motorvärmare"
+          },
+          {
+            "label": "Motorvärmare (kupéuttag)"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Finns i Sävar strax utanför Umeå. \n\nBVSA\nSäljer denna Saab som jag ej behöver längre.\n\nFemmans växel fungerar ej (har varit såhär i 3000 mil så kommer inte förvärras.)men alla andra fungerar väldigt bra. Lös Växellåda kan fås med gratis om önskas.\n\nI övrigt en praktisk bil som är perfekt för någon som behöver en stor bil och inte kör på sträckor med så höga hastigheter. Den ligger på ungefär 3000varv i 100kmh på fyrans växel. \n\nGodkänd på besiktning Maj/juni 2025?\n19000 mil\nLåg skatt typ 1600kr\n2.0 biopower 150hk men som har fått Saabs trim program så den är 185hk på bensin.\nNybytt Olja och filter\nAC fungerar bra.\nNya skivor fram\nAllt nytt i handbromsväg.\nNya bromsklossar fram\nNya bromssköldar bak\nFräscha sommardäck. Vinterdäck finns men kommer ej skick.\nBromsrör bak är det längre av dom bytt 2025.\n\nFinns lite rost men inget allvarligt. Fin i lacken I övrigt. \nEn växellåda kan fås med utan extra kostnad."
+    },
+    {
+      "dealId": "1002388074",
+      "link": "https://www.blocket.se/annons/1002388074",
+      "listTime": "2025-09-09T14:57:58+02:00",
+      "originalListTime": "2025-02-27T09:30:52+01:00",
+      "seller": {
+        "type": "Företag",
+        "name": "Bilar i Gällstad AB",
+        "id": "35477"
+      },
+      "heading": "Mazda 6 Sedan 2.0 MZR Touring Drag",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single",
+        "oldPrice": "29 900 kr"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/asl/1002388074/3089345512.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1500,
+            "width": 2000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002388074/3089345512.webp"
+          },
+          {
+            "height": 1500,
+            "width": 2000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002388074/0641072734.webp"
+          },
+          {
+            "height": 1500,
+            "width": 2000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002388074/1009199022.webp"
+          },
+          {
+            "height": 1500,
+            "width": 2000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002388074/2680098065.webp"
+          },
+          {
+            "height": 1500,
+            "width": 2000,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002388074/3331290739.webp"
+          },
+          {
+            "height": 2048,
+            "width": 1536,
+            "image": "https://i.blocketcdn.se/pictures/asl/1002388074/0632099348.webp"
+          }
+        ],
+        "location": {
+          "region": "Älvsborg",
+          "municipality": "Ulricehamn",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2007,
+        "mileage": 16000,
+        "equipment": [
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Centrallås"
+          },
+          {
+            "label": "Elhissar (fram)"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Se bild för fel som behöver fixas."
+    },
+    {
+      "dealId": "1402270784",
+      "link": "https://www.blocket.se/annons/1402270784",
+      "listTime": "2025-08-22T21:14:57+02:00",
+      "originalListTime": "2025-08-22T21:14:57+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Alex",
+        "id": "4136600"
+      },
+      "heading": "Volvo S60 2.5T Business Euro 4",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single",
+        "oldPrice": "190 003 kr"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402270784/ff2d513df8f9443f9c0add44b784c78b.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1542,
+            "width": 1157,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402270784/ff2d513df8f9443f9c0add44b784c78b.webp"
+          },
+          {
+            "height": 1147,
+            "width": 1529,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402270784/fa0894fe45dd4d03a980a4139ab8076d.webp"
+          },
+          {
+            "height": 1481,
+            "width": 1111,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402270784/db139d0e55424bca86ef3c0743093613.webp"
+          },
+          {
+            "height": 1632,
+            "width": 1224,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402270784/a3a1a79613f6485abbf16ad5b1a25362.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Lidingö",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Automat",
+        "regDate": 2004,
+        "mileage": 28971,
+        "equipment": [
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "ISOFIX-fästen fram"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Elstol förare"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Tonade rutor"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Elinfällbara sidospeglar"
+          },
+          {
+            "label": "Bi-xenonstrålkastare"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Stöldlarm"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Besiktad till 20251231\nAvställ\nFin invändigt och går felfritt \nPigg och bensinsnål trotts snabb i fart \nSpegel kåpa höger sida saknas och så är det plåtskada på dörrar och höger fram flygel\nSe på bilder, inget som stör körning eller helhetsintrycket \n\nFinns lite oljeläckage under passagerar sidan så sänker priset till 15 tusen\n\nSkriv gärna om ni undrar ngt"
+    },
+    {
+      "dealId": "1402331423",
+      "link": "https://www.blocket.se/annons/1402331423",
+      "listTime": "2025-09-11T21:50:19+02:00",
+      "originalListTime": "2025-09-11T21:50:19+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Mattias",
+        "id": "21731412"
+      },
+      "heading": "Opel Vivaro Skåpbil 2.9t 2.0 CDTI ",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402331423/6d553d42e5fb439784b3118ef0b0023a.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402331423/6d553d42e5fb439784b3118ef0b0023a.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402331423/a9318dab02d748fc9b697d8dd23e7bc6.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402331423/16d2e4a9b4d945ed8706fa845fd1d7de.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402331423/1d9e733c5a794007a5983359a5849ee6.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402331423/6f4deaf6507f468aa9a0dd7d0f7daec8.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402331423/a0b8932fb8784565aa10d72bc9a8798f.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402331423/1a1b8937a37445e4b7f74f5ab802b1a0.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402331423/c5dff8a05ea64ec3b966706409d0f179.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402331423/a55fec4694894b3a8751f9e587e9928e.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402331423/36c3ca97a51f420d882dccc06e759edf.webp"
+          }
+        ],
+        "location": {
+          "region": "Gävleborg",
+          "municipality": "Gävle",
+          "area": ""
+        },
+        "fuel": "Diesel",
+        "gearbox": "Manuell",
+        "regDate": 2011,
+        "mileage": 19270,
+        "equipment": [
+          {
+            "label": "Plant lastutrymme"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Centrallås"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Bromsassistans"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "12V-uttag"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "AC"
+          },
+          {
+            "label": "AUX-ingång"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Säljer defekt opel vivaro.\n\nSkjutdörrar på bägge sidor, verkstadsinredning och takräcke.\n\nMotorlampan lyser, bilen startar och fungerar men låter vid körning. \n\n15000 billigare vid snabb affär!"
+    },
+    {
+      "dealId": "1402331688",
+      "link": "https://www.blocket.se/annons/1402331688",
+      "listTime": "2025-09-11T15:42:54+02:00",
+      "originalListTime": "2025-09-11T15:42:54+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Camilla",
+        "id": "8083493"
+      },
+      "heading": "Volkswagen Golf 5-door GTI 1.8 T GTI Euro 3",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402331688/6c010c1ca21f4aa89c693709059fea3d.webp",
+      "car": {
+        "images": [
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402331688/6c010c1ca21f4aa89c693709059fea3d.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402331688/9c4dc84557314c7cb9ab8721a929d7f3.webp"
+          },
+          {
+            "height": 2250,
+            "width": 1688,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402331688/d04361cf6d584044822ad0da89bc5e5d.webp"
+          }
+        ],
+        "location": {
+          "region": "Älvsborg",
+          "municipality": "Ulricehamn",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2000,
+        "mileage": 31528,
+        "equipment": [
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Sportratt"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Dimljus fram"
+          },
+          {
+            "label": "Uppvärmda spolare"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Sportstolar"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Tonade rutor"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Stöldlarm"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Bagagerumsmatta"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Bilen är nybesiktigad. Har nya sommardäck, vinterdäcken är ok.  Säljes i befintligt skick."
+    },
+    {
+      "dealId": "1402333071",
+      "link": "https://www.blocket.se/annons/1402333071",
+      "listTime": "2025-09-12T09:19:12+02:00",
+      "originalListTime": "2025-09-12T09:19:12+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Suzuki",
+        "id": "4418428"
+      },
+      "heading": "Mercedes-Benz 240D 3.0",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402333071/2de019fa0e1e4cc4bd1ca146975da891.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1536,
+            "width": 2040,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402333071/2de019fa0e1e4cc4bd1ca146975da891.webp"
+          }
+        ],
+        "location": {
+          "region": "Norrbotten",
+          "municipality": "Gällivare",
+          "area": ""
+        },
+        "fuel": "Diesel",
+        "gearbox": "Manuell",
+        "regDate": 1976,
+        "mileage": 2,
+        "equipment": [
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Dimljus fram"
+          },
+          {
+            "label": "Svensksåld"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Compact merca med original diesel motorn på 3L.\ntrasigt bakhjuls lager, vindruta saknas, dåliga bränsle ledningar m.m"
+    },
+    {
+      "dealId": "1402330244",
+      "link": "https://www.blocket.se/annons/1402330244",
+      "listTime": "2025-09-10T21:31:47+02:00",
+      "originalListTime": "2025-09-10T21:31:47+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "rapi",
+        "id": "8425656"
+      },
+      "heading": "Skoda Fabia 1.4 Euro 4",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "car": {
+        "images": null,
+        "location": {
+          "region": "Uppsala",
+          "municipality": "Tierp",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2007,
+        "mileage": 26022,
+        "equipment": [
+          {
+            "label": "Elhissar (fram)"
+          },
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Bagagerumsmatta"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "skatad och besiktad lite röst"
+    },
+    {
+      "dealId": "1402333246",
+      "link": "https://www.blocket.se/annons/1402333246",
+      "listTime": "2025-09-12T10:50:57+02:00",
+      "originalListTime": "2025-09-12T10:50:57+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Hasse",
+        "id": "7439008"
+      },
+      "heading": "Volkswagen Golf 5-dörrar 1.6 FSI Sportline Euro 4",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402333246/5326a40404794399a79db20081eb9f86.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1570,
+            "width": 1178,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402333246/5326a40404794399a79db20081eb9f86.webp"
+          },
+          {
+            "height": 1450,
+            "width": 1088,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402333246/17e4cea79aad4a1e8ea0217fb593cffa.webp"
+          },
+          {
+            "height": 1528,
+            "width": 1146,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402333246/e8fbadd10660486c9314e63ead45d208.webp"
+          },
+          {
+            "height": 1606,
+            "width": 1205,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402333246/a3414838f8e94e5885b5e7631f160b28.webp"
+          },
+          {
+            "height": 1677,
+            "width": 1258,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402333246/9517737150044cab8f6ccbe30d1738a0.webp"
+          }
+        ],
+        "location": {
+          "region": "Stockholm",
+          "municipality": "Täby",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2005,
+        "mileage": 37678,
+        "equipment": [
+          {
+            "label": "Backstartshjälp"
+          },
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "CD-Stereo"
+          },
+          {
+            "label": "Uppvärmda spolare"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Regnsensor"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Euro NCAP 5"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "Sportstolar"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "ACC"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Gammal Nybesiktigad VW Golf med nyservad A/C Bes tom oct-26. Finns lite rost på framskärmar annars ganska fin S+V däck Går mkt bra, Priset står i Annonsen !!!!!!"
+    },
+    {
+      "dealId": "1402337347",
+      "link": "https://www.blocket.se/annons/1402337347",
+      "listTime": "2025-09-13T18:15:32+02:00",
+      "originalListTime": "2025-09-13T18:15:32+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "Johan",
+        "id": "14695750"
+      },
+      "heading": "Volvo S40 2.0T Euro 3",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402337347/b5ee60aa889e45e6a234452ebb8001ba.webp",
+      "car": {
+        "images": [
+          {
+            "height": 1689,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402337347/b5ee60aa889e45e6a234452ebb8001ba.webp"
+          },
+          {
+            "height": 1690,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402337347/04ea29bb9e9d4c36b289d1f77895a4fa.webp"
+          },
+          {
+            "height": 1576,
+            "width": 3000,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402337347/cb5be657ba2943f3a56949bf9a50cc74.webp"
+          }
+        ],
+        "location": {
+          "region": "Östergötland",
+          "municipality": "Mjölby",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2003,
+        "mileage": 22000,
+        "equipment": [
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Plant lastutrymme"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Yttertemperaturmätare"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "Centrallås"
+          },
+          {
+            "label": "Eluppvärmda sidospeglar"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "AC"
+          },
+          {
+            "label": "Servostyrning"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Airbag förare"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Lättmetallfälgar"
+          },
+          {
+            "label": "Mattor (gummi)"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "12V-uttag"
+          },
+          {
+            "label": "CD-Stereo"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "Bilen startar och går bra, men motorlampan tänds ibland. Sommar och vinterdäck på lättmetallfälg ingår.\nVindrutan och avgassystemet byttes för ett år sedan."
+    },
+    {
+      "dealId": "1402334352",
+      "link": "https://www.blocket.se/annons/1402334352",
+      "listTime": "2025-09-12T17:38:37+02:00",
+      "originalListTime": "2025-09-12T17:38:37+02:00",
+      "seller": {
+        "type": "Privat",
+        "name": "mikael grahn",
+        "id": "5465192"
+      },
+      "heading": "Saab 9-5 SportCombi 2.0 T Linear Euro 3",
+      "price": {
+        "amount": "15 000 kr",
+        "billingPeriod": "single"
+      },
+      "thumbnail": "https://i.blocketcdn.se/pictures/mobility/1402334352/0a1a2a17161b46b2a7c6356ae23d260c.webp",
+      "car": {
+        "images": [
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402334352/0a1a2a17161b46b2a7c6356ae23d260c.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402334352/79c2c4cd7ff84842a2bede74d526fe65.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402334352/8439abab5d234cef9d23a1ef295c7c45.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402334352/8ed09b98f20e4d3fb4c120d50fa862b0.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402334352/97b392b26ac84dc9b69ffdf2ffcad5fd.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402334352/dffd55643477473f91180911cd31ae6d.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402334352/174fef8d61004d47a8786c1c6e075f6b.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402334352/ff77d1fa40cf46cda5821d738d4cddef.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402334352/b606191a47a04843aed8e76f3d6f53c6.webp"
+          },
+          {
+            "height": 768,
+            "width": 1024,
+            "image": "https://i.blocketcdn.se/pictures/mobility/1402334352/4859f5c93c8e47589d8f0fa2749754ac.webp"
+          }
+        ],
+        "location": {
+          "region": "Kronoberg",
+          "municipality": "Uppvidinge",
+          "area": ""
+        },
+        "fuel": "Bensin",
+        "gearbox": "Manuell",
+        "regDate": 2004,
+        "mileage": 26000,
+        "equipment": [
+          {
+            "label": "Reservhjul"
+          },
+          {
+            "label": "ISOFIX-fästen bak"
+          },
+          {
+            "label": "Fällbara baksäten"
+          },
+          {
+            "label": "Startspärr"
+          },
+          {
+            "label": "Dragkrok"
+          },
+          {
+            "label": "Sminkspegel"
+          },
+          {
+            "label": "Läslampa"
+          },
+          {
+            "label": "ABS-bromsar"
+          },
+          {
+            "label": "Mattor (textil)"
+          },
+          {
+            "label": "Svensksåld"
+          },
+          {
+            "label": "Sidokrockgardiner"
+          },
+          {
+            "label": "Antisladd"
+          },
+          {
+            "label": "Sidoairbags"
+          },
+          {
+            "label": "Delbart baksäte"
+          },
+          {
+            "label": "Barnlås"
+          },
+          {
+            "label": "Färddator"
+          },
+          {
+            "label": "AC"
+          },
+          {
+            "label": "Sportstolar"
+          },
+          {
+            "label": "Lättmetallfälgar"
+          },
+          {
+            "label": "Elhissar (fram och bak)"
+          },
+          {
+            "label": "Sätesvärme (fram)"
+          },
+          {
+            "label": "Farthållare"
+          },
+          {
+            "label": "Rails"
+          },
+          {
+            "label": "Centrallås (fjärrstyrt)"
+          },
+          {
+            "label": "Airbag passagerare fram"
+          },
+          {
+            "label": "Airbag förare"
+          }
+        ]
+      },
+      "dcb": false,
+      "description": "bes till 30 / 4 2026 . skatt till dec 2025 . års skatt 2714 kr . ny olja och filter . bra sommar däck . tyvärr har jag inga vinterhjul . bilen startar och går bra . jag använder bilen dagligen . det är ingen ny bil , men ingen rost burk heller .  bara att starta och köra . en bra bruks bil . central lås fungerar . "
+    }
+  ],
+  "hits": 139750,
+  "pages": 3494,
+  "pitId": "",
+  "sortOrder": "Billigast",
+  "scrollId": "",
+  "searchAfter": null,
+  "legacyQueryString": "cg=1020",
+  "landingPageUrl": "",
+  "savedSearch": false,
+  "savedSearchID": "",
+  "savableSearch": false,
+  "shareUrl": "https://www.blocket.se/bilar/sok?sortOrder=Billigast&page=219",
+  "regionNeighbors": false,
+  "dcbLabel": "Reservera online"
+}
