@@ -1,0 +1,38 @@
+{
+  "Records": [
+    {
+      "eventVersion": "2.1",
+      "eventSource": "aws:s3",
+      "awsRegion": "eu-north-1",
+      "eventTime": "2025-10-24T17:26:08.793Z",
+      "eventName": "ObjectCreated:Put",
+      "userIdentity": {
+        "principalId": "A36WVDBSFMPHKV"
+      },
+      "requestParameters": {
+        "sourceIPAddress": "176.10.159.5"
+      },
+      "responseElements": {
+        "x-amz-request-id": "PD8VSWWRCMD3NXTF",
+        "x-amz-id-2": "2Xyh/rpv+0iOLedSLRB0PenaPuL7pfn4e+gR8YnoVm9EZkd/5A89L1N2JYgWhPGLnv+AH2Om61E1jjP6DNAxCmXGjcbjae9tW3YgJhQVI2A="
+      },
+      "s3": {
+        "s3SchemaVersion": "1.0",
+        "configurationId": "b2574144-d923-4d7c-a111-ad7cabd2a02c",
+        "bucket": {
+          "name": "blocked-data-15",
+          "ownerIdentity": {
+            "principalId": "A36WVDBSFMPHKV"
+          },
+          "arn": "arn:aws:s3:::blocked-data-15"
+        },
+        "object": {
+          "key": "data/train+%281%29.csv",
+          "size": 1438092,
+          "eTag": "c07348a55be259fc404cfb03f7bd5924",
+          "sequencer": "0068FBB6B0BCDC5D13"
+        }
+      }
+    }
+  ]
+}
