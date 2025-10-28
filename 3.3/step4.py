@@ -112,7 +112,7 @@ def process_json_files(step3_folder, output_csv, max_workers):
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     step3_folder = os.path.join(script_dir, 'step3')
-    output_csv = os.path.join(script_dir, 'car_features.csv')
+    output_csv = os.path.join(script_dir, 'car_features_short.csv')
     
     if not os.path.exists(step3_folder):
         print(f"Error: {step3_folder} folder not found")
