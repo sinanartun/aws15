@@ -1,0 +1,303 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'AWS Lambda function to extract car links from S3 JSON files and send to SQS'
+
+Parameters:
+  EnvironmentName:
+    Type: String
+    Default: 'dev'
+    Description: 'Environment name for resource naming'
+
+  S3BucketName:
+    Type: String
+    Default: 'blocked-data-15'
+    Description: 'Name of the S3 bucket containing car data'
+
+  S3Prefix:
+    Type: String
+    Default: 'car-data/'
+    Description: 'Prefix path for car data files in S3'
+
+Resources:
+  # SQS Queue for car links
+  CarLinksQueue:
+    Type: AWS::SQS::Queue
+    Properties:
+      QueueName: !Sub '${EnvironmentName}-car-links-queue'
+      VisibilityTimeout: 300
+      MessageRetentionPeriod: 345600  # 4 days
+      ReceiveMessageWaitTimeSeconds: 0
+
+  # IAM Role for Lambda
+  LambdaExecutionRole:
+    Type: AWS::IAM::Role
+    Properties:
+      RoleName: !Sub '${EnvironmentName}-lambda-s3-sqs-role'
+      AssumeRolePolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: lambda.amazonaws.com
+            Action: sts:AssumeRole
+      ManagedPolicyArns:
+        - arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole
+      Policies:
+        - PolicyName: S3Access
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: Allow
+                Action:
+                  - s3:GetObject
+                  - s3:ListBucket
+                Resource:
+                  - !Sub 'arn:aws:s3:::${S3BucketName}'
+                  - !Sub 'arn:aws:s3:::${S3BucketName}/*'
+        - PolicyName: SQSAccess
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: Allow
+                Action:
+                  - sqs:SendMessage
+                  - sqs:SendMessageBatch
+                Resource: !GetAtt CarLinksQueue.Arn
+
+  # Lambda Function
+  S3CarLinksExtractorFunction:
+    Type: AWS::Lambda::Function
+    Properties:
+      FunctionName: !Sub '${EnvironmentName}-s3-car-links-extractor'
+      Runtime: python3.9
+      Handler: lambda_step3.lambda_handler
+      Code:
+        ZipFile: |
+          import json
+          import boto3
+          import os
+          from botocore.exceptions import ClientError
+          from urllib.parse import unquote_plus
+
+          def extract_car_links(json_data):
+              """
+              Extract car links from JSON data
+              """
+              links = []
+
+              try:
+                  # Parse JSON if it's a string
+                  if isinstance(json_data, str):
+                      data = json.loads(json_data)
+                  else:
+                      data = json_data
+
+                  # Extract links from cars array
+                  if 'cars' in data and isinstance(data['cars'], list):
+                      for car in data['cars']:
+                          if 'link' in car and car['link']:
+                              links.append(car['link'])
+
+                  print(f"Extracted {len(links)} car links from JSON data")
+
+              except json.JSONDecodeError as e:
+                  print(f"Error parsing JSON data: {str(e)}")
+              except Exception as e:
+                  print(f"Error extracting links: {str(e)}")
+
+              return links
+
+          def send_links_to_sqs(links, queue_url, batch_size=10):
+              """
+              Send car links to SQS queue in batches
+              """
+              if not links:
+                  print("No links to send")
+                  return 0, 0
+
+              sqs = boto3.client('sqs')
+              sent_count = 0
+              failed_count = 0
+
+              # Send links in batches
+              for i in range(0, len(links), batch_size):
+                  batch = links[i:i + batch_size]
+                  entries = []
+
+                  for j, link in enumerate(batch):
+                      entries.append({
+                          'Id': str(i + j),
+                          'MessageBody': json.dumps({
+                              'link': link,
+                              'source_page': 's3_extraction',
+                              'batch_id': f"batch_{i//batch_size + 1}"
+                          })
+                      })
+
+                  try:
+                      response = sqs.send_message_batch(
+                          QueueUrl=queue_url,
+                          Entries=entries
+                      )
+
+                      # Count successful and failed messages
+                      successful = len(response.get('Successful', []))
+                      failed = len(response.get('Failed', []))
+
+                      sent_count += successful
+                      failed_count += failed
+
+                      if failed > 0:
+                          print(f"Batch {i//batch_size + 1}: {successful} sent, {failed} failed")
+
+                  except ClientError as e:
+                      print(f"Error sending batch {i//batch_size + 1}: {str(e)}")
+                      failed_count += len(batch)
+
+              return sent_count, failed_count
+
+          def read_json_from_s3(bucket, key):
+              """
+              Read JSON file from S3 bucket
+              """
+              try:
+                  s3 = boto3.client('s3')
+
+                  response = s3.get_object(Bucket=bucket, Key=key)
+                  json_data = response['Body'].read().decode('utf-8')
+
+                  print(f"Successfully read {len(json_data)} characters from s3://{bucket}/{key}")
+                  return json_data
+
+              except ClientError as e:
+                  print(f"Error reading from S3: {str(e)}")
+                  return None
+
+          def lambda_handler(event, context):
+              """
+              AWS Lambda function to read JSON files from S3, extract car links, and send to SQS
+              """
+
+              # Get environment variables
+              sqs_queue_url = os.environ.get('SQS_QUEUE_URL')
+
+              if not sqs_queue_url:
+                  return {
+                      'statusCode': 500,
+                      'body': json.dumps({
+                          'error': 'SQS_QUEUE_URL environment variable not set'
+                      })
+                  }
+
+              total_links_extracted = 0
+              total_links_sent = 0
+              total_failed_sends = 0
+              files_processed = 0
+
+              # Process each S3 event record
+              for record in event.get('Records', []):
+                  try:
+                      # Handle S3 event
+                      if record.get('eventSource') == 'aws:s3':
+                          bucket = record['s3']['bucket']['name']
+                          key = unquote_plus(record['s3']['object']['key'])
+
+                          print(f"Processing S3 object: s3://{bucket}/{key}")
+
+                          # Read JSON data from S3
+                          json_data = read_json_from_s3(bucket, key)
+
+                          if json_data is None:
+                              continue
+
+                          # Extract car links
+                          links = extract_car_links(json_data)
+                          total_links_extracted += len(links)
+
+                          # Send links to SQS
+                          sent, failed = send_links_to_sqs(links, sqs_queue_url)
+                          total_links_sent += sent
+                          total_failed_sends += failed
+
+                          files_processed += 1
+
+                          print(f"Processed {key}: {len(links)} links extracted, {sent} sent to SQS, {failed} failed")
+
+                      # Handle direct invocation with custom data
+                      elif record.get('body'):
+                          # Parse custom message body
+                          message_body = json.loads(record['body'])
+                          bucket = message_body.get('bucket', 'blocked-data-15')
+                          key = message_body.get('key', 'car-data/page_8.json')
+
+                          print(f"Processing custom request: s3://{bucket}/{key}")
+
+                          # Read JSON data from S3
+                          json_data = read_json_from_s3(bucket, key)
+
+                          if json_data is None:
+                              continue
+
+                          # Extract car links
+                          links = extract_car_links(json_data)
+                          total_links_extracted += len(links)
+
+                          # Send links to SQS
+                          sent, failed = send_links_to_sqs(links, sqs_queue_url)
+                          total_links_sent += sent
+                          total_failed_sends += failed
+
+                          files_processed += 1
+
+                          print(f"Processed {key}: {len(links)} links extracted, {sent} sent to SQS, {failed} failed")
+
+                  except json.JSONDecodeError as e:
+                      print(f"Error parsing record: {str(e)}")
+                  except Exception as e:
+                      print(f"Error processing record: {str(e)}")
+
+              # Return summary
+              result = {
+                  'statusCode': 200,
+                  'body': json.dumps({
+                      'message': f'Processed {files_processed} files, extracted {total_links_extracted} links, sent {total_links_sent} to SQS',
+                      'files_processed': files_processed,
+                      'links_extracted': total_links_extracted,
+                      'links_sent': total_links_sent,
+                      'failed_sends': total_failed_sends,
+                      'success_rate': f"{(total_links_sent/(total_links_sent + total_failed_sends))*100:.1f}%" if (total_links_sent + total_failed_sends) > 0 else "0%"
+                  })
+              }
+
+              print(f"Lambda execution completed: {result['body']}")
+              return result
+
+      Environment:
+        Variables:
+          SQS_QUEUE_URL: !Ref CarLinksQueue
+          S3_BUCKET_NAME: !Ref S3BucketName
+          S3_PREFIX: !Ref S3Prefix
+      Role: !GetAtt LambdaExecutionRole.Arn
+      Timeout: 300
+      MemorySize: 512
+      Architectures:
+        - x86_64
+
+
+Outputs:
+  CarLinksQueueURL:
+    Description: 'SQS Queue URL for car links'
+    Value: !Ref CarLinksQueue
+    Export:
+      Name: !Sub '${EnvironmentName}-CarLinksQueueURL'
+
+  LambdaFunctionName:
+    Description: 'Lambda Function Name'
+    Value: !Ref S3CarLinksExtractorFunction
+    Export:
+      Name: !Sub '${EnvironmentName}-S3CarLinksExtractorFunction'
+
+  CarLinksQueueArn:
+    Description: 'SQS Queue ARN'
+    Value: !GetAtt CarLinksQueue.Arn
+    Export:
+      Name: !Sub '${EnvironmentName}-CarLinksQueueArn'
